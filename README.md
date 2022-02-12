@@ -5,7 +5,7 @@ Are (on-chain) DAOs working right now? Are they achieving their stated goals, an
 - In what ways are DAO members participating (in measureable ways)? Does DAO member activity relate to the chosen systems?
 - How satisfied are DAO members with their own experiences in the DAO and with the health/success of the DAO overall? How do these experiences relate to the chosen systems?
 ## #BUIDLWeek deliverable
-We will collect on- and off-chain data on DAO governance to build a website displaying:
+We will collect a new dataset of on- and off-chain data on DAO governance (contextualized with some existing datasets) to build a website displaying:
 - For each DAO, 
   - Smart contract parameter values chosen
   - Quantitative activity information
@@ -55,6 +55,7 @@ We will collect on- and off-chain data on DAO governance to build a website disp
 - [ETHDenver #BUIDL guide](https://www.ethdenver.com/buidl)
 - [ETHDenver judging info](https://www.ethdenver.com/judging)
 - Existing DAO/DAO tooling aggregators:
+  - [Coopatroopah blog post](https://coopahtroopa.mirror.xyz/_EDyn4cs9tDoOxNGZLfKL7JjLo5rGkkEfRa_a-6VEWw): Listing of big DAOs (by assets). Note that we should also find big DAOS by membership where we can, since these may not necessarily have large treasuris! (E.g., service DAOs, impact DAOs, social DAOs)
   - [DeepDAO](https://deepdao.io/): Ranking of DAOs by size, some governance metrics
   - [DAOHQ](https://www.daohq.co/): Listing of off-chain locations of DAO communities
   - [Boardroom](https://www.boardroom.info/): Snapshot and other governance metrics
