@@ -34,7 +34,12 @@ We will collect a new dataset of on- and off-chain data on DAO governance (conte
 - [ ] Which specific DAOs are we getting contextual quantitative information for?
 ### Contextual qualitative data collection: **Sage**
 - [ ] What kind of contextual information are we collecting, and how (e.g., survey, what kinds of questions)? 
+- [ ]   Type form or google forms for survey
 - [ ] Which specific DAOs are we seeking contextual qualitative information for (e.g., member experiences via survey)?
+- [ ]   The outreach list will be based on which DAOs have the most robust on chain data available (Sage would like a preliminary list from Lucia for the top 50-100 DAOs to reach out to)
+- FOR REFERENCE, BOARDROOM DAO ONLY HAS 89 DAOS
+- [ ]   large membership daos that don't necessarily have large treasury (service daos, raid guild, opolis, coordinape) social daos focused on stewardship not necessarily revenue 
+
 - [ ] How are we reaching out to DAOs to get this?
 ### Blockchain data analysis: **Son + Lucia**
 - [ ] What view of the data do we display for each DAO?
