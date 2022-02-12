@@ -66,7 +66,7 @@ We will collect a new dataset of on- and off-chain data on DAO governance (conte
 - [ETHDenver #BUIDL guide](https://www.ethdenver.com/buidl)
 - [ETHDenver judging info](https://www.ethdenver.com/judging)
 - Existing DAO/DAO tooling aggregators:
-  - [Coopatroopah blog post](https://coopahtroopa.mirror.xyz/_EDyn4cs9tDoOxNGZLfKL7JjLo5rGkkEfRa_a-6VEWw): Listing of big DAOs (by assets). Note that we should also find big DAOS by membership where we can, since these may not necessarily have large treasuris! (E.g., service DAOs, impact DAOs, social DAOs)
+  - [Coopatroopah blog post](https://coopahtroopa.mirror.xyz/_EDyn4cs9tDoOxNGZLfKL7JjLo5rGkkEfRa_a-6VEWw): Listing of big DAOs (by assets). Note that we should also find big DAOS by membership where we can, since these may not necessarily have large treasuries! (E.g., service DAOs, impact DAOs, social DAOs)
   - [DeepDAO](https://deepdao.io/): Ranking of DAOs by assets, some governance metrics
   - [DAOHQ](https://www.daohq.co/): Listing of off-chain locations of DAO communities
   - [Boardroom](https://www.boardroom.info/): Snapshot and other governance metrics
