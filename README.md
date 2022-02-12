@@ -1,9 +1,15 @@
 # ethdenver-buidl (name to be updated :) )
+## Logistics
+- Sunday 02/20 @ 7am: project submission on [DoraHacks](https://hackerlink.io/hackathon/ethdenver22/) is due!
+- Sunday 02/20 @ 9:30am-1pm: project presentation
+- Sunday 02/20 @ 2pm: TBD!
+
 ## Overarching questions driving our work
 Are (on-chain) DAOs working right now? Are they achieving their stated goals, and are members enjoying the experience?
 - What governance systems are DAO members choosing to implement?
 - In what ways are DAO members participating (in measureable ways)? Does DAO member activity relate to the chosen systems?
 - How satisfied are DAO members with their own experiences in the DAO and with the health/success of the DAO overall? How do these experiences relate to the chosen systems?
+
 ## #BUIDLWeek deliverable
 We will collect a new dataset of on- and off-chain data on DAO governance (contextualized with some existing datasets) to build a website displaying:
 - For each DAO, 
