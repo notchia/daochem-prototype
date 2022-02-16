@@ -1,0 +1,41 @@
+﻿@page "/proposals"
+@inject IBackEndBoardRoomService _boardRoomService
+
+<h1>Aave Proposal Information</h1>
+
+
+@if (hasLoaded)
+{
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-lg-6 offset-lg-3 my-5">
+                <RadzenChart SeriesClick=@OnSeriesClick>
+                    <RadzenPieSeries Data="@_proposals" Title="Total Votes" CategoryProperty="Title" ValueProperty="TotalVotes" />
+                    <RadzenLegend Visible="false" />
+                </RadzenChart>
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <p>
+        Loading...
+    </p>
+}
+
+@code {
+    private bool hasLoaded = false;
+    private List<Proposal> _proposals = new List<Proposal>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        _proposals = await _boardRoomService.GetProposals("aave");
+        hasLoaded = true;
+    }
+
+    void OnSeriesClick(SeriesClickEventArgs args)
+    {
+        Console.WriteLine(args);
+    }
+}
