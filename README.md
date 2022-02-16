@@ -1,4 +1,4 @@
-# ethdenver-buidl (name to be updated :) )
+# daochem
 ## Logistics
 - Sunday 02/20 @ 7am: project submission on [DoraHacks](https://hackerlink.io/hackathon/ethdenver22/) is due!
 - Sunday 02/20 @ 9:30am-1pm: project presentation
