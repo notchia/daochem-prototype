@@ -2,6 +2,7 @@
 {
     public class Vote
     {
+        public string id { get; set; }
         public string RefId { get; set; }
         public string Protocol { get; set; }
         public string Address { get; set; }
