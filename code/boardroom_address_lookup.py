@@ -17,10 +17,8 @@ def process_blocks_as_stream(command):
         process = subprocess.Popen(command, shell=True, stdout=subprocess.PIPE)
 
         with open(file_name, "w") as f:
-            f.write('[')
             for line in process.stdout:
                 f.write(line.decode("utf-8"))
-            f.write(']')
     except Exception as e:
         print("process_blocks_as_stream: Exception raised [{}]".format(e))
 
@@ -45,7 +43,7 @@ for i, row in df_lookup.iterrows():
     cmd = chifra_blocks_cmd(row['blockNumber'])
     r = process_blocks_as_stream(cmd)
     try:
-        transactions = r[0]['data']['transactions']
+        transactions = r['data']['transactions']
 
         # Find transaction(s) with proposer as 'from' address and get corresponding 'to' address, if any
         to_addresses = [t['to'] for t in transactions if transactions['from'] == row['proposer']]
