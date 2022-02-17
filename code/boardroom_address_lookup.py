@@ -22,7 +22,9 @@ def process_blocks_as_stream(command):
     except Exception as e:
         print("process_blocks_as_stream: Exception raised [{}]".format(e))
 
-    r = json.load(file_name)
+    with open(file_name, 'r') as f:
+        r = json.load(f)
+        
     return r
 
 
