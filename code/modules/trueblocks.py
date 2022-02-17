@@ -24,7 +24,11 @@ def get_chifra_as_json(url, session=None):
     if 'json' not in url:
         url = url + JSON
 
-    r = session.get(url).json()
+    r = session.get(url)
+    try:
+        r = r.json()
+    except json.decoder.JSONDecodeError:
+        r = {}
 
     return r
 
