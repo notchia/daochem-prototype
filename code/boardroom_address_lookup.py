@@ -51,7 +51,7 @@ for i, row in df_lookup.iterrows():
         transactions = r['data'][0]['transactions']
 
         # Find transaction(s) with proposer as 'from' address and get corresponding 'to' address, if any
-        to_addresses = [t['to'] for t in transactions if t['from'] == row['proposer']]
+        to_addresses = [t['to'] for t in transactions if str(t['from']) == str(row['proposer'])]
         if len(to_addresses) > 1:
             print(f"Warning: found more than one address for {row['protocol']}")
         try:
@@ -64,6 +64,7 @@ for i, row in df_lookup.iterrows():
         to_address = None        
 
     # Add to df
+    print(to_address)
     df_lookup.at[i, 'contractAddress'] = to_address
 
     time.sleep(2)
