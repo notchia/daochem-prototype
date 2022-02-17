@@ -13,4 +13,5 @@ df_factories = pd.read_csv(os.path.join(DATADIR, 'framework_factory_contract_add
 sesh = requests.session()
 for i, row in df_factories.iterrows():
     url = chifra_list(row['factoryAddress'])
+    print(url)
     r = get_chifra_as_json(url, session=sesh)
