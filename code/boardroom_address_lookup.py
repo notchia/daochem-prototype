@@ -4,6 +4,7 @@ import pandas as pd
 
 from modules.trueblocks import chifra_blocks, get_chifra_as_json
 from config import CWD, TMPDIR, DATADIR
+
 os.chdir(CWD)
 
 # Load proposer-block pairs for each DAO found on boardroom
