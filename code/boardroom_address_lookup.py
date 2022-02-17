@@ -1,5 +1,6 @@
 import os
 import json
+import time
 import requests
 import subprocess
 import pandas as pd
@@ -62,9 +63,10 @@ for i, row in df_lookup.iterrows():
         print(f"No contract address found for {row['protocol']}")
         to_address = None        
 
-
     # Add to df
     df_lookup.at[i, 'contractAddress'] = to_address
+
+    time.sleep(2)
 
 # Save to new file
 df_lookup.drop(columns=['blockNumber', 'proposer'])
