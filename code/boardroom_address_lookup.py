@@ -26,8 +26,8 @@ def process_blocks_as_stream(command):
     return r
 
 
-def chifra_blocks_cmd(addr):
-    return 'chifra blocks {addr}'
+def chifra_blocks_cmd(block):
+    return f'chifra blocks {block}'
 
 
 # Load proposer-block pairs for each DAO found on boardroom
