@@ -37,6 +37,7 @@ df_lookup['contractAddress'] = None
 sesh = requests.Session
 for i, row in df_lookup.iterrows():
     # Get all transactions in the block
+    print(f"Processing {row['cname']}...")
     cmd = chifra_blocks_cmd(row['blockNumber'])
     r = process_blocks_as_stream(cmd)
     try:
