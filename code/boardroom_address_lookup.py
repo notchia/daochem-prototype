@@ -22,8 +22,11 @@ def process_blocks_as_stream(command):
     except Exception as e:
         print("process_blocks_as_stream: Exception raised [{}]".format(e))
 
-    with open(file_name, 'r') as f:
-        r = json.load(f)
+    try:
+        with open(file_name, 'r') as f:
+            r = json.load(f)
+    except json.decoder.JSONDecodeError:
+        r = {}
 
     return r
 
@@ -43,17 +46,22 @@ for i, row in df_lookup.iterrows():
     cmd = chifra_blocks_cmd(row['blockNumber'])
     r = process_blocks_as_stream(cmd)
 
-    transactions = r['data'][0]['transactions']
-
-    # Find transaction(s) with proposer as 'from' address and get corresponding 'to' address, if any
-    to_addresses = [t['to'] for t in transactions if t['from'] == row['proposer']]
-    if len(to_addresses) > 1:
-        print(f"Warning: found more than one address for {row['protocol']}")
     try:
-        to_address = to_addresses[0]
-    except IndexError:
+        transactions = r['data'][0]['transactions']
+
+        # Find transaction(s) with proposer as 'from' address and get corresponding 'to' address, if any
+        to_addresses = [t['to'] for t in transactions if t['from'] == row['proposer']]
+        if len(to_addresses) > 1:
+            print(f"Warning: found more than one address for {row['protocol']}")
+        try:
+            to_address = to_addresses[0]
+        except IndexError:
+            print(f"No contract address found for {row['protocol']}")
+            to_address = None
+    except KeyError:
         print(f"No contract address found for {row['protocol']}")
-        to_address = None
+        to_address = None        
+
 
     # Add to df
     df_lookup.at[i, 'contractAddress'] = to_address
