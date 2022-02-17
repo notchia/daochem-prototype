@@ -68,8 +68,12 @@ def get_chifra_as_json_with_sleep(url, label=None):
     return r_all
 
 
+def chifra_list(address):
+    """Retrieve a smart contract's ABI file
+    https://trueblocks.io/docs/chifra/accounts/#chifra-abis
+    """    
+    return TRUEBLOCKS_URL + "list=" + address
 
-#  chifra export --logs --articulate --fmt json 0x7378ad1ba8f3c8e64bbb2a04473edd35846360f1 --firstRecord 7 --maxRecords 5 --relevant >> trueblocks_export_logs_articulate_0x7378ad1ba8f3c8e64bbb2a04473edd35846360f1.json
 
 def chifra_blocks(block):
     """Retrieve a smart contract's ABI file
@@ -107,7 +111,7 @@ def chifra_export_logs(address):
     https://trueblocks.io/docs/chifra/accounts/#chifra-export
     """
 
-    return TRUEBLOCKS_URL + "export=" + address + "&logs=true" + "&articulate=true" + "emitter=true" + JSON
+    return TRUEBLOCKS_URL + "export=" + address + "&logs=true" + "&articulate=true" + "&relevant=true" + JSON
 
 if __name__ == "__main__":
     url = argh.dispatch(chifra_export)
