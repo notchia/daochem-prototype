@@ -37,7 +37,7 @@ df_lookup['contractAddress'] = None
 sesh = requests.Session
 for i, row in df_lookup.iterrows():
     # Get all transactions in the block
-    print(f"Processing {row['cname']}...")
+    print(f"Processing {row['protocol']}...")
     cmd = chifra_blocks_cmd(row['blockNumber'])
     r = process_blocks_as_stream(cmd)
     try:
@@ -46,10 +46,10 @@ for i, row in df_lookup.iterrows():
         # Find transaction(s) with proposer as 'from' address and get corresponding 'to' address, if any
         to_addresses = [t['to'] for t in transactions if transactions['from'] == row['proposer']]
         if len(to_addresses) > 1:
-            print(f"Warning: found more than one address for {row['cname']}")
+            print(f"Warning: found more than one address for {row['protocol']}")
         to_address = to_addresses[0]
     except KeyError:
-        print(f"No contract address found for {row['cname']}")
+        print(f"No contract address found for {row['protocol']}")
         to_address = None
 
     # Add to df
