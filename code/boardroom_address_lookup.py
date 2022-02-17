@@ -16,7 +16,7 @@ def process_blocks_as_stream(command):
     try:
         process = subprocess.Popen(command, shell=True, stdout=subprocess.PIPE)
 
-        with open(file_name, "a+") as f:
+        with open(file_name, "w") as f:
             f.write('[')
             for line in process.stdout:
                 f.write(line.decode("utf-8"))
