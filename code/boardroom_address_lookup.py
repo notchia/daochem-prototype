@@ -45,7 +45,7 @@ for i, row in df_lookup.iterrows():
     cmd = chifra_blocks_cmd(row['blockNumber'])
     r = process_blocks_as_stream(cmd)
     try:
-        transactions = r['data']['transactions']
+        transactions = r[0]['data']['transactions']
 
         # Find transaction(s) with proposer as 'from' address and get corresponding 'to' address, if any
         to_addresses = [t['to'] for t in transactions if transactions['from'] == row['proposer']]
