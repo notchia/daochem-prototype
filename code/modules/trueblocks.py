@@ -29,6 +29,7 @@ def get_chifra_as_json(url, session=None):
         r = r.json()
     except json.decoder.JSONDecodeError:
         r = {}
+        print(r.text)
 
     return r
 
