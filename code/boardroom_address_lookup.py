@@ -51,7 +51,7 @@ for i, row in df_lookup.iterrows():
         print(f"Warning: found more than one address for {row['protocol']}")
     try:
         to_address = to_addresses[0]
-    except KeyError:
+    except IndexError:
         print(f"No contract address found for {row['protocol']}")
         to_address = None
 
