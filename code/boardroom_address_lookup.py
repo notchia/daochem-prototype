@@ -42,13 +42,14 @@ for i, row in df_lookup.iterrows():
     print(f"Processing {row['protocol']}...")
     cmd = chifra_blocks_cmd(row['blockNumber'])
     r = process_blocks_as_stream(cmd)
-    try:
-        transactions = r['data'][0]['transactions']
 
-        # Find transaction(s) with proposer as 'from' address and get corresponding 'to' address, if any
-        to_addresses = [t['to'] for t in transactions if t['from'] == row['proposer']]
-        if len(to_addresses) > 1:
-            print(f"Warning: found more than one address for {row['protocol']}")
+    transactions = r['data'][0]['transactions']
+
+    # Find transaction(s) with proposer as 'from' address and get corresponding 'to' address, if any
+    to_addresses = [t['to'] for t in transactions if t['from'] == row['proposer']]
+    if len(to_addresses) > 1:
+        print(f"Warning: found more than one address for {row['protocol']}")
+    try:
         to_address = to_addresses[0]
     except KeyError:
         print(f"No contract address found for {row['protocol']}")
