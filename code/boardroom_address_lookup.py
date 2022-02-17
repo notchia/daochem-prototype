@@ -33,7 +33,7 @@ def process_blocks_as_stream(command):
 
 
 def chifra_blocks_cmd(block):
-    return f'chifra blocks {block}'
+    return f'chifra blocks {block} -o'
 
 
 # Load proposer-block pairs for each DAO found on boardroom
