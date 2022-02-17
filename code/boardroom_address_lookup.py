@@ -56,7 +56,7 @@ for i, row in df_lookup.iterrows():
         to_address = None
 
     # Add to df
-    df_lookup.iat[i, 'contractAddress'] = to_address
+    df_lookup.at[i, 'contractAddress'] = to_address
 
 # Save to new file
 df_lookup.drop(columns=['blockNumber', 'proposer'])
