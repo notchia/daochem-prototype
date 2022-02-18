@@ -1,7 +1,7 @@
 import os
 import time
 import json
-import requests
+import subprocess
 import argh
 import numpy as np
 from datetime import datetime
@@ -11,52 +11,66 @@ from config import TMPDIR, DATADIR, TRUEBLOCKS_URL
 RPS_LIMIT = 10 # requests per second rate limit from ArchiveNode.io
 SLEEP = 1 # second
 
-CACHE = "&cache=true"
-JSON = "&format=json"
+CACHE = "--cache"
+JSON = "--format json"
 
 
-def get_chifra_as_json(url, session=None):
-    """Return result of TrueBlocks API call as JSON"""
+def pipe_chifra_call(command, mode='w', fpath=None):
+    """Call chifra command and save to JSON file"""
+    if fpath is None:
+        fpath = os.path.join(TMPDIR, 'trueblocks.json')
 
-    if session is None:
-        session = requests.Session()
-
-    if 'json' not in url:
-        url = url + JSON
-
-    r = session.get(url)
     try:
-        r = r.json()
+        process = subprocess.Popen(command, shell=True, stdout=subprocess.PIPE)
+
+        with open(fpath, mode) as f:
+            lines = [line.decode("utf-8") for line in process.stdout]
+            if 'w' in mode:
+                f.writelines(lines)
+            elif 'a' in mode:
+                line = " ".join(lines)
+                f.write(line)
+    except Exception as e:
+        print(e)
+
+    return fpath
+
+
+def load_json(fpath):
+    """Load JSON or JSONL files"""
+    try:
+        with open(fpath, 'r') as f:
+            r = json.load(f)
     except json.decoder.JSONDecodeError:
-        r = {}
+        try:
+            r = []
+            with open(fpath, 'r') as f:
+                for line in f.readlines():
+                    r_tmp = json.load(f)
+                    r.append[r_tmp]
+        except json.decoder.JSONDecodeError:
+            r = {}
 
     return r
 
 
-def get_chifra_as_json_with_sleep(url, label=None):
-    """Batch the API call to prevent the archive node rate limit from being exceeded
-    Saves result to individual files """
+def pipe_chifra_call_with_sleep(cmd, fpath=None):
+    """Batch the API call to prevent the archive node rate limit from being exceeded"""
 
-    if label is None:
-        label = 'trueblocks'
+    if fpath is None:
+        fpath = os.path.join(TMPDIR, 'trueblocks.json')
 
-    flags = {'maxRecords': 1}
+    flags = {'max': 1}
     r = '{}'
     totalCount = 0
     batchCount = 0
     t0 = time.now().time()
-    session = requests.Session
-    fname = f"{label}_{totalCount}.json"
-    fpath = os.path.join(os.path.join(TMPDIR, fname))
-    r_all = []
     with open(fpath, 'a') as f:
         while len(r) > 0:
             # Get API response and save to file/append to list
-            flags['firstRecord'] = totalCount
-            _url = url + f"&firstRecord={flags['firstRecord']}" + f"&maxRecords={flags['maxRecords']}"
-            r = get_chifra_as_json(_url, session=session)
-            json.dump(r, f)
-            r_all.append(r)
+            flags['first'] = totalCount
+            _cmd = cmd + f"--first_record={flags['first']}" + f"--max_records={flags['max']}"
+            pipe_chifra_call(_cmd, mode='a', fpath=fpath)
 
             # Pause if RPS_LIMIT is about to be exceeded
             batchCount += 1
@@ -69,6 +83,8 @@ def get_chifra_as_json_with_sleep(url, label=None):
                 batchCount = 0
             print(batchCount)
 
+    r_all = load_json(fpath)
+
     return r_all
 
 
@@ -76,28 +92,21 @@ def chifra_list(address):
     """Retrieve a smart contract's ABI file
     https://trueblocks.io/docs/chifra/accounts/#chifra-abis
     """    
-    return TRUEBLOCKS_URL + "list=" + address
+    return " ".join["chifra", "list", JSON, CACHE, address]
 
 
 def chifra_blocks(block):
     """Retrieve a smart contract's ABI file
     https://trueblocks.io/docs/chifra/accounts/#chifra-abis
     """
-    return TRUEBLOCKS_URL + "blocks=" + block + JSON
+    return " ".join["chifra", "blocks", JSON, CACHE, block]
 
 
 def chifra_abi(address):
     """Retrieve a smart contract's ABI file
     https://trueblocks.io/docs/chifra/accounts/#chifra-abis
     """
-    return TRUEBLOCKS_URL + "abi=" + address + JSON
-
-
-def chifra_list(address):
-    """Query index of apperances and build monitors
-    https://trueblocks.io/docs/chifra/accounts/#chifra-list
-    """
-    return TRUEBLOCKS_URL + "list=" + address + JSON
+    return " ".join["chifra", "abi", JSON, address]
 
 
 def chifra_export(address):
@@ -106,7 +115,7 @@ def chifra_export(address):
     https://trueblocks.io/docs/chifra/accounts/#chifra-export
     """
 
-    return TRUEBLOCKS_URL + "export=" + address + JSON
+    return " ".join["chifra", "export", "--factory", JSON, address]
 
 
 def chifra_export_logs(address):
@@ -115,8 +124,24 @@ def chifra_export_logs(address):
     https://trueblocks.io/docs/chifra/accounts/#chifra-export
     """
 
-    return TRUEBLOCKS_URL + "export=" + address + "&logs=true" + "&articulate=true" + "&relevant=true" + JSON
+    return " ".join["chifra", "export", "--factory",  "--logs", "--articulate", "--relevant", JSON, address]
+
+
+def test_address_export(address):
+    # Create monitor
+    cmd = chifra_list(address)
+    fpath = os.path.join(TMPDIR, 'trueblocks_test_list.json')
+    pipe_chifra_call(cmd, fpath=fpath)
+    r = load_json(fpath)
+    print("successfully loaded `chifra list` results")
+
+    # Export transaction history
+    cmd = chifra_export(address)
+    fpath = os.path.join(TMPDIR, 'trueblocks_test_export.json')
+    pipe_chifra_call(cmd, fpath=fpath)  
+    r = load_json(fpath)
+    print("successfully loaded `chifra export` results")
+
 
 if __name__ == "__main__":
-    url = argh.dispatch(chifra_export)
-    r = get_chifra_as_json_with_sleep(url)
+    argh.dispatch(test_address_export)
