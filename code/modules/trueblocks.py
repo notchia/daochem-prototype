@@ -65,7 +65,9 @@ def pipe_chifra_call_with_sleep(cmd, label=None):
             time.sleep(2*SLEEP)
             pipe_chifra_call(_cmd, fpath=fpath)
             r = load_json(fpath)
-        r_all.append(get_minimal_transaction_info(r))
+        data = get_minimal_transaction_info(r)
+        print(data)
+        r_all.append(data)
 
         # Pause if RPS_LIMIT is about to be exceeded
         batchCount += 1
@@ -86,8 +88,8 @@ def get_minimal_transaction_info(transaction):
     try:
         data = transaction['data'][0]
         t = {k: v for k, v in data.items() if k in keys}
-        t['contractAddress'] = t['receipt']['contractAddress']
-    except KeyError:
+        t['contractAddress'] = data['receipt']['contractAddress']
+    except (KeyError, TypeError, IndexError):
         t = {}
     return t
 
@@ -96,6 +98,9 @@ def chifra_list(address):
     """Retrieve a smart contract's ABI file
     https://trueblocks.io/docs/chifra/accounts/#chifra-abis
     """    
+    if isinstance(address, list):
+       address = " ".join(address)
+
     return " ".join(["chifra", "list", JSON, address])
 
 
