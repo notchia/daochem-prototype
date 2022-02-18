@@ -7,6 +7,7 @@ import numpy as np
 from datetime import datetime
 
 from config import TMPDIR, DATADIR
+from utils import load_json
 
 RPS_LIMIT = 10 # requests per second rate limit from ArchiveNode.io
 SLEEP = 1 # second
@@ -36,32 +37,12 @@ def pipe_chifra_call(command, mode='w', fpath=None):
     return fpath
 
 
-def load_json(fpath):
-    """Load JSON or JSONL files"""
-    try:
-        with open(fpath, 'r') as f:
-            r = json.load(f)
-    except json.decoder.JSONDecodeError:
-        try:
-            r = []
-            with open(fpath, 'r') as f:
-                for line in f.readlines():
-                    r_tmp = json.load(f)
-                    r.append(r_tmp)
-        except json.decoder.JSONDecodeError:
-            r = {}
-
-    return r
-
-
 def pipe_chifra_call_with_sleep(cmd, label=None):
-    """Batch the API call to prevent the archive node rate limit from being exceeded"""
+    """Batch the chifra call to (hopefully) prevent the archive node rate limit from being exceeded"""
 
+    dir = TMPDIR
     if label is None:
         label = 'trueblocks'
-        dir = TMPDIR
-    else:
-        dir = DATADIR
 
     flags = {'max': 1}
     r_all = []
@@ -79,7 +60,12 @@ def pipe_chifra_call_with_sleep(cmd, label=None):
         fpath = os.path.join(dir, f"{label}_{totalCount}.json")
         pipe_chifra_call(_cmd, fpath=fpath)
         r = load_json(fpath)
-        r_all.append(r)
+        if len(r) == 0:
+            # Retry once after an extra-long sleep if there was no response
+            time.sleep(2*SLEEP)
+            pipe_chifra_call(_cmd, fpath=fpath)
+            r = load_json(fpath)
+        r_all.append(get_minimal_transaction_info(r))
 
         # Pause if RPS_LIMIT is about to be exceeded
         batchCount += 1
@@ -93,6 +79,17 @@ def pipe_chifra_call_with_sleep(cmd, label=None):
         print(batchCount)
 
     return r_all
+
+
+def get_minimal_transaction_info(transaction):
+    keys = ['hash', 'blockNumber', 'date', 'from', 'to', 'articulatedTx']
+    try:
+        data = transaction['data'][0]
+        t = {k: v for k, v in data.items() if k in keys}
+        t['contractAddress'] = t['receipt']['contractAddress']
+    except KeyError:
+        t = {}
+    return t
 
 
 def chifra_list(address):

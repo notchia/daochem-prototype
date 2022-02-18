@@ -4,7 +4,7 @@ import requests
 import pandas as pd
 
 import modules.trueblocks as tb
-from config import CWD, TMPDIR, DATADIR
+from modules.config import CWD, TMPDIR, DATADIR
 
 os.chdir(CWD)
 
