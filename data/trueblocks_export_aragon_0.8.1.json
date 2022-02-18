@@ -1,0 +1,2775 @@
+{
+    "0": {
+        "hash": "0x89da0276e6965ae0e5e3137821f70d291e69e8a3fc20c6e1c6991aa2b239d427",
+        "blockNumber": 9428558,
+        "from": "0xe04cabcb24e11620dd62bb99c396e76ceb578914",
+        "to": "0x0",
+        "date": "2020-02-06 10:33:25 UTC",
+        "contractAddress": "0x7378ad1ba8f3c8e64bbb2a04473edd35846360f1"
+    },
+    "1": {
+        "hash": "0x703ec0c5615d0eb108af058522a6fe262e9ff156594692303171f6b14e975e48",
+        "blockNumber": 9438691,
+        "from": "0x625236038836cecc532664915bd0399647e7826b",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x625236038836cecc532664915bd0399647e7826b]",
+                "_stakes": "[100000000000000000000]",
+                "_tokenName": "RADSPEC",
+                "_tokenSymbol": "RADSPEC",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-02-07 23:47:50 UTC",
+        "contractAddress": "0x0"
+    },
+    "2": {
+        "hash": "0x8c73c8dd89a9b6202f629cbad906cd91f41b3390649aea0f3144960cafdfc5f1",
+        "blockNumber": 9443390,
+        "from": "0x625236038836cecc532664915bd0399647e7826b",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x625236038836cecc532664915bd0399647e7826b]",
+                "_stakes": "[1000000000000000000000]",
+                "_tokenName": "Seeds",
+                "_tokenSymbol": "SHARE",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-02-08 17:18:04 UTC",
+        "contractAddress": "0x0"
+    },
+    "3": {
+        "hash": "0xe6676ee7409b903069a3b941a82d4f06cd463930a4f750b64a1fff98a3d745cd",
+        "blockNumber": 9457561,
+        "from": "0x1c0aa8ccd568d90d61659f060d1bfb1e6f855a20",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x1c0aa8ccd568d90d61659f060d1bfb1e6f855a20]",
+                "_stakes": "[1000000000000000000]",
+                "_tokenName": "lexDAO",
+                "_tokenSymbol": "SHARES",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-02-10 21:21:09 UTC",
+        "contractAddress": "0x0"
+    },
+    "4": {
+        "hash": "0xc4c58c8392f17f506b52def301debe1edf73d30c328ac41dcd3e643bb59f981e",
+        "blockNumber": 9547520,
+        "from": "0x3e71dabc6e05755dc3d45175deacabf6ea6b59c9",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x3e71dabc6e05755dc3d45175deacabf6ea6b59c9]",
+                "_stakes": "[100000000000000000000]",
+                "_tokenName": "Eagle's Place Membership",
+                "_tokenSymbol": "EAGLE",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-02-24 17:30:39 UTC",
+        "contractAddress": "0x0"
+    },
+    "5": {
+        "hash": "0x745626d951644efdb5960883985120b4feba7e9a41a87f6b8c61fc3160a5c24a",
+        "blockNumber": 9591917,
+        "from": "0x865c2f85c9fea1c6ac7f53de07554d68cb92ed88",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x865c2f85c9fea1c6ac7f53de07554d68cb92ed88]",
+                "_stakes": "[10000000000000000000]",
+                "_tokenName": "James Kim 2",
+                "_tokenSymbol": "JKM2",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-03-02 13:21:09 UTC",
+        "contractAddress": "0x0"
+    },
+    "6": {
+        "hash": "0x4a8e3d494e1bc45cf315074c9bb3389a9cf4ae2e262465fc77dadbdd6c215317",
+        "blockNumber": 9593597,
+        "from": "0x1e17a75616cd74f5846b1b71622aa8e10ea26cc0",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xdc870979e88f771232e77e7a95a0c52e8dc866fd, 0xc43d49a247923f1c7837c806a1eeaa1891387f75, 0x3ffd017a3608498b8d0e8a365429f2066e62a886, 0xf76604ce7e7f0134a5310bcfc9c34caeddf15873, 0x02b93655c31f4755fbd8949a95a94163759d6926, 0xca214150c6df8848b2488f33f2c35f2417265798, 0x6da09e4ffa2c10b665e5aee2fa9faa82c7bbaf74]",
+                "_stakes": "[12120678000000000000000000, 441989000000000000000000, 2000000000000000000000000, 2000000000000000000000000, 2000000000000000000000000, 1066667000000000000000000, 370666000000000000000000]",
+                "_tokenName": "DOUGH v1",
+                "_tokenSymbol": "DOUGH",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-03-02 19:30:43 UTC",
+        "contractAddress": "0x0"
+    },
+    "7": {
+        "hash": "0xd46209bc9e5c28874fbea0f016c82937bb6c6e3ef5fdfe060798dbeca8112b97",
+        "blockNumber": 9593674,
+        "from": "0x3ffd017a3608498b8d0e8a365429f2066e62a886",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xdc870979e88f771232e77e7a95a0c52e8dc866fd, 0xf76604ce7e7f0134a5310bcfc9c34caeddf15873, 0x3ffd017a3608498b8d0e8a365429f2066e62a886, 0x02b93655c31f4755fbd8949a95a94163759d6926, 0xca214150c6df8848b2488f33f2c35f2417265798, 0x6da09e4ffa2c10b665e5aee2fa9faa82c7bbaf74, 0xc43d49a247923f1c7837c806a1eeaa1891387f75]",
+                "_stakes": "[12120678000000000000000000, 2000000000000000000000000, 2000000000000000000000000, 2000000000000000000000000, 1066667000000000000000000, 370666000000000000000000, 441989000000000000000000]",
+                "_tokenName": "DOUGH Gov v1",
+                "_tokenSymbol": "DOUGH",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-03-02 19:51:54 UTC",
+        "contractAddress": "0x0"
+    },
+    "8": {
+        "hash": "0xcc0c75d906528f4a93624494008ef28730114ee1438755c316af634bc4599b3a",
+        "blockNumber": 9594768,
+        "from": "0x625236038836cecc532664915bd0399647e7826b",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x625236038836cecc532664915bd0399647e7826b, 0xa328500eab25698b8b146d195f35f5b26c93aaee, 0x5141970563c7d70a129a05f575e9e34df4bd81d8, 0xb24b54fe5a3adcb4cb3b27d31b6c7f7e9f6a73a7, 0xdf8f53b9f83e611e1154402992c6f6cb7daf246c, 0x60a9372862bd752cd02d9ae482f94cd2fe92a0bf]",
+                "_stakes": "[100000000000000000000, 100000000000000000000, 100000000000000000000, 100000000000000000000, 100000000000000000000, 100000000000000000000]",
+                "_tokenName": "Seed",
+                "_tokenSymbol": "SEED",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-03-02 23:48:20 UTC",
+        "contractAddress": "0x0"
+    },
+    "9": {
+        "hash": "0x3491e9d6476d7905577bdbf35abbc3334a839ebd7eed54d3c2e52d47b1efe8cd",
+        "blockNumber": 9598451,
+        "from": "0x5fc34db0475e309698d3fc9be9ee2442283eb509",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xe11ba2b4d45eaed5996cd0823791e0c93114882d]",
+                "_stakes": "[1000000000000000000000]",
+                "_tokenName": "Petal",
+                "_tokenSymbol": "PTL",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-03-03 13:22:50 UTC",
+        "contractAddress": "0x0"
+    },
+    "10": {
+        "hash": "0x9b34376ea06d88bd25886960c89b4e8ec79ca061f22a7912c95eaec0947de08b",
+        "blockNumber": 9605038,
+        "from": "0x865c2f85c9fea1c6ac7f53de07554d68cb92ed88",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x865c2f85c9fea1c6ac7f53de07554d68cb92ed88, 0x7a446c7fda67e5e8705ad90f2da52fc018280731, 0xc9283bbd79b016230838e57ce19e6aca12dd2c0d]",
+                "_stakes": "[10000000000000000000, 10000000000000000000, 10000000000000000000]",
+                "_tokenName": "Diamond DAO ",
+                "_tokenSymbol": "DMD",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-03-04 13:47:02 UTC",
+        "contractAddress": "0x0"
+    },
+    "11": {
+        "hash": "0x18e84d682522d7f82e613998518a8882b59639f912f1906444f61481fad0660a",
+        "blockNumber": 9606383,
+        "from": "0x72e1638bd8cd371bfb04cf665b749a0e4ae38324",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x72e1638bd8cd371bfb04cf665b749a0e4ae38324]",
+                "_stakes": "[10000000000000000000000]",
+                "_tokenName": "Dandelion Collective Token",
+                "_tokenSymbol": "DCT",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-03-04 18:36:16 UTC",
+        "contractAddress": "0x0"
+    },
+    "12": {
+        "hash": "0x6cc56526742dd8e8dc923edeea143497eddd332027bb3316c53165258243e398",
+        "blockNumber": 9610131,
+        "from": "0x8f12653d400f4a553b584d61345f985f5f5fbc3c",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x8f12653d400f4a553b584d61345f985f5f5fbc3c]",
+                "_stakes": "[10000000000000000000]",
+                "_tokenName": "XNVNX",
+                "_tokenSymbol": "XNX",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-03-05 08:22:29 UTC",
+        "contractAddress": "0x0"
+    },
+    "13": {
+        "hash": "0x78efa119008eeeb57df9fbdd768741dc00696377425ec3875f070ba04555896e",
+        "blockNumber": 9611414,
+        "from": "0x72e1638bd8cd371bfb04cf665b749a0e4ae38324",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x72e1638bd8cd371bfb04cf665b749a0e4ae38324]",
+                "_stakes": "[10000000000000000000000]",
+                "_tokenName": "Convergence Token",
+                "_tokenSymbol": "CVG",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-03-05 13:16:35 UTC",
+        "contractAddress": "0x0"
+    },
+    "14": {
+        "hash": "0x96276b18bb76ff10ad658e1998222f3f41054b8ae9abae2cc84004fd1b8c93ef",
+        "blockNumber": 9616513,
+        "from": "0x8f12653d400f4a553b584d61345f985f5f5fbc3c",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x8f12653d400f4a553b584d61345f985f5f5fbc3c]",
+                "_stakes": "[100000000000000000000000]",
+                "_tokenName": "XNVNXO",
+                "_tokenSymbol": "XNVNX",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-03-06 08:11:27 UTC",
+        "contractAddress": "0x0"
+    },
+    "15": {
+        "hash": "0x7b76b8629819494a460780179f620f92966f9add023ed170d8bf2afbc426d949",
+        "blockNumber": 9619751,
+        "from": "0x00549573013076efca649d718d3daff41e90bd5e",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x00549573013076efca649d718d3daff41e90bd5e, 0xc6d75908426e64999e42ae76bca15b0a800544d8, 0x5be90fbadb8bdec869d89ea21775efbf6225388c, 0x662f5ff1229a8d39a44d74ea3d5723ee8d205e8f, 0x04a8e82398ec045c6d6f452428b0c50b196c49a0, 0x04f771afb0bf10fe045f25f265dc89bd7208e1f8, 0xbae0df68a8cdaa3de57c2a1b66db0888748b8c5a, 0x41a2eadf1d2b2736947c9928a72a3d97e9164676, 0xbb0244b411ccb8656aeb8440d765cdecb48be3b1, 0x3c3f82e41feaeabe5320af514ccc486452ea7ffd, 0x2aa2944f4d21240677d7e5508ec5cb8adbd93fb2, 0x9ca26f499539d14ee59f131ffd1bc1e4fd021154, 0x34f5e4f244929dc55829c1a51d2c3bbbff19c858, 0x2d69190c657591a5fd026f6035b3d16d152ef3de, 0x078512e554e67289bcbd22def1b496f24896d153, 0x1acaf27936e8249a7750bc1bdd5e921855620eb6, 0x5e99752c26bb2107077010ce494963faadc68785, 0xafb0a2caeb15c61683b8059512e7ad80a52b7066]",
+                "_stakes": "[1000000000000000000000000, 1000000000000000000000000, 1000000000000000000000000, 1000000000000000000000000, 1000000000000000000000000, 1000000000000000000000000, 1000000000000000000000000, 1000000000000000000000000, 1000000000000000000000000, 1000000000000000000000000, 1000000000000000000000000, 1000000000000000000000000, 1000000000000000000000000, 1000000000000000000000000, 1000000000000000000000000, 1000000000000000000000000, 1000000000000000000000000, 1000000000000000000000000]",
+                "_tokenName": "DogAO",
+                "_tokenSymbol": "DOG",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-03-06 20:09:22 UTC",
+        "contractAddress": "0x0"
+    },
+    "16": {
+        "hash": "0x69fb87de593d2b83f448f07212aee19b458e5a2b6d58dbc0f3ae6cb806024a45",
+        "blockNumber": 9624564,
+        "from": "0xb98ec0012fba5de02ab506782862a63a7945ee9c",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xb98ec0012fba5de02ab506782862a63a7945ee9c, 0x7772b73fc7ceec54f150a50c2e8a8237b0cb2280]",
+                "_stakes": "[1000000000000000000, 1000000000000000000]",
+                "_tokenName": "DAO INFO Token",
+                "_tokenSymbol": "INFO",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-03-07 13:40:16 UTC",
+        "contractAddress": "0x0"
+    },
+    "17": {
+        "hash": "0x995407149a904a27a9ce5fbdfc858bb0f86513f53f57373b110b63ee503c481b",
+        "blockNumber": 9666352,
+        "from": "0x6fc46b64e3de0a4962d15a75129f39a9068c6f10",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x6fc46b64e3de0a4962d15a75129f39a9068c6f10]",
+                "_stakes": "[1000000000000000000]",
+                "_tokenName": "AraCartel Flying Chili",
+                "_tokenSymbol": "AFC",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-03-14 00:29:09 UTC",
+        "contractAddress": "0x0"
+    },
+    "18": {
+        "hash": "0x54a22c2b9747cc9967b1f289fc4dd62276bc8f63209e7157e44d2db6171f9ed9",
+        "blockNumber": 9703566,
+        "from": "0x01e7f16e17c50d070eb66787f25ce3be405d6038",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x6b14c1b5b745316b332e5ea8c6b69d53035bad2f, 0x23faade92f6893ece990c0156884b736ad12f5b5, 0x6ae981437818cd846cc69f1b0a6b8d48e4e2f712, 0x01e7f16e17c50d070eb66787f25ce3be405d6038, 0x21e16fd61d297d28ee42cc7505d187940640a187, 0xe44f9973e84691f9f5d8128a26d062a86035387d]",
+                "_stakes": "[100000000000000000000000, 100000000000000000000000, 50000000000000000000000, 100000000000000000000000, 100000000000000000000000, 50000000000000000000000]",
+                "_tokenName": "COVID19",
+                "_tokenSymbol": "COVID",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-03-19 17:57:46 UTC",
+        "contractAddress": "0x0"
+    },
+    "19": {
+        "hash": "0xdb88ad93df23b832cd943d0f6d780f1e5ac6f703150c8369b8dec60d5ccba86d",
+        "blockNumber": 9703596,
+        "from": "0x01e7f16e17c50d070eb66787f25ce3be405d6038",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x6b14c1b5b745316b332e5ea8c6b69d53035bad2f, 0x23faade92f6893ece990c0156884b736ad12f5b5, 0x6ae981437818cd846cc69f1b0a6b8d48e4e2f712, 0x01e7f16e17c50d070eb66787f25ce3be405d6038, 0x21e16fd61d297d28ee42cc7505d187940640a187, 0xe44f9973e84691f9f5d8128a26d062a86035387d]",
+                "_stakes": "[100000000000000000000000, 100000000000000000000000, 50000000000000000000000, 100000000000000000000000, 100000000000000000000000, 50000000000000000000000]",
+                "_tokenName": "COVID19",
+                "_tokenSymbol": "COVID",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-03-19 18:03:46 UTC",
+        "contractAddress": "0x0"
+    },
+    "20": {
+        "hash": "0x271bb4bb9ada561dda4face397ce58357ba0f72a074a76cf32481dfd5e7f5541",
+        "blockNumber": 9703937,
+        "from": "0x01e7f16e17c50d070eb66787f25ce3be405d6038",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x6ae981437818cd846cc69f1b0a6b8d48e4e2f712, 0x23faade92f6893ece990c0156884b736ad12f5b5, 0x6b14c1b5b745316b332e5ea8c6b69d53035bad2f, 0x01e7f16e17c50d070eb66787f25ce3be405d6038, 0x21e16fd61d297d28ee42cc7505d187940640a187, 0xe44f9973e84691f9f5d8128a26d062a86035387d]",
+                "_stakes": "[100000000000000000000000, 100000000000000000000000, 50000000000000000000000, 100000000000000000000000, 100000000000000000000000, 50000000000000000000000]",
+                "_tokenName": "COVID19",
+                "_tokenSymbol": "COVID",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-03-19 19:17:10 UTC",
+        "contractAddress": "0x0"
+    },
+    "21": {
+        "hash": "0xc538536d0be1356cf6834fc1cfe06b5dcae67d0c0f620a15fab92b88e8cf9fc8",
+        "blockNumber": 9705203,
+        "from": "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e, 0x865c2f85c9fea1c6ac7f53de07554d68cb92ed88, 0xcb42ac441fcade3935243ea118701f39aa004486]",
+                "_stakes": "[100000000000000000000, 100000000000000000000, 100000000000000000000]",
+                "_tokenName": "Magic Internet Coins",
+                "_tokenSymbol": "MIC",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-03-19 23:55:35 UTC",
+        "contractAddress": "0x0"
+    },
+    "22": {
+        "hash": "0xa3ed02e8f5a1e196bba13a09c29b33449c8bd324c6b780da29321fb96a89b640",
+        "blockNumber": 9722385,
+        "from": "0xc3aae58ab81663872dd36d73613eb295b167f546",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x3c914c5c25ea166f6b7c8131879b892ed2912c6a, 0xc3aae58ab81663872dd36d73613eb295b167f546]",
+                "_stakes": "[500000000000000000000, 500000000000000000000]",
+                "_tokenName": "EtherChat",
+                "_tokenSymbol": "ETHC",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-03-22 16:22:57 UTC",
+        "contractAddress": "0x0"
+    },
+    "23": {
+        "hash": "0xe11f1c6ca21b7fd3f24e2f7f03aaca7fe50b0c28752d9404da3e65a8ea15af9f",
+        "blockNumber": 9736129,
+        "from": "0x4355a2cdec902c372f404007114bbcf2c65a3eb0",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x4355a2cdec902c372f404007114bbcf2c65a3eb0, 0x89e23110442745768751e81ad8a4396c85124f8d]",
+                "_stakes": "[10000000000000000000, 1000000000000000000]",
+                "_tokenName": "Chicago Meetup Token",
+                "_tokenSymbol": "CMT",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-03-24 20:11:03 UTC",
+        "contractAddress": "0x0"
+    },
+    "24": {
+        "hash": "0xbfd7a933bd7cabd9f0ba05da6612ba1408362ec1d85caf63ac132fab1a65d5f5",
+        "blockNumber": 9737145,
+        "from": "0x4355a2cdec902c372f404007114bbcf2c65a3eb0",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x4355a2cdec902c372f404007114bbcf2c65a3eb0, 0x89e23110442745768751e81ad8a4396c85124f8d]",
+                "_stakes": "[10000000000000000000, 1000000000000000000]",
+                "_tokenName": "Chicago Dandelion Token",
+                "_tokenSymbol": "CDT",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-03-24 23:48:35 UTC",
+        "contractAddress": "0x0"
+    },
+    "25": {
+        "hash": "0xe0880b4df904a1dd749a13c0bcd403a67fd56b51ce995c2c164e94622e210c08",
+        "blockNumber": 9746159,
+        "from": "0x72e1638bd8cd371bfb04cf665b749a0e4ae38324",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x72e1638bd8cd371bfb04cf665b749a0e4ae38324]",
+                "_stakes": "[1000000000000000000000]",
+                "_tokenName": "Oysters",
+                "_tokenSymbol": "OYS",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-03-26 09:29:30 UTC",
+        "contractAddress": "0x0"
+    },
+    "26": {
+        "hash": "0x6c401acc7a624a476bae1dec5ef34b9465924bffd945e63ee09dc164468b9991",
+        "blockNumber": 9747346,
+        "from": "0xf632ce27ea72dea30d30c1a9700b6b3bceaa05cf",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xf632ce27ea72dea30d30c1a9700b6b3bceaa05cf, 0x83e57888cd55c3ea1cfbf0114c963564d81e318d, 0x4194ce73ac3fbbece8ffa878c2b5a8c90333e724, 0x0466e612137bca50e524f25ac9f7b6f826ee15b7]",
+                "_stakes": "[4000000000000000000, 4000000000000000000, 1000000000000000000, 1000000000000000000]",
+                "_tokenName": "Pidgeon",
+                "_tokenSymbol": "\ud83d\udc26",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-03-26 13:47:55 UTC",
+        "contractAddress": "0x0"
+    },
+    "27": {
+        "hash": "0x01a1030939d0a6255c0c3ed00dec4e801959b2c33fceb02b9cc1667ab46fe2bc",
+        "blockNumber": 9747377,
+        "from": "0xf632ce27ea72dea30d30c1a9700b6b3bceaa05cf",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xf632ce27ea72dea30d30c1a9700b6b3bceaa05cf, 0x83e57888cd55c3ea1cfbf0114c963564d81e318d, 0x4194ce73ac3fbbece8ffa878c2b5a8c90333e724, 0x0466e612137bca50e524f25ac9f7b6f826ee15b7]",
+                "_stakes": "[4000000000000000000, 4000000000000000000, 1000000000000000000, 1000000000000000000]",
+                "_tokenName": "Pidgeon",
+                "_tokenSymbol": "\ud83d\udc26",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-03-26 13:54:20 UTC",
+        "contractAddress": "0x0"
+    },
+    "28": {
+        "hash": "0x1bb053ed6d76e00c109d8f76d9820dd6fec9959110ab150374fef4afb5755f50",
+        "blockNumber": 9748232,
+        "from": "0x4355a2cdec902c372f404007114bbcf2c65a3eb0",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x662127bf82b794a26b7ddb6b495f6a5a20b81738]",
+                "_stakes": "[10000000000000000000]",
+                "_tokenName": "Chicago Meetup Token",
+                "_tokenSymbol": "CMT",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-03-26 17:11:47 UTC",
+        "contractAddress": "0x0"
+    },
+    "29": {
+        "hash": "0x6c8af9fa979b1183ab67359e23daa4c09b9aaf97dd0010666b986baca7739e9c",
+        "blockNumber": 9758057,
+        "from": "0x67168517c1d0835147e2bd66e40a602e9fb9cbd9",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x67168517c1d0835147e2bd66e40a602e9fb9cbd9]",
+                "_stakes": "[1000000000000000000000]",
+                "_tokenName": "Vision",
+                "_tokenSymbol": "VIS",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-03-28 05:23:39 UTC",
+        "contractAddress": "0x0"
+    },
+    "30": {
+        "hash": "0xb5a07a8bc42a5f053122fce152e4379a4dc90fbea268f5244269a9e113eec146",
+        "blockNumber": 9762002,
+        "from": "0xdf8f53b9f83e611e1154402992c6f6cb7daf246c",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xb24b54fe5a3adcb4cb3b27d31b6c7f7e9f6a73a7, 0xb18b276815d90e86ef0878e6ff57f765ef444e8d, 0xf632ce27ea72dea30d30c1a9700b6b3bceaa05cf, 0xdf8f53b9f83e611e1154402992c6f6cb7daf246c, 0x5141970563c7d70a129a05f575e9e34df4bd81d8, 0x625236038836cecc532664915bd0399647e7826b, 0x60a9372862bd752cd02d9ae482f94cd2fe92a0bf]",
+                "_stakes": "[100000000000000000000, 100000000000000000000, 100000000000000000000, 100000000000000000000, 100000000000000000000, 100000000000000000000, 100000000000000000000]",
+                "_tokenName": "PAYROLL",
+                "_tokenSymbol": "PAYROLL",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-03-28 19:49:44 UTC",
+        "contractAddress": "0x0"
+    },
+    "31": {
+        "hash": "0x27654875f761e9d9679136c475b6e898a7c1071b9a22d91e36e8239648b7595d",
+        "blockNumber": 9763987,
+        "from": "0x67168517c1d0835147e2bd66e40a602e9fb9cbd9",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xc232a874c6b88a9b1d103cd4b8358cc0200efe61, 0x67168517c1d0835147e2bd66e40a602e9fb9cbd9]",
+                "_stakes": "[1000000000000000000, 10000000000000000000000000]",
+                "_tokenName": "LUNAS",
+                "_tokenSymbol": "LUN",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-03-29 03:14:32 UTC",
+        "contractAddress": "0x0"
+    },
+    "32": {
+        "hash": "0x8ed8e38fe9b1105fd11c279cd1df8963ecdc0fa1bc4faa61196dfeeb08d6d7e0",
+        "blockNumber": 9766937,
+        "from": "0x85a363699c6864248a6ffca66e4a1a5ccf9f5567",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x85a363699c6864248a6ffca66e4a1a5ccf9f5567]",
+                "_stakes": "[1000000000000000000]",
+                "_tokenName": "Island Token",
+                "_tokenSymbol": "ISL",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-03-29 14:04:38 UTC",
+        "contractAddress": "0x0"
+    },
+    "33": {
+        "hash": "0x0dcdcc4d53876b6599a42ee716e11d6c469c70358471d51989fd144530765611",
+        "blockNumber": 9832100,
+        "from": "0x85a363699c6864248a6ffca66e4a1a5ccf9f5567",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x85a363699c6864248a6ffca66e4a1a5ccf9f5567]",
+                "_stakes": "[100000000000000000000]",
+                "_tokenName": "Citizen Science",
+                "_tokenSymbol": "CSC",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-04-08 14:34:29 UTC",
+        "contractAddress": "0x0"
+    },
+    "34": {
+        "hash": "0xf81816e672f02823b868006933543e2ce8cbb505cd698862b46c57693e000988",
+        "blockNumber": 9838565,
+        "from": "0x4b0baf31ce22fe18331ccfd27ad9074da8e64ccd",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x4b0baf31ce22fe18331ccfd27ad9074da8e64ccd]",
+                "_stakes": "[88888888888888000000000000000000]",
+                "_tokenName": "salud",
+                "_tokenSymbol": "OAB",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-04-09 14:27:43 UTC",
+        "contractAddress": "0x0"
+    },
+    "35": {
+        "hash": "0x80a07b58aed24a72ee8a3efe44224b2687dbc5deb856ae8368def00d57e8a646",
+        "blockNumber": 9845770,
+        "from": "0x6c6541cc3ec6bfc2d7b0ca48ccb0225cbbea9b59",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x6c6541cc3ec6bfc2d7b0ca48ccb0225cbbea9b59]",
+                "_stakes": "[3000000000000000000000000]",
+                "_tokenName": "ZGEN Holding Token",
+                "_tokenSymbol": "ZGEN",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-04-10 17:05:10 UTC",
+        "contractAddress": "0x0"
+    },
+    "36": {
+        "hash": "0xe0afc24a39ebfe72f97be6de1ae222b680948f7002b3dd584d9a13ae87ec2a8b",
+        "blockNumber": 9865446,
+        "from": "0x67168517c1d0835147e2bd66e40a602e9fb9cbd9",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x67168517c1d0835147e2bd66e40a602e9fb9cbd9, 0xe5bb0c2eecead281f21689bdaac921857a9ece8e]",
+                "_stakes": "[100000000000000000000, 10000000000000000000]",
+                "_tokenName": "Lunas",
+                "_tokenSymbol": "LUNAS",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-04-13 17:49:27 UTC",
+        "contractAddress": "0x0"
+    },
+    "37": {
+        "hash": "0x6fd6991abb5985f0b50371f70c30d212c50be4826ffa4536e86393eb72d8601e",
+        "blockNumber": 9878928,
+        "from": "0xd4f72e72c1ef5954ef03b200961fc04bc5c90f21",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xd4f72e72c1ef5954ef03b200961fc04bc5c90f21]",
+                "_stakes": "[10000000000000000000]",
+                "_tokenName": "FIAT",
+                "_tokenSymbol": "FIAT",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-04-15 19:32:51 UTC",
+        "contractAddress": "0x0"
+    },
+    "38": {
+        "hash": "0xea837316b292ea3821d4c898148a02d0aedb4cbae1505517104d11a37579a426",
+        "blockNumber": 9882613,
+        "from": "0xd4f72e72c1ef5954ef03b200961fc04bc5c90f21",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xd4f72e72c1ef5954ef03b200961fc04bc5c90f21]",
+                "_stakes": "[10000000000000000000]",
+                "_tokenName": "FIAT",
+                "_tokenSymbol": "FIAT",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-04-16 09:11:59 UTC",
+        "contractAddress": "0x0"
+    },
+    "39": {
+        "hash": "0x69172b70d1b44ec73b53bcbcfbf689b4b4b8612f407fb1ed6816946a92f9d0a2",
+        "blockNumber": 9884117,
+        "from": "0xd4f72e72c1ef5954ef03b200961fc04bc5c90f21",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x00000b46508882a135b4933b82a07df8f24a0068, 0xee462b190b22adfa2a10bd2b7cd0ea270165f9e7, 0xd4f72e72c1ef5954ef03b200961fc04bc5c90f21]",
+                "_stakes": "[1000000000000000000, 1000000000000000000, 10000000000000000000]",
+                "_tokenName": "FIAT",
+                "_tokenSymbol": "FIAT",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-04-16 14:42:24 UTC",
+        "contractAddress": "0x0"
+    },
+    "40": {
+        "hash": "0x4f0cc4543b809c3434315dd375dc71aef0271eaa4d001c4b27fff66a99ab00f6",
+        "blockNumber": 9884513,
+        "from": "0x6fc46b64e3de0a4962d15a75129f39a9068c6f10",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x6fc46b64e3de0a4962d15a75129f39a9068c6f10]",
+                "_stakes": "[1000000000000000000]",
+                "_tokenName": "Guilder",
+                "_tokenSymbol": "GLD",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-04-16 16:13:16 UTC",
+        "contractAddress": "0x0"
+    },
+    "41": {
+        "hash": "0xecb060bb9707a21b078cac317fb2fc5e74b1087013d53ad53d5f7c0287c7563c",
+        "blockNumber": 9884524,
+        "from": "0x6fc46b64e3de0a4962d15a75129f39a9068c6f10",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x6fc46b64e3de0a4962d15a75129f39a9068c6f10]",
+                "_stakes": "[1000000000000000000]",
+                "_tokenName": "Guilder",
+                "_tokenSymbol": "GLD",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-04-16 16:15:10 UTC",
+        "contractAddress": "0x0"
+    },
+    "42": {
+        "hash": "0x570d97057c56da0776fcbd5491b7de7cb48c1e5f3c4823da2719951557bbc4a4",
+        "blockNumber": 9890861,
+        "from": "0x67168517c1d0835147e2bd66e40a602e9fb9cbd9",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xc232a874c6b88a9b1d103cd4b8358cc0200efe61, 0xe5bb0c2eecead281f21689bdaac921857a9ece8e, 0x67168517c1d0835147e2bd66e40a602e9fb9cbd9]",
+                "_stakes": "[1000000000000000000, 10000000000000000000, 100000000000000000000]",
+                "_tokenName": "LUNAS",
+                "_tokenSymbol": "LUN",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-04-17 15:56:08 UTC",
+        "contractAddress": "0x0"
+    },
+    "43": {
+        "hash": "0x3790308bc97f4e81aba5b80167b8bd3813cec375ef6c3946db7a2e8025fe5961",
+        "blockNumber": 9899636,
+        "from": "0x390406c68a37bd5246bb16db4af820e19ffdc419",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x390406c68a37bd5246bb16db4af820e19ffdc419]",
+                "_stakes": "[50000000000000000000]",
+                "_tokenName": "MetaGame Commons Pool",
+                "_tokenSymbol": "MCP",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-04-19 00:36:01 UTC",
+        "contractAddress": "0x0"
+    },
+    "44": {
+        "hash": "0xe171495513a83ea429bfc9ac5a44b02ab597e4a75692d0a877a0cc949c169276",
+        "blockNumber": 9900199,
+        "from": "0x6fc46b64e3de0a4962d15a75129f39a9068c6f10",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x6fc46b64e3de0a4962d15a75129f39a9068c6f10]",
+                "_stakes": "[100000000000000000000]",
+                "_tokenName": "Just DAO It",
+                "_tokenSymbol": "JDI",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-04-19 02:47:16 UTC",
+        "contractAddress": "0x0"
+    },
+    "45": {
+        "hash": "0x756cfe054a2cd8f326aecec74d7d10a177b9907c6c29eef12cde356edf01606d",
+        "blockNumber": 9904474,
+        "from": "0xc11f958740d922e38915e4f04629401c62bd56d8",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xc11f958740d922e38915e4f04629401c62bd56d8, 0x034e529031d045dd66f4275323d0ce5b8a0cc2af]",
+                "_stakes": "[100000000000000000000, 1000000000000000000]",
+                "_tokenName": "Help",
+                "_tokenSymbol": "HELP",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-04-19 18:30:37 UTC",
+        "contractAddress": "0x0"
+    },
+    "46": {
+        "hash": "0xab7747394547ce3be9339d16d9c639706286a83e04149212dd8cbf59de779718",
+        "blockNumber": 9922429,
+        "from": "0x3a5a935b58901c25234fc481574bb7fde5135393",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x3a5a935b58901c25234fc481574bb7fde5135393]",
+                "_stakes": "[1000000000000000000]",
+                "_tokenName": "FIAT",
+                "_tokenSymbol": "FIAT",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-04-22 13:10:08 UTC",
+        "contractAddress": "0x0"
+    },
+    "47": {
+        "hash": "0x17d5f9adf6da71dbf6bede455a682c47934ef63067dd64f4b0244f278614cefb",
+        "blockNumber": 9923571,
+        "from": "0xf05f5d4ad1b3fd5ad57ba5ca386d0db2e8b317aa",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xf05f5d4ad1b3fd5ad57ba5ca386d0db2e8b317aa, 0xc7486e7589252a9332ec72d86c39df0a3ade6814]",
+                "_stakes": "[300000000000000000000, 300000000000000000000]",
+                "_tokenName": "DAOversify",
+                "_tokenSymbol": "DSFY",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-04-22 17:26:29 UTC",
+        "contractAddress": "0x0"
+    },
+    "48": {
+        "hash": "0x5194bd7eb28747b6790319bde0acee89c293f8c880c05849418c3fd7adf06f36",
+        "blockNumber": 9924775,
+        "from": "0xfd069b9326bdca2624714b6b238763d02cef5f24",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xfd069b9326bdca2624714b6b238763d02cef5f24]",
+                "_stakes": "[1000000000000000000]",
+                "_tokenName": "test",
+                "_tokenSymbol": "ETH",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-04-22 21:50:45 UTC",
+        "contractAddress": "0x0"
+    },
+    "49": {
+        "hash": "0xd765b4b7c688f65716425f6ed78098fc77c433653e02ca7fb82e024a11c2ea44",
+        "blockNumber": 9925768,
+        "from": "0x3a5a935b58901c25234fc481574bb7fde5135393",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x3a5a935b58901c25234fc481574bb7fde5135393]",
+                "_stakes": "[1000000000000000000]",
+                "_tokenName": "tBTC Proxy",
+                "_tokenSymbol": "TBTC",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-04-23 01:26:00 UTC",
+        "contractAddress": "0x0"
+    },
+    "50": {
+        "hash": "0x0cc4893da4b64d2a7ecfa473fef8fb840ddb5a027f26b73edcf3a1e641351acf",
+        "blockNumber": 9936327,
+        "from": "0xc11f958740d922e38915e4f04629401c62bd56d8",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xc11f958740d922e38915e4f04629401c62bd56d8, 0x034e529031d045dd66f4275323d0ce5b8a0cc2af]",
+                "_stakes": "[100000000000000000000, 1000000000000000000]",
+                "_tokenName": "AraHelp",
+                "_tokenSymbol": "ARAHELP",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-04-24 16:37:47 UTC",
+        "contractAddress": "0x0"
+    },
+    "51": {
+        "hash": "0x18ab56ff5b7b9ff264847ba3ffe1d78cc1bbfda9678711ba5c8affb235a35c9a",
+        "blockNumber": 9950383,
+        "from": "0x75b98710d5995ab9992f02492b7568b43133161d",
+        "to": "0x0f10f27fbe3622e7d4bdf1f141c6e50ed8845af6",
+        "articulatedTx": {
+            "name": "execute",
+            "inputs": {
+                "_data": "0xb4755d3200000000000000000000000000000000000000000000000000000000000000c000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000140000000000000000000000000000000000000000000000000000000000000018000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000b4a75726f7220546f6b656e00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000044a5552590000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000f10f27fbe3622e7d4bdf1f141c6e50ed8845af6000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000054b40b1f852bda00000",
+                "_to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+                "_value": "0"
+            },
+            "outputs": {
+                "_r": ""
+            }
+        },
+        "date": "2020-04-26 20:57:59 UTC",
+        "contractAddress": "0x0"
+    },
+    "52": {
+        "hash": "0x6f634e7f49f72479d275a889ab577407c9a6ee2cb3e6bf941f6fc9d090f2f7b0",
+        "blockNumber": 9959992,
+        "from": "0x75b98710d5995ab9992f02492b7568b43133161d",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x0f10f27fbe3622e7d4bdf1f141c6e50ed8845af6, 0x75b98710d5995ab9992f02492b7568b43133161d]",
+                "_stakes": "[500000000000000000000, 150000000000000000000]",
+                "_tokenName": "Finance Lab",
+                "_tokenSymbol": "LAB",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-04-28 08:52:12 UTC",
+        "contractAddress": "0x0"
+    },
+    "53": {
+        "hash": "0xafa199a95110d472778146daf5cdfccbbbab8f65643878b502362340e3c816c7",
+        "blockNumber": 9973737,
+        "from": "0xbefcba645f7a8aec8c94051a2440b6dad633966d",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xbefcba645f7a8aec8c94051a2440b6dad633966d]",
+                "_stakes": "[1000000000000000000000]",
+                "_tokenName": "Maku Interest Token",
+                "_tokenSymbol": "MAKU",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-04-30 11:45:32 UTC",
+        "contractAddress": "0x0"
+    },
+    "54": {
+        "hash": "0xff4434640c4293aeae46b599c9d081b57bf2d10c23109f85a15cc9baa0cd3606",
+        "blockNumber": 10007456,
+        "from": "0x6aced29ff160fd127eac34cf61cf8e072ce888be",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x6aced29ff160fd127eac34cf61cf8e072ce888be]",
+                "_stakes": "[1000000000000000000000]",
+                "_tokenName": "CrowdFounder Unit",
+                "_tokenSymbol": "CFU",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-05-05 17:06:20 UTC",
+        "contractAddress": "0x0"
+    },
+    "55": {
+        "hash": "0x3bc1429ee680d18b1880a9394064157d18372ba7025b474cceb14e41b66d4db1",
+        "blockNumber": 10007544,
+        "from": "0x6aced29ff160fd127eac34cf61cf8e072ce888be",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x6aced29ff160fd127eac34cf61cf8e072ce888be]",
+                "_stakes": "[1000000000000000000000]",
+                "_tokenName": "CrowdFounder Unit",
+                "_tokenSymbol": "CFU",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-05-05 17:29:21 UTC",
+        "contractAddress": "0x0"
+    },
+    "56": {
+        "hash": "0xec41e5672894fe1132eeb35b263039767c2beff741341b2fb4da871d4c92034b",
+        "blockNumber": 10046417,
+        "from": "0x9755876c9f378d6bbe25a16c3d7938d2b8f2973c",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x9755876c9f378d6bbe25a16c3d7938d2b8f2973c]",
+                "_stakes": "[1000000000000000000]",
+                "_tokenName": "SHIELD GOV",
+                "_tokenSymbol": "SHLDGOV",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-05-11 18:08:02 UTC",
+        "contractAddress": "0x0"
+    },
+    "57": {
+        "hash": "0xc88dfe766ab200e4df21fafafef2194d472689dc340ed00c9f937407a209c136",
+        "blockNumber": 10046542,
+        "from": "0x9755876c9f378d6bbe25a16c3d7938d2b8f2973c",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x9755876c9f378d6bbe25a16c3d7938d2b8f2973c]",
+                "_stakes": "[1000000000000000000]",
+                "_tokenName": "SHIELD GOV",
+                "_tokenSymbol": "SHIELDGOV",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-05-11 18:35:47 UTC",
+        "contractAddress": "0x0"
+    },
+    "58": {
+        "hash": "0xa86919a4db4d2a04446e298d51eed61bd06ace440fb9f3be9503ae91a958c60f",
+        "blockNumber": 10046611,
+        "from": "0x9755876c9f378d6bbe25a16c3d7938d2b8f2973c",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x9755876c9f378d6bbe25a16c3d7938d2b8f2973c]",
+                "_stakes": "[1000000000000000000]",
+                "_tokenName": "SHIELD GOV",
+                "_tokenSymbol": "SHIELDGOV",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-05-11 18:49:50 UTC",
+        "contractAddress": "0x0"
+    },
+    "59": {
+        "hash": "0xc799fe1279f7a78bff72e6f3a6760cbc1edbdee7a7a7f602567f8ccf37ca4d0c",
+        "blockNumber": 10046624,
+        "from": "0x9755876c9f378d6bbe25a16c3d7938d2b8f2973c",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x9755876c9f378d6bbe25a16c3d7938d2b8f2973c]",
+                "_stakes": "[1000000000000000000]",
+                "_tokenName": "SHIELD GOV",
+                "_tokenSymbol": "SHIELDGOV",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-05-11 18:52:29 UTC",
+        "contractAddress": "0x0"
+    },
+    "60": {
+        "hash": "0x2c7c505edfc2080aa886f189a9e0dc8a43919a396df813a63fbae2e2776f8840",
+        "blockNumber": 10047100,
+        "from": "0x49cc6efd844e2a660df07e052fed9b6dfc7b2ff5",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x49cc6efd844e2a660df07e052fed9b6dfc7b2ff5, 0x9755876c9f378d6bbe25a16c3d7938d2b8f2973c]",
+                "_stakes": "[1000000000000000000, 1000000000000000000]",
+                "_tokenName": "SHIELD GOVERNANCE",
+                "_tokenSymbol": "GOSH",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-05-11 20:35:23 UTC",
+        "contractAddress": "0x0"
+    },
+    "61": {
+        "hash": "0xb81d7dfd0f25f43e40befb24d7cb8ebcf4a70c498a5430054b23a225bde866f5",
+        "blockNumber": 10090901,
+        "from": "0xae91cb00c413a8d6089ba0bc8bf66fba47a912ea",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xae91cb00c413a8d6089ba0bc8bf66fba47a912ea]",
+                "_stakes": "[10000000000000000000000000]",
+                "_tokenName": "LiveTheLifeTV",
+                "_tokenSymbol": "LTL",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-05-18 15:53:30 UTC",
+        "contractAddress": "0x0"
+    },
+    "62": {
+        "hash": "0xf6dddff10173558195bedbe9ca89fed7c445d2f32606acc43832df858a85d10d",
+        "blockNumber": 10090907,
+        "from": "0xae91cb00c413a8d6089ba0bc8bf66fba47a912ea",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xae91cb00c413a8d6089ba0bc8bf66fba47a912ea]",
+                "_stakes": "[10000000000000000000000000]",
+                "_tokenName": "LiveTheLifeTV",
+                "_tokenSymbol": "LTL",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-05-18 15:54:39 UTC",
+        "contractAddress": "0x0"
+    },
+    "63": {
+        "hash": "0xa1cb1c60c1df50280c8d381ad5446dcb992fa22af14891be3026e4d46b6ab527",
+        "blockNumber": 10090911,
+        "from": "0xae91cb00c413a8d6089ba0bc8bf66fba47a912ea",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xae91cb00c413a8d6089ba0bc8bf66fba47a912ea]",
+                "_stakes": "[7600000000000000000000000]",
+                "_tokenName": "LiveTheLifeTV",
+                "_tokenSymbol": "LTL",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-05-18 15:55:28 UTC",
+        "contractAddress": "0x0"
+    },
+    "64": {
+        "hash": "0x0a569c8f3d39c7a515d56b6d93b9d0eff212584b5f4eb199c74a36643b6b44de",
+        "blockNumber": 10102727,
+        "from": "0xe9a08979220fca9870e8ba83da97999e667dbb90",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xe9a08979220fca9870e8ba83da97999e667dbb90, 0x7e5c167735635adbf1e4d75ed6b8b71dac7e56cb]",
+                "_stakes": "[100000000000000000000, 100000000000000000000]",
+                "_tokenName": "GLaT",
+                "_tokenSymbol": "GLT",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-05-20 12:06:10 UTC",
+        "contractAddress": "0x0"
+    },
+    "65": {
+        "hash": "0x5e42b5e71b725a3309b398bb2f63ccdfcc1bd0e4285e44c1be20f8ce4431cf09",
+        "blockNumber": 10103792,
+        "from": "0x30790533232b3bbe654a148eb1d44048255037c4",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x00000b46508882a135b4933b82a07df8f24a0068, 0x2734095379244c08fcb305ddc412c069e619a3c5, 0x30790533232b3bbe654a148eb1d44048255037c4]",
+                "_stakes": "[1000000000000000000, 1000000000000000000, 1000000000000000000]",
+                "_tokenName": "FIAT",
+                "_tokenSymbol": "FIAT",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-05-20 16:13:51 UTC",
+        "contractAddress": "0x0"
+    },
+    "66": {
+        "hash": "0x0c9f37ce8376719c8753a29d778520fdb3452256fab58aa3b67389f2aff5c49f",
+        "blockNumber": 10141609,
+        "from": "0xc247fe247fa459ffa26150dba041842a56407a9b",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xc247fe247fa459ffa26150dba041842a56407a9b]",
+                "_stakes": "[1000000000000000000]",
+                "_tokenName": "Qival",
+                "_tokenSymbol": "QVL",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-05-26 13:28:46 UTC",
+        "contractAddress": "0x0"
+    },
+    "67": {
+        "hash": "0xf6063ecc5a04efecdb4dcd4e886e71bbca8fabcf0e9a05d322e391429edda43d",
+        "blockNumber": 10152938,
+        "from": "0x297bf847dcb01f3e870515628b36eabad491e5e8",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x297bf847dcb01f3e870515628b36eabad491e5e8]",
+                "_stakes": "[9000000000000000000]",
+                "_tokenName": "Pussy",
+                "_tokenSymbol": "CAT",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-05-28 07:43:13 UTC",
+        "contractAddress": "0x0"
+    },
+    "68": {
+        "hash": "0x486edd8929731e6b93d75d6b52dd2e89fd14c605c03c822e344a57ac74d75c30",
+        "blockNumber": 10178536,
+        "from": "0xa291017d892e62b5ed74cea8d38d9cb00a583343",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xa291017d892e62b5ed74cea8d38d9cb00a583343]",
+                "_stakes": "[100000000000000000000]",
+                "_tokenName": "DeFi DAO Membership",
+                "_tokenSymbol": "DEFI",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-06-01 07:08:19 UTC",
+        "contractAddress": "0x0"
+    },
+    "69": {
+        "hash": "0xcf3f6e5f7f7c54d0d72c260155b9c6b81c5b95e2622a3ea81f3796f18e714732",
+        "blockNumber": 10179092,
+        "from": "0xc247fe247fa459ffa26150dba041842a56407a9b",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xc247fe247fa459ffa26150dba041842a56407a9b]",
+                "_stakes": "[1000000000000000000]",
+                "_tokenName": "Qival",
+                "_tokenSymbol": "QVL",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-06-01 09:09:49 UTC",
+        "contractAddress": "0x0"
+    },
+    "70": {
+        "hash": "0x238a59779d4983f032423126cd19fd025dfcb6e669fd695403e40f40592294b7",
+        "blockNumber": 10194888,
+        "from": "0x3917d5db38879bab97cb5b65ec5562f4cf648196",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x3917d5db38879bab97cb5b65ec5562f4cf648196]",
+                "_stakes": "[100000000000000000000]",
+                "_tokenName": "Digital Marketplace",
+                "_tokenSymbol": "DIMA",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-06-03 19:59:07 UTC",
+        "contractAddress": "0x0"
+    },
+    "71": {
+        "hash": "0x037bd3de9ffc5fb48ee25fe1b39097f055ac0484087e8ca2d5cde2e59ced7c36",
+        "blockNumber": 10226455,
+        "from": "0xb1c5fd89161cab4eecdefb2767a564c9e9a99b0a",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x392805fd4a2044131178b2a88e149a837890a06f, 0xb1c5fd89161cab4eecdefb2767a564c9e9a99b0a]",
+                "_stakes": "[1000000000000000000, 1000000000000000000]",
+                "_tokenName": "Hermit",
+                "_tokenSymbol": "HER",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-06-08 17:22:53 UTC",
+        "contractAddress": "0x0"
+    },
+    "72": {
+        "hash": "0xcd11ec4b61c457fc9f42bb7e786b31c32f82b59ddd92d5ebed73fd10d190fef0",
+        "blockNumber": 10232385,
+        "from": "0x67168517c1d0835147e2bd66e40a602e9fb9cbd9",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x67168517c1d0835147e2bd66e40a602e9fb9cbd9, 0xc232a874c6b88a9b1d103cd4b8358cc0200efe61, 0x7625b563f1cc26780be4d89903cb2ff48acdda28]",
+                "_stakes": "[10000000000000000000, 1000000000000000000, 10000000000000000000]",
+                "_tokenName": "Vision",
+                "_tokenSymbol": "VIS",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-06-09 15:43:37 UTC",
+        "contractAddress": "0x0"
+    },
+    "73": {
+        "hash": "0xdb151a1130fd1a50cacd733e4300cbf183a036890e178643a3734e344245aa10",
+        "blockNumber": 10310150,
+        "from": "0x1e17a75616cd74f5846b1b71622aa8e10ea26cc0",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x1e17a75616cd74f5846b1b71622aa8e10ea26cc0]",
+                "_stakes": "[100000000000000000000]",
+                "_tokenName": "\ud83d\udca9",
+                "_tokenSymbol": "SHIT\ud83d\udca9",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-06-21 16:22:22 UTC",
+        "contractAddress": "0x0"
+    },
+    "74": {
+        "hash": "0xab669f5f7c4bf30890c13924326138f7464528297f9e279fb5101f887c41d702",
+        "blockNumber": 10310349,
+        "from": "0xd441b7e82e11d66b981f879fb1d4720876ec941b",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xd441b7e82e11d66b981f879fb1d4720876ec941b, 0x16991fc50c3bf63931d39b4bc3d53377372ee579, 0x35e5f76c66a1bbbac3642a5db7141d6b599478c2]",
+                "_stakes": "[1000000000000000000, 1000000000000000000, 1000000000000000000]",
+                "_tokenName": "Blequity",
+                "_tokenSymbol": "BLQ",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-06-21 17:10:31 UTC",
+        "contractAddress": "0x0"
+    },
+    "75": {
+        "hash": "0x59b4d716cd3f16e3cf863b7b32626ea51bfa8726d98d9996e1f5fb863eea3d41",
+        "blockNumber": 10310396,
+        "from": "0xd441b7e82e11d66b981f879fb1d4720876ec941b",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xd441b7e82e11d66b981f879fb1d4720876ec941b, 0x35e5f76c66a1bbbac3642a5db7141d6b599478c2, 0x16991fc50c3bf63931d39b4bc3d53377372ee579]",
+                "_stakes": "[1000000000000000000, 1000000000000000000, 1000000000000000000]",
+                "_tokenName": "Blequity",
+                "_tokenSymbol": "BLQ",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-06-21 17:23:05 UTC",
+        "contractAddress": "0x0"
+    },
+    "76": {
+        "hash": "0x1790bb89711653de0266f329f0853780f77b250aa6e8e7d7e1dc8321b2f4536d",
+        "blockNumber": 10345584,
+        "from": "0xe635efb8b9aa37f74994d194e72c4f78518b2033",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xe635efb8b9aa37f74994d194e72c4f78518b2033]",
+                "_stakes": "[1000000000000000000]",
+                "_tokenName": "Test Farmer",
+                "_tokenSymbol": "TEST",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-06-27 03:54:13 UTC",
+        "contractAddress": "0x0"
+    },
+    "77": {
+        "hash": "0x54010b5427e81ad5aa33a4ddb6a6bbf8a3509c22af82cf959bbc26947a37ba02",
+        "blockNumber": 10345662,
+        "from": "0xe635efb8b9aa37f74994d194e72c4f78518b2033",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xe635efb8b9aa37f74994d194e72c4f78518b2033]",
+                "_stakes": "[1000000000000000000]",
+                "_tokenName": "TESTFARMERCAPITAL",
+                "_tokenSymbol": "FARMER",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-06-27 04:12:28 UTC",
+        "contractAddress": "0x0"
+    },
+    "78": {
+        "hash": "0xca2acbea5e80fb7c15efb0485d29f71bbf1fb89dc2cf953b91e4cfb1d04c9d38",
+        "blockNumber": 10357506,
+        "from": "0x9533158bb9b0abb178a9dc7f6f0168e84126688f",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x9533158bb9b0abb178a9dc7f6f0168e84126688f]",
+                "_stakes": "[650000000000000000000]",
+                "_tokenName": "Mansa Reserve Rights",
+                "_tokenSymbol": "MRR",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-06-29 00:21:38 UTC",
+        "contractAddress": "0x0"
+    },
+    "79": {
+        "hash": "0xf4279c10d8b45a868796a7864697d1ac863d6794e100797843c89263a17dd9cf",
+        "blockNumber": 10370369,
+        "from": "0x01fbc98e1d915d565a54ac5b85d24df4bf1eae1d",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x01fbc98e1d915d565a54ac5b85d24df4bf1eae1d, 0x8340cf0aae18ab3f457e9b918c316294abbd07d2, 0x699b17e23b2c3682e0f13a84e39ceb92b692aa6c]",
+                "_stakes": "[50000000000000000000, 50000000000000000000, 50000000000000000000]",
+                "_tokenName": "Crypt Aid Token",
+                "_tokenSymbol": "CAT",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-07-01 00:19:51 UTC",
+        "contractAddress": "0x0"
+    },
+    "80": {
+        "hash": "0x33cfb769eaf38e9aa9a74f928b4534afc2955d81b0ec13bb905ffdef24ce31c2",
+        "blockNumber": 10392873,
+        "from": "0x5ec4ed7727bebfd96a0788560360fe0ac812f45d",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x5ec4ed7727bebfd96a0788560360fe0ac812f45d]",
+                "_stakes": "[1000000000000000000]",
+                "_tokenName": "huku",
+                "_tokenSymbol": "HKU",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-07-04 12:10:44 UTC",
+        "contractAddress": "0x0"
+    },
+    "81": {
+        "hash": "0xeb3c96a8234a129426800dc241ef74dd068ba2a9c40fcafcb225833b0d7409b3",
+        "blockNumber": 10395799,
+        "from": "0x6aa7d6937404d182022182ab61d59cd9146e9bb5",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x6aa7d6937404d182022182ab61d59cd9146e9bb5]",
+                "_stakes": "[1000000000000000000000000]",
+                "_tokenName": "M Board",
+                "_tokenSymbol": "MB",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-07-04 23:06:59 UTC",
+        "contractAddress": "0x0"
+    },
+    "82": {
+        "hash": "0x308a2328be84d35a9a2cd391220b01925814d641f8fb5ee58c5fb6ddc5e4c690",
+        "blockNumber": 10432723,
+        "from": "0xe5818d70a9b5aed2bfde4e41fbcb07dd80f8fc84",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xe5818d70a9b5aed2bfde4e41fbcb07dd80f8fc84]",
+                "_stakes": "[30000000000000000000000]",
+                "_tokenName": "Berezka Governance Token",
+                "_tokenSymbol": "BEGO",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-07-10 15:58:34 UTC",
+        "contractAddress": "0x0"
+    },
+    "83": {
+        "hash": "0x9f3282fb3c3c4bfc79c699367722257bf1168071565732a4b07f6ceeb871c059",
+        "blockNumber": 10434867,
+        "from": "0xd5f833d0324488dc499c69046a94a39e0ed2e162",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xd5f833d0324488dc499c69046a94a39e0ed2e162, 0xb87509fedbe40d5a71cbd30c6e31c7fb8445af3f]",
+                "_stakes": "[1000000000000000000000000, 1000000000000000000000000]",
+                "_tokenName": "AlphaGodModeToken",
+                "_tokenSymbol": "AGMT",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-07-11 00:12:43 UTC",
+        "contractAddress": "0x0"
+    },
+    "84": {
+        "hash": "0xae197f5ddf9447fad562207e4d3d35d31c290d04039bcbb5f8b9f5f54d58c5bb",
+        "blockNumber": 10472919,
+        "from": "0x88ca22a554150c79147321126d8fd4778f13a60c",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x88ca22a554150c79147321126d8fd4778f13a60c, 0x735dde08a1d36939da610ce5b7b9688db97234bf, 0xdaaf6cae0c1e14a4d2d360f114ab60c13cdf3d51, 0x8cfbdd9cc91353f9a9fe9816197ae6d88fc4cb32, 0x6cda6bc53a2fb01615a43878d31ef16163716d9e, 0x7baefd3ef84970077ffb5d8d7aa70ea55dba97a8]",
+                "_stakes": "[99100000000000000000000, 100000000000000000000, 100000000000000000000, 100000000000000000000, 100000000000000000000, 500000000000000000000]",
+                "_tokenName": "NEW MOON",
+                "_tokenSymbol": "NEMO",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-07-16 21:21:35 UTC",
+        "contractAddress": "0x0"
+    },
+    "85": {
+        "hash": "0x717bcd21011e0b075d3f607a2afc8288a2e6dc4aeb095812aac133ff9c1a65e5",
+        "blockNumber": 10475321,
+        "from": "0x545b8761179d08e15ce4788bb028f2a4a8eff624",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x42ecfc3b1e2b76b8aaed9bd097ba9a316c38e1ea]",
+                "_stakes": "[100000000000000000000000000]",
+                "_tokenName": "Exnetwork Token",
+                "_tokenSymbol": "ENT",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-07-17 06:27:37 UTC",
+        "contractAddress": "0x0"
+    },
+    "86": {
+        "hash": "0x4aef5abc74d5f69411f975881c0c4692a692107837c901e211e0e4afb4832849",
+        "blockNumber": 10550104,
+        "from": "0x0df876b80be996aea103e2cee57ff8ba037f74b7",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x0df876b80be996aea103e2cee57ff8ba037f74b7]",
+                "_stakes": "[1000000000000000000]",
+                "_tokenName": "Distortion Token",
+                "_tokenSymbol": "DIST",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-07-28 20:13:23 UTC",
+        "contractAddress": "0x0"
+    },
+    "87": {
+        "hash": "0x95eba95ecedd454115ba9b1a26479edbe99382de0653c144cb9d3cde9f0bae22",
+        "blockNumber": 10550413,
+        "from": "0xcdcfed2e056598a431569deed12c48db9d45a07f",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xcdcfed2e056598a431569deed12c48db9d45a07f]",
+                "_stakes": "[100000000000000000000000]",
+                "_tokenName": "Sage Network Token",
+                "_tokenSymbol": "SNT",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-07-28 21:22:30 UTC",
+        "contractAddress": "0x0"
+    },
+    "88": {
+        "hash": "0x339e22f0cf2fca342c6389111d44341f1f4403ed539049d5580106ee426ffe4a",
+        "blockNumber": 10596776,
+        "from": "0x30790533232b3bbe654a148eb1d44048255037c4",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x30790533232b3bbe654a148eb1d44048255037c4]",
+                "_stakes": "[1000000000000000000]",
+                "_tokenName": "Fiat Token",
+                "_tokenSymbol": "FIAT",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-08-05 01:25:30 UTC",
+        "contractAddress": "0x0"
+    },
+    "89": {
+        "hash": "0xca9a249fd694ae35509ce1828bcd38130a2bb7e6b500ce92445e41951ca32cb7",
+        "blockNumber": 10597793,
+        "from": "0x30790533232b3bbe654a148eb1d44048255037c4",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x30790533232b3bbe654a148eb1d44048255037c4]",
+                "_stakes": "[1000000000000000000]",
+                "_tokenName": "Fiat Token",
+                "_tokenSymbol": "FIAT",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-08-05 05:07:59 UTC",
+        "contractAddress": "0x0"
+    },
+    "90": {
+        "hash": "0x835c92abc44e5ed45696370e2b17168fc675b39b7e7b83a6a828ab68e47609ff",
+        "blockNumber": 10621821,
+        "from": "0x723ce1691eb38384fe4111a8694bf85c6218a09a",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x723ce1691eb38384fe4111a8694bf85c6218a09a, 0x03b513b7a591b7dea9fe61e8ef14246d53c1426b, 0x265cc558072a25dac8917833188b2c37686f3b4c, 0xf68eaebf7795d71c2144d8466e03b85fe3c88069]",
+                "_stakes": "[25000000000000000000, 25000000000000000000, 25000000000000000000, 25000000000000000000]",
+                "_tokenName": "Aegis",
+                "_tokenSymbol": "AEGIS",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-08-08 22:18:56 UTC",
+        "contractAddress": "0x0"
+    },
+    "91": {
+        "hash": "0xd3955fb616ab0249fa4d881abbb1c17dd7e715fd624e77aeb273530d2f3776d3",
+        "blockNumber": 10658571,
+        "from": "0xa29e8def8b7c1f6c922d3523ef29d893137f40a0",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xa29e8def8b7c1f6c922d3523ef29d893137f40a0]",
+                "_stakes": "[1000000000000000000000000]",
+                "_tokenName": "AmpleSense DAO",
+                "_tokenSymbol": "ASDAO",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-08-14 14:09:43 UTC",
+        "contractAddress": "0x0"
+    },
+    "92": {
+        "hash": "0xacbd19ff2cc1358061d3c28b01916dbc90a1fa214dcfc623de60faffd8e8f385",
+        "blockNumber": 10659007,
+        "from": "0xa29e8def8b7c1f6c922d3523ef29d893137f40a0",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xa29e8def8b7c1f6c922d3523ef29d893137f40a0]",
+                "_stakes": "[1000000000000000000000000]",
+                "_tokenName": "AmpleSense DAO",
+                "_tokenSymbol": "ASDAO",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-08-14 15:45:02 UTC",
+        "contractAddress": "0x0"
+    },
+    "93": {
+        "hash": "0xabe50636a4cb590811606aedebe6dbb3edf27bb467ce48f342c17b6083447f31",
+        "blockNumber": 10690785,
+        "from": "0xeaaaa4b66db73865e074d627b7911026ee14ec85",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xeaaaa4b66db73865e074d627b7911026ee14ec85]",
+                "_stakes": "[1000000000000000000000]",
+                "_tokenName": "ZIS IS CEPITAL?",
+                "_tokenSymbol": "SCDAO",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-08-19 13:19:50 UTC",
+        "contractAddress": "0x0"
+    },
+    "94": {
+        "hash": "0x24066750df6d8404dde41b05ce29f8f47616dc711c9321ad3b35b340545be331",
+        "blockNumber": 10714366,
+        "from": "0x9e0a6a354b01e145392ba7cf0fffb44e2698b748",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x9e0a6a354b01e145392ba7cf0fffb44e2698b748, 0x44e9d011df8741be2493e99297e9ad67bb1aa85b, 0xc454e2b4ebb3c74b2caf83e74067a8055b375e4e]",
+                "_stakes": "[80000000000000000000000000, 15000000000000000000000000, 5000000000000000000000000]",
+                "_tokenName": "RareDAO",
+                "_tokenSymbol": "RARE",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-08-23 04:20:18 UTC",
+        "contractAddress": "0x0"
+    },
+    "95": {
+        "hash": "0x81c1e7d6d7babbaa087fe738db219d5f6b6e293415ce17e5f41140754ff5d423",
+        "blockNumber": 10714868,
+        "from": "0xd8993c98d2dd225f0448429b793ee9e7d624f14f",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xd8993c98d2dd225f0448429b793ee9e7d624f14f]",
+                "_stakes": "[100000000000000000000]",
+                "_tokenName": "ANT",
+                "_tokenSymbol": "ANT",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-08-23 06:11:29 UTC",
+        "contractAddress": "0x0"
+    },
+    "96": {
+        "hash": "0x341e93daf07d80e4e4c996280d48e078c9085ef25a8778182a9862ad65af3cee",
+        "blockNumber": 10717119,
+        "from": "0xdac071edbe067499281f1272cf39f4ccb1e50ac8",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xcda16a18d3f942571e7ba81b7d2219a6802c45a1]",
+                "_stakes": "[100000000000000000000000]",
+                "_tokenName": "Paper Street Capital",
+                "_tokenSymbol": "PSC",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-08-23 14:29:23 UTC",
+        "contractAddress": "0x0"
+    },
+    "97": {
+        "hash": "0xbd1ed4fe83cb3ca61f38b4b53f5a3cf4277153325aaaaba34f8c3c16da3ad679",
+        "blockNumber": 10765632,
+        "from": "0x9926e27c1e9e41071c378ffcffe44c9471f0b752",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x9926e27c1e9e41071c378ffcffe44c9471f0b752]",
+                "_stakes": "[1000000000000000000000000]",
+                "_tokenName": "AmpleSense DAO",
+                "_tokenSymbol": "ASDAO",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-08-31 01:06:31 UTC",
+        "contractAddress": "0x0"
+    },
+    "98": {
+        "hash": "0x510fc3800a9295a87a94411fdfc901c5299b3662d40eb17a14082c98d392712c",
+        "blockNumber": 10769890,
+        "from": "0xd5931f0a36fe76845a5330f6d0cd7a378401e34d",
+        "to": "0x27d354a866c96306c931733e9506a1e941e98bdd",
+        "date": "2020-08-31 16:54:31 UTC",
+        "contractAddress": "0x0"
+    },
+    "99": {
+        "hash": "0xd2c799660cf87588dac5b260e8817f0414a79f2dd089f55fcf1b027ef7ef62d1",
+        "blockNumber": 10771656,
+        "from": "0x9926e27c1e9e41071c378ffcffe44c9471f0b752",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x9926e27c1e9e41071c378ffcffe44c9471f0b752]",
+                "_stakes": "[1000000000000000000000000]",
+                "_tokenName": "ASDAO Voting Token ",
+                "_tokenSymbol": "ASDAOVT",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-08-31 23:04:00 UTC",
+        "contractAddress": "0x0"
+    },
+    "100": {
+        "hash": "0x58629f861489cd2fdb07ce746e01be130ea101492700e62b2c91f1e398c411ca",
+        "blockNumber": 10852629,
+        "from": "0xc3c2e1cf099bc6e1fa94ce358562bcbd5cc59fe5",
+        "to": "0xb5366ccdf5fd7da7c2aca2cb51877da96b1973b4",
+        "articulatedTx": {
+            "name": "prepareInstance",
+            "inputs": {
+                "_boardMembers": "[0x027ffd3c119567e85998f4e6b9c3d83d5702660c, 0x5e80148e3b010524a70420799fafca04e1838e3b, 0xeafa2626c7194ee7332e5f7cb719754786c719e6, 0xa68b381b1ab044618f3030d1c1b7ced5c514cb81]",
+                "_boardTokenName": "Aavegotchi Council Token",
+                "_boardTokenSymbol": "AGT",
+                "_boardVotingSettings": "[750000000000000000, 750000000000000000, 10800]",
+                "_financePeriod": "0"
+            }
+        },
+        "date": "2020-09-13 08:47:42 UTC",
+        "contractAddress": "0x0"
+    },
+    "101": {
+        "hash": "0x77e378016d18c59adf0b997b686a68ab6ee5c43c5087ff576d1495254b001ed1",
+        "blockNumber": 10906267,
+        "from": "0x8f0857eefece0ebac2f56ae81aa906a55a9f0941",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x8f0857eefece0ebac2f56ae81aa906a55a9f0941]",
+                "_stakes": "[100000000000000000000]",
+                "_tokenName": "HAY",
+                "_tokenSymbol": "HAY",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-09-21 14:18:18 UTC",
+        "contractAddress": "0x0"
+    },
+    "102": {
+        "hash": "0x711e9949eae418c727bbc945be8d4e43080d818170d34ac864ba3cbcc87edf6d",
+        "blockNumber": 10954697,
+        "from": "0x9c2579454b9854ff3dfb64e9acf687615ee99856",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x9c2579454b9854ff3dfb64e9acf687615ee99856]",
+                "_stakes": "[100000000000000000000000]",
+                "_tokenName": "Paper Street Capital",
+                "_tokenSymbol": "PSC",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-09-29 02:21:43 UTC",
+        "contractAddress": "0x0"
+    },
+    "103": {
+        "hash": "0x5472c5a3430596f4b13a19755887d8009ee673cfca65afe00afd82ff1bbc6940",
+        "blockNumber": 10954735,
+        "from": "0x9c2579454b9854ff3dfb64e9acf687615ee99856",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x9c2579454b9854ff3dfb64e9acf687615ee99856]",
+                "_stakes": "[100000000000000000000000]",
+                "_tokenName": "Paper Street Capital",
+                "_tokenSymbol": "PSC",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-09-29 02:30:58 UTC",
+        "contractAddress": "0x0"
+    },
+    "104": {
+        "hash": "0x5615ae42896767657e0e190f3caa6e35f3474e6d54b7d2edfb378e8f480bee11",
+        "blockNumber": 10990163,
+        "from": "0xa26f824ae181cd3893d77d0acd2fb7afc225e07e",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xa26f824ae181cd3893d77d0acd2fb7afc225e07e]",
+                "_stakes": "[3333000000000000000000]",
+                "_tokenName": "VER$U$ Token",
+                "_tokenSymbol": "$VZZ",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-10-04 15:24:58 UTC",
+        "contractAddress": "0x0"
+    },
+    "105": {
+        "hash": "0xa74ee0c2cb3b4606059eab0c5e6b9fcf7d1d39171f4b23bbf9e478d8e7f5ad38",
+        "blockNumber": 11003775,
+        "from": "0x9a6336f38685ae6ee1899adce9687fb38318c3ba",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x9a6336f38685ae6ee1899adce9687fb38318c3ba]",
+                "_stakes": "[1000000000000000000]",
+                "_tokenName": "Contained ECTO",
+                "_tokenSymbol": "ECTO1",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-10-06 18:28:37 UTC",
+        "contractAddress": "0x0"
+    },
+    "106": {
+        "hash": "0x4562ebe278e73d79ae8ab1e931f001ec7d5c8a93e5813be739a71807f53635b6",
+        "blockNumber": 11023173,
+        "from": "0xe0cddb302d944408374c03e71b430b0886280149",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xe0cddb302d944408374c03e71b430b0886280149, 0x8c6c1523e064eb85c78d756760dd1e70265d2a86]",
+                "_stakes": "[10000000000000000000, 10000000000000000000000]",
+                "_tokenName": "Truth Action Token",
+                "_tokenSymbol": "ACT",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-10-09 19:46:00 UTC",
+        "contractAddress": "0x0"
+    },
+    "107": {
+        "hash": "0x066fc08ee558ee275dd50c98c297371df104866665a14bb6a72a0145419b4f11",
+        "blockNumber": 11030914,
+        "from": "0x7e6446793ba230e0bac1861ff9942ac967584f47",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x7e6446793ba230e0bac1861ff9942ac967584f47, 0x8066efad68d81d30ea85bae49bf95413d3671bf1]",
+                "_stakes": "[1000000000000000000000000000, 1000000000000000000000000]",
+                "_tokenName": "CircusCoin",
+                "_tokenSymbol": "CIRCUS",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-10-11 00:14:30 UTC",
+        "contractAddress": "0x0"
+    },
+    "108": {
+        "hash": "0x099038b14c113b135d17a3de5755dc43aefc20cfbd35124cde90cc9389d0dedf",
+        "blockNumber": 11031637,
+        "from": "0xe35007664b52d32fc3910861f8f776e062d7da4b",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xe35007664b52d32fc3910861f8f776e062d7da4b, 0xb9f191316c5add0355a237aa6e76cb1083192034]",
+                "_stakes": "[100000000000000000000, 100000000000000000000]",
+                "_tokenName": "Datamine Marketing Foundation Token",
+                "_tokenSymbol": "DAMFUND",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2020-10-11 02:56:47 UTC",
+        "contractAddress": "0x0"
+    },
+    "109": {
+        "hash": "0xc17b3405db7b78ca3555e3f0860dd5f78fbaba249d27d1376e28b6f6d6ed93e6",
+        "blockNumber": 11032317,
+        "from": "0x7e6446793ba230e0bac1861ff9942ac967584f47",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x7e6446793ba230e0bac1861ff9942ac967584f47]",
+                "_stakes": "[1000000000000000000000000]",
+                "_tokenName": "CircusCoin",
+                "_tokenSymbol": "CIRCUS",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-10-11 05:34:28 UTC",
+        "contractAddress": "0x0"
+    },
+    "110": {
+        "hash": "0x00120b8324ca2a802679017d2423ea9f02fd4bf82b2507df34492c3c9c56e4c7",
+        "blockNumber": 11035084,
+        "from": "0x7e6446793ba230e0bac1861ff9942ac967584f47",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x7e6446793ba230e0bac1861ff9942ac967584f47]",
+                "_stakes": "[1000000000000000000000000]",
+                "_tokenName": "CircusCoin",
+                "_tokenSymbol": "CIRCUS",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-10-11 15:44:08 UTC",
+        "contractAddress": "0x0"
+    },
+    "111": {
+        "hash": "0x11785f5ab325e71028572019e7822b348ae1d12be68f6cc006eb427aafd35457",
+        "blockNumber": 11078558,
+        "from": "0x55b94ccedd5024ec1546b1943fa7dfa9e39195bb",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x55b94ccedd5024ec1546b1943fa7dfa9e39195bb]",
+                "_stakes": "[2000000000000000000000]",
+                "_tokenName": "Big Dick Energy",
+                "_tokenSymbol": "BDE",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-10-18 07:26:54 UTC",
+        "contractAddress": "0x0"
+    },
+    "112": {
+        "hash": "0xd9f33e038606000acf55caa14b0c32e1e00ff8fad2cc86a73e8de8a4db443c89",
+        "blockNumber": 11091076,
+        "from": "0xfad1cb78101cf717cf97663e681eb87291dfcbe2",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xfad1cb78101cf717cf97663e681eb87291dfcbe2]",
+                "_stakes": "[2800000000000000000000000]",
+                "_tokenName": "Bond",
+                "_tokenSymbol": "BOND",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-10-20 05:13:22 UTC",
+        "contractAddress": "0x0"
+    },
+    "113": {
+        "hash": "0xf341bf35a8cde58bf7eb633caadcc0f18a8e2304b5cefc2e13ea86cef9ea3b14",
+        "blockNumber": 11182488,
+        "from": "0x1f1c29c94abe2b8f06b403cc5a61c479167ebc3d",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x1f1c29c94abe2b8f06b403cc5a61c479167ebc3d]",
+                "_stakes": "[7777777000000000000000000]",
+                "_tokenName": "Gomer",
+                "_tokenSymbol": "GOMER",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-11-03 06:10:41 UTC",
+        "contractAddress": "0x0"
+    },
+    "114": {
+        "hash": "0x16463964338cc9afdd782bfdbcdba4eb1d38c8e51cd76d0f10d98b680a71a49d",
+        "blockNumber": 11199728,
+        "from": "0xe71fbb197bc8fd11090fa657c100d52dbb407662",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xf1f508c7c9f0d1b15a76fba564eef2d956220cf7]",
+                "_stakes": "[100000000000000000000]",
+                "_tokenName": "Pepedex",
+                "_tokenSymbol": "PPDEX",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-11-05 21:38:41 UTC",
+        "contractAddress": "0x0"
+    },
+    "115": {
+        "hash": "0x45b3eae552419c8bcc28d3f651019f055ba455f2794ddd453222d6bebcc47870",
+        "blockNumber": 11199729,
+        "from": "0xe71fbb197bc8fd11090fa657c100d52dbb407662",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xf1f508c7c9f0d1b15a76fba564eef2d956220cf7]",
+                "_stakes": "[100000000000000000000]",
+                "_tokenName": "Pepedex",
+                "_tokenSymbol": "PPDEX",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-11-05 21:38:44 UTC",
+        "contractAddress": "0x0"
+    },
+    "116": {
+        "hash": "0x686a043723d60cbfcb0d8a045105a9f6c6fab525068b42e9e4373cfb3ae0d627",
+        "blockNumber": 11256325,
+        "from": "0x483e2f4c14de36ebbbc09d0093468b9093c9406c",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x483e2f4c14de36ebbbc09d0093468b9093c9406c]",
+                "_stakes": "[1000000000000000000]",
+                "_tokenName": "Insula Voting Token",
+                "_tokenSymbol": "ISLAVOTE",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-11-14 14:17:32 UTC",
+        "contractAddress": "0x0"
+    },
+    "117": {
+        "hash": "0x9722f039a3746c1d78d5e359834fbba3d166379b258bda3160debb46ee9baa65",
+        "blockNumber": 11290617,
+        "from": "0x75130a546c1e20801f2404865f072e587d5227fd",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x75130a546c1e20801f2404865f072e587d5227fd]",
+                "_stakes": "[50000000000000000000000]",
+                "_tokenName": "Enigma Bazaar Collective Credit",
+                "_tokenSymbol": "EBC",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-11-19 20:25:44 UTC",
+        "contractAddress": "0x0"
+    },
+    "118": {
+        "hash": "0x20f45164d000e37afcd591d807afc0b95357b1f13275a62c2e5bcac8a0527bb1",
+        "blockNumber": 11293007,
+        "from": "0x1e9beabb3e7f4cd841fe99160cde196f7b1b8797",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x1e9beabb3e7f4cd841fe99160cde196f7b1b8797]",
+                "_stakes": "[10000000000000000000]",
+                "_tokenName": "bbb token",
+                "_tokenSymbol": "BBT",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-11-20 05:15:19 UTC",
+        "contractAddress": "0x0"
+    },
+    "119": {
+        "hash": "0x6ded37d08f5233a99244f51638df2213305d2dc70120ba75ba0653e7e87c40c9",
+        "blockNumber": 11299422,
+        "from": "0x4735581201f4cad63cca0716ab4ac7d6d9cfb0ed",
+        "to": "0xbf5d0be3e602edbcf3b352c11cf813686d9659b8",
+        "date": "2020-11-21 05:03:10 UTC",
+        "contractAddress": "0x0"
+    },
+    "120": {
+        "hash": "0xdc17134deb7c2bc9a03af9bc6cc9b810d9c09c70daf9b035f5fd309cd10e4de8",
+        "blockNumber": 11372774,
+        "from": "0x7a5dc8262fac5fd2a12801e486cf4ae9f10dcd05",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x7a5dc8262fac5fd2a12801e486cf4ae9f10dcd05]",
+                "_stakes": "[1000000000000000000]",
+                "_tokenName": "mini",
+                "_tokenSymbol": "MINI",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2020-12-02 11:24:09 UTC",
+        "contractAddress": "0x0"
+    },
+    "121": {
+        "hash": "0xf56adf8abedc087b2d5b6b937f0a1f469f7612fce21e1dc33fe8b0628912b828",
+        "blockNumber": 11467631,
+        "from": "0x073adf97f6de257d76e67f7c2fe57ac9843cca25",
+        "to": "0x9cf651e5e8af4a01e70e3c7e0135ff463790d20b",
+        "articulatedTx": {
+            "name": "execTransaction",
+            "inputs": {
+                "data": "0x6953776c93cdeb708b7545dc668eb9280176169d1c33cfd8ed6f04690a0bcc88a93fc4ae1353eb779a45ed66bdb49e45e006df81a69d9f73067e846003b5bb00984191d4",
+                "dataGas": "0",
+                "gasPrice": "0",
+                "gasToken": "0x0000000000000000000000000000000000000000",
+                "operation": "0",
+                "refundReceiver": "0x0000000000000000000000000000000000000000",
+                "safeTxGas": "0",
+                "signatures": "0x000000000000000000000000073adf97f6de257d76e67f7c2fe57ac9843cca25000000000000000000000000000000000000000000000000000000000000000001",
+                "to": "0xb72f2bba4fdf1708d37fdf3b90c6acd646ece900",
+                "value": "0"
+            }
+        },
+        "date": "2020-12-17 01:19:07 UTC",
+        "contractAddress": "0x0"
+    },
+    "122": {
+        "hash": "0xe7776e7fed1bf9af87d951a86a36f291dba5e7566ae142caef4804b201159ef8",
+        "blockNumber": 11467688,
+        "from": "0x073adf97f6de257d76e67f7c2fe57ac9843cca25",
+        "to": "0x9cf651e5e8af4a01e70e3c7e0135ff463790d20b",
+        "articulatedTx": {
+            "name": "execTransaction",
+            "inputs": {
+                "data": "0xc97d713700000000000000000000000000000000000000000000000000000000000001400000000000000000000000000000000000000000000000000000000000000180000000000000000000000000000000000000000000000000016345785d8a0000000000000000000000000000000000000000000000000000016345785d8a0000000000000000000000000000000000000000000000000000000000000000025800000000000000000000000000000000219ab540356cbb839cbe05303d7705fa00000000000000000000000000000000000000000000000000000000000000e10000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000000c000000000000000000000000000000000000000000000000000000005fc63057000000000000000000000000000000000000000000000000000000000000000e546573742044414f20546f6b656e00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000034444540000000000000000000000000000000000000000000000000000000000",
+                "dataGas": "0",
+                "gasPrice": "0",
+                "gasToken": "0x0000000000000000000000000000000000000000",
+                "operation": "0",
+                "refundReceiver": "0x0000000000000000000000000000000000000000",
+                "safeTxGas": "0",
+                "signatures": "0x000000000000000000000000073adf97f6de257d76e67f7c2fe57ac9843cca25000000000000000000000000000000000000000000000000000000000000000001",
+                "to": "0xb72f2bba4fdf1708d37fdf3b90c6acd646ece900",
+                "value": "0"
+            }
+        },
+        "date": "2020-12-17 01:32:38 UTC",
+        "contractAddress": "0x0"
+    },
+    "123": {
+        "hash": "0xfa66476569ecef5790f2d0634997b952862bbca56aa088f151b8049421eeb87b",
+        "blockNumber": 11473147,
+        "from": "0x55bc991b2edf3ddb4c520b222be4f378418ff0fa",
+        "to": "0x752350797cb92ad3bf1295faf904b27585e66bf5",
+        "date": "2020-12-17 21:44:31 UTC",
+        "contractAddress": "0x0"
+    },
+    "124": {
+        "hash": "0x3feabd79e8549ad68d1827c074fa7123815c80206498946293d5373a160fd866",
+        "blockNumber": 11473216,
+        "from": "0x55bc991b2edf3ddb4c520b222be4f378418ff0fa",
+        "to": "0x752350797cb92ad3bf1295faf904b27585e66bf5",
+        "date": "2020-12-17 21:59:56 UTC",
+        "contractAddress": "0x0"
+    },
+    "125": {
+        "hash": "0x1ac95120c685adb89a38b817c32ac341aba0e602786c48eacd034997603a1c2d",
+        "blockNumber": 11756634,
+        "from": "0xf12e70eb5bd116461907d8c451636a9aa90dd0c2",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xf12e70eb5bd116461907d8c451636a9aa90dd0c2, 0xe78c5f31275756a1092a8879aa5735d68c0bbaed]",
+                "_stakes": "[20000000000000000000000000, 1000000000000000000000000]",
+                "_tokenName": "Full Stack Holdings Corp",
+                "_tokenSymbol": "$FSHCORP",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2021-01-30 10:09:48 UTC",
+        "contractAddress": "0x0"
+    },
+    "126": {
+        "hash": "0x958d95e736e567da5f04868cc085f1c8029b3d0600cabacf05f6c9e15ded923a",
+        "blockNumber": 11847533,
+        "from": "0xbfd73f03fbe74e8b3c611a5ed8468ec8ed05102f",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xbfd73f03fbe74e8b3c611a5ed8468ec8ed05102f]",
+                "_stakes": "[50000000000000000000]",
+                "_tokenName": "CyberDAO",
+                "_tokenSymbol": "CYBRD",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2021-02-13 09:42:45 UTC",
+        "contractAddress": "0x0"
+    },
+    "127": {
+        "hash": "0x4c6d79f2d4702c5be3ad14a28490829b7536ae60bc856a8f195dc27f9320bef8",
+        "blockNumber": 11847536,
+        "from": "0xbfd73f03fbe74e8b3c611a5ed8468ec8ed05102f",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xbfd73f03fbe74e8b3c611a5ed8468ec8ed05102f]",
+                "_stakes": "[50000000000000000000]",
+                "_tokenName": "CyberDAO",
+                "_tokenSymbol": "CYBRD",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2021-02-13 09:43:14 UTC",
+        "contractAddress": "0x0"
+    },
+    "128": {
+        "hash": "0x8a6cf8702614dc6457099100f62018bc3d67a1d673c1e83ab9fa153b96d388fb",
+        "blockNumber": 11848519,
+        "from": "0xbdc761078d698b1ed53b646d3f68cdadfbd19f60",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xbfd73f03fbe74e8b3c611a5ed8468ec8ed05102f]",
+                "_stakes": "[50000000000000000000]",
+                "_tokenName": "cybrdao",
+                "_tokenSymbol": "CYBR1",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2021-02-13 13:27:18 UTC",
+        "contractAddress": "0x0"
+    },
+    "129": {
+        "hash": "0x4ff1093e5dbd3206c5db3256f2559d479e2f5239377047f9dc8ceaa79f19b353",
+        "blockNumber": 11934237,
+        "from": "0xae9b102741a1b60c221e39cd9526ab38c9865ab3",
+        "to": "0xf1e5f0889f073cea4fb1afa73ec89fdcc64b1c89",
+        "date": "2021-02-26 17:34:26 UTC",
+        "contractAddress": "0x0"
+    },
+    "130": {
+        "hash": "0x6a56258452345d5356db6d490967fb160348dd0069fb5ba77d69f6a156986e08",
+        "blockNumber": 12018176,
+        "from": "0x5ab120d9ec49772b37851cf7043022bf290d6ca8",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x5ab120d9ec49772b37851cf7043022bf290d6ca8]",
+                "_stakes": "[250000000000000000000000]",
+                "_tokenName": "SHHH",
+                "_tokenSymbol": "SHHH",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2021-03-11 15:47:50 UTC",
+        "contractAddress": "0x0"
+    },
+    "131": {
+        "hash": "0xcdde4b29d9971a7f29724d393ee6a6547557b7531131975458ad593bd4d4dad0",
+        "blockNumber": 12125354,
+        "from": "0x4dbcd214cb8c1f3b0089d10fa774a116b7179b4d",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x4dbcd214cb8c1f3b0089d10fa774a116b7179b4d]",
+                "_stakes": "[1000000000000000000]",
+                "_tokenName": "BeetsDAO Governance Token v1",
+                "_tokenSymbol": "BEETS",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2021-03-28 04:09:44 UTC",
+        "contractAddress": "0x0"
+    },
+    "132": {
+        "hash": "0x87dceaf233362cdbcb92e70fc743986c3d087aedf5e53776eda2adfb8d71f226",
+        "blockNumber": 12318615,
+        "from": "0xf0198a8eaaf8d9c9527d628afa0beabe674169a5",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xf0198a8eaaf8d9c9527d628afa0beabe674169a5, 0xb28663e8c526c2d3cdd944fc7b62bee19a4c4826]",
+                "_stakes": "[5000000000000000000000000, 5000000000000000000000000]",
+                "_tokenName": "CREATE",
+                "_tokenSymbol": "CREATE",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2021-04-26 22:19:09 UTC",
+        "contractAddress": "0x0"
+    },
+    "133": {
+        "hash": "0xb10c900cdb0a771e946511eb2e28fcbda6f0d01058967a8e848da27c37020944",
+        "blockNumber": 12346365,
+        "from": "0x68e17794b79bcc929ea814ea069b6db77136747e",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x68e17794b79bcc929ea814ea069b6db77136747e, 0xcc836b4575bddf7025137d7fc868ed1d95e5f338]",
+                "_stakes": "[50000000000000000000000, 50000000000000000000000]",
+                "_tokenName": "Diamondcoin",
+                "_tokenSymbol": "DMC",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2021-05-01 05:15:27 UTC",
+        "contractAddress": "0x0"
+    },
+    "134": {
+        "hash": "0x4113b15cdc5d15249b2dba67042b4086c1d68e8fcf30f8f09d850a68b878c8dc",
+        "blockNumber": 12518567,
+        "from": "0x585511695eb36bc7eee59019f4c52f4a70f2ee77",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x585511695eb36bc7eee59019f4c52f4a70f2ee77]",
+                "_stakes": "[2000000000000000000000000]",
+                "_tokenName": "SLICOVERS",
+                "_tokenSymbol": "SLIP",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2021-05-27 20:46:50 UTC",
+        "contractAddress": "0x0"
+    },
+    "135": {
+        "hash": "0xf02622d9d9725afcbe0e0a917ccf549a786b66afd4ef2311eef9de8669e5401f",
+        "blockNumber": 12532237,
+        "from": "0x585511695eb36bc7eee59019f4c52f4a70f2ee77",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x585511695eb36bc7eee59019f4c52f4a70f2ee77]",
+                "_stakes": "[2000000000000000000000000]",
+                "_tokenName": "Black Unicorn Slipcover",
+                "_tokenSymbol": "SLIP",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2021-05-29 23:26:50 UTC",
+        "contractAddress": "0x0"
+    },
+    "136": {
+        "hash": "0xbd0a896b76a15d8d2dd1155336c5f613ce486515546fcf89db85bdc9b729fa74",
+        "blockNumber": 12620582,
+        "from": "0xee87f43da8c5df31e1e89536530506dff9e9e233",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xee87f43da8c5df31e1e89536530506dff9e9e233]",
+                "_stakes": "[1000000000000000000]",
+                "_tokenName": "LexPunkK DAO 1",
+                "_tokenSymbol": "L3XD1",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2021-06-12 15:59:41 UTC",
+        "contractAddress": "0x0"
+    },
+    "137": {
+        "hash": "0x4ccb8933a2d78f60f7bde2a08a20639197c5cf55bf282dec3153e04f9917cc2f",
+        "blockNumber": 12672554,
+        "from": "0xaec0d9389d27359c4eda77a81eeb71b1e68c2ada",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xaec0d9389d27359c4eda77a81eeb71b1e68c2ada]",
+                "_stakes": "[10000000000000000000000000]",
+                "_tokenName": "Digital Dragon DAO",
+                "_tokenSymbol": "DDD",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2021-06-20 17:31:49 UTC",
+        "contractAddress": "0x0"
+    },
+    "138": {
+        "hash": "0x8f7f0e8ad2491b1d66b0c8c8812a15e36dfa3aa33b27f1789db5c9cf0eac7f5d",
+        "blockNumber": 12712552,
+        "from": "0x4cf457e6226d7add647915935047eb982465bcda",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x4cf457e6226d7add647915935047eb982465bcda]",
+                "_stakes": "[64000000000000000000000]",
+                "_tokenName": "SmileDAO",
+                "_tokenSymbol": "SMILE",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2021-06-26 23:20:24 UTC",
+        "contractAddress": "0x0"
+    },
+    "139": {
+        "hash": "0xa8bdb6d639656210351d95ee54afef14342fc7c1d020d44e2446ec3c6ad49dab",
+        "blockNumber": 12739384,
+        "from": "0x47afc628f4c40a778316128ca3026c5e2f79cb3d",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x47afc628f4c40a778316128ca3026c5e2f79cb3d, 0x15f7320adb990020956d29edb6ba17f3d468001e, 0x4dc0e2040bca9faccf5333e2cc765301f11f2a7b, 0x073c332ced8b9c6e73b3d3ef4ee6f0862fff3549, 0x8d203ebb07caddd9b18fb0c3128e65c487ddbba5, 0x9682e7c330fd4100cc3d56610bfac904fdf7f8e4, 0x28c3bfe0cfe3f10cf0135da5de9896571ef5dda5, 0xb58c4dd83b5b0be68507add807641c98eb0d0d8e, 0x1b8644172900d71c8a58446e19731114641c6e4d, 0x3c6d067034dcb10c8f80c87cb01f3cd801dee631, 0x956ac919872e1cc1473c3a5066f5eec0c046a0b1]",
+                "_stakes": "[100000000000000000000000, 100000000000000000000000, 100000000000000000000000, 100000000000000000000000, 100000000000000000000000, 100000000000000000000000, 100000000000000000000000, 100000000000000000000000, 100000000000000000000000, 100000000000000000000000, 100000000000000000000000]",
+                "_tokenName": "ASIAN MINT",
+                "_tokenSymbol": "AMT",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2021-07-01 03:22:18 UTC",
+        "contractAddress": "0x0"
+    },
+    "140": {
+        "hash": "0x2593dea0bf413af33d590f171226c2f22891e637b31fbe4342232ed2f7f9fe05",
+        "blockNumber": 12764610,
+        "from": "0x47afc628f4c40a778316128ca3026c5e2f79cb3d",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x47afc628f4c40a778316128ca3026c5e2f79cb3d, 0x15f7320adb990020956d29edb6ba17f3d468001e, 0x4dc0e2040bca9faccf5333e2cc765301f11f2a7b, 0x073c332ced8b9c6e73b3d3ef4ee6f0862fff3549, 0x8d203ebb07caddd9b18fb0c3128e65c487ddbba5, 0x9682e7c330fd4100cc3d56610bfac904fdf7f8e4, 0x28c3bfe0cfe3f10cf0135da5de9896571ef5dda5, 0xb58c4dd83b5b0be68507add807641c98eb0d0d8e, 0x1b8644172900d71c8a58446e19731114641c6e4d, 0x3c6d067034dcb10c8f80c87cb01f3cd801dee631, 0x956ac919872e1cc1473c3a5066f5eec0c046a0b1]",
+                "_stakes": "[100000000000000000000000, 100000000000000000000000, 100000000000000000000000, 100000000000000000000000, 100000000000000000000000, 100000000000000000000000, 100000000000000000000000, 100000000000000000000000, 100000000000000000000000, 100000000000000000000000, 100000000000000000000000]",
+                "_tokenName": "Asian Mint",
+                "_tokenSymbol": "AMT",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2021-07-05 01:45:40 UTC",
+        "contractAddress": "0x0"
+    },
+    "141": {
+        "hash": "0x91038e0639741b56614bfdea9637f837f15523c0f128a8ec385e973ce8f3292c",
+        "blockNumber": 12764963,
+        "from": "0x76afc47ba4df52097ea7674b0452795d7e7bbbbc",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x60269560f487b12ed79067f3d02ce6113e61a3a5]",
+                "_stakes": "[10000000000000000000000]",
+                "_tokenName": "Artcelium",
+                "_tokenSymbol": "ARTC",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2021-07-05 03:06:01 UTC",
+        "contractAddress": "0x0"
+    },
+    "142": {
+        "hash": "0x74a8546c99643742af729fe99313860b716e8bbd293f4df9f3d0ad8b9ac21232",
+        "blockNumber": 12764991,
+        "from": "0x47afc628f4c40a778316128ca3026c5e2f79cb3d",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x47afc628f4c40a778316128ca3026c5e2f79cb3d, 0x15f7320adb990020956d29edb6ba17f3d468001e, 0x4dc0e2040bca9faccf5333e2cc765301f11f2a7b, 0x073c332ced8b9c6e73b3d3ef4ee6f0862fff3549, 0x8d203ebb07caddd9b18fb0c3128e65c487ddbba5, 0x9682e7c330fd4100cc3d56610bfac904fdf7f8e4, 0x28c3bfe0cfe3f10cf0135da5de9896571ef5dda5, 0xb58c4dd83b5b0be68507add807641c98eb0d0d8e, 0x1b8644172900d71c8a58446e19731114641c6e4d, 0x3c6d067034dcb10c8f80c87cb01f3cd801dee631, 0x956ac919872e1cc1473c3a5066f5eec0c046a0b1]",
+                "_stakes": "[100000000000000000000000, 100000000000000000000000, 100000000000000000000000, 100000000000000000000000, 100000000000000000000000, 100000000000000000000000, 100000000000000000000000, 100000000000000000000000, 100000000000000000000000, 100000000000000000000000, 100000000000000000000000]",
+                "_tokenName": "Asian Mint",
+                "_tokenSymbol": "AMT",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2021-07-05 03:10:52 UTC",
+        "contractAddress": "0x0"
+    },
+    "143": {
+        "hash": "0x2391d4b5efd80c5c9d2948c0bd23487bebffbc922f048f583eec75ef4b5942f5",
+        "blockNumber": 13030408,
+        "from": "0x8a7d7d0a4eae347e18818b3b9fe0ebdb0e4f612d",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x8a7d7d0a4eae347e18818b3b9fe0ebdb0e4f612d]",
+                "_stakes": "[1000000000000000000000000000]",
+                "_tokenName": "athena",
+                "_tokenSymbol": "ATH",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2021-08-15 14:52:03 UTC",
+        "contractAddress": "0x0"
+    },
+    "144": {
+        "hash": "0x7488dee754e8d279d15d81110a19cac0b09f2b03d264abe4bd61e62c81bf5696",
+        "blockNumber": 13067272,
+        "from": "0x464fd6b8e4dde4352117940a07d7cc93269a77bb",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x464fd6b8e4dde4352117940a07d7cc93269a77bb]",
+                "_stakes": "[21000000000000000000000000]",
+                "_tokenName": "Psi",
+                "_tokenSymbol": "PSI",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2021-08-21 07:14:55 UTC",
+        "contractAddress": "0x0"
+    },
+    "145": {
+        "hash": "0x83751e0a5bd84b34298424ccdd5b46c6f0ad960ab9c37d7cec7aee6aad0325f7",
+        "blockNumber": 13125473,
+        "from": "0x6a646c9da20391dad50ce58d06bf35040d3af4fb",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0x6a646c9da20391dad50ce58d06bf35040d3af4fb, 0x7269edc4cca74b518a721c179e39e87e47ca3471, 0xf90bd897859b3a8b900ca8d27cb4b54c7222aef9]",
+                "_stakes": "[50000000000000000000000000, 50000000000000000000000000, 50000000000000000000000000]",
+                "_tokenName": "Dao4peace Token",
+                "_tokenSymbol": "D4P",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2021-08-30 07:19:08 UTC",
+        "contractAddress": "0x0"
+    },
+    "146": {
+        "hash": "0x118d92945cc5c2ea5bc4f24174a2f3da64ab96642201244b4f9bcdbc68cb1064",
+        "blockNumber": 13321987,
+        "from": "0xd3d78c08018af880053db056226aa0988765793f",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xd3d78c08018af880053db056226aa0988765793f]",
+                "_stakes": "[100000000000000000000]",
+                "_tokenName": "btmdao",
+                "_tokenSymbol": "BTM",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2021-09-29 17:23:14 UTC",
+        "contractAddress": "0x0"
+    },
+    "147": {
+        "hash": "0xd6269456087c5a7d1fc0bf10871413e835b8e7c8912eef582515deb00e926aeb",
+        "blockNumber": 13322808,
+        "from": "0xd3d78c08018af880053db056226aa0988765793f",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xd3d78c08018af880053db056226aa0988765793f]",
+                "_stakes": "[10000000000000000000000000]",
+                "_tokenName": "BTMDAO",
+                "_tokenSymbol": "BTM",
+                "_useAgentAsVault": "false"
+            }
+        },
+        "date": "2021-09-29 20:26:01 UTC",
+        "contractAddress": "0x0"
+    },
+    "148": {
+        "hash": "0xa602eb5c236560375b618f45f315e69a2081730c3b10a5c77e4018b0ae18ed10",
+        "blockNumber": 13681648,
+        "from": "0xa6505023c4d93d30377aa735ad323e8b7f7f8610",
+        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
+        "articulatedTx": {
+            "name": "newTokenAndBaseInstance",
+            "inputs": {
+                "_financePeriod": "0",
+                "_holders": "[0xa6505023c4d93d30377aa735ad323e8b7f7f8610, 0xe7ce19964d680efa59baaabd6d57fc4d07af481d, 0xe2fb89eca30fde0a66194b2c2bc010b460dc9973]",
+                "_stakes": "[10000000000000000000, 10000000000000000000, 10000000000000000000]",
+                "_tokenName": "N3TWORK",
+                "_tokenSymbol": "N3T",
+                "_useAgentAsVault": "true"
+            }
+        },
+        "date": "2021-11-25 05:22:17 UTC",
+        "contractAddress": "0x0"
+    },
+    "149": {}
+}

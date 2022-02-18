@@ -8,11 +8,8 @@ def load_json(fpath):
             r = json.load(f)
     except json.decoder.JSONDecodeError:
         try:
-            r = []
             with open(fpath, 'r') as f:
-                for line in f.readlines():
-                    r_tmp = json.load(f)
-                    r.append(r_tmp)
+                r = json.loads(f.read())
         except json.decoder.JSONDecodeError:
             r = {}
 
