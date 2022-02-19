@@ -100,7 +100,6 @@ def chifra_list(address):
     """    
     if isinstance(address, list):
        address = " ".join(address)
-
     return " ".join(["chifra", "list", JSON, address])
 
 
@@ -108,6 +107,8 @@ def chifra_blocks(block):
     """Retrieve a smart contract's ABI file
     https://trueblocks.io/docs/chifra/accounts/#chifra-abis
     """
+    if isinstance(address, list):
+       address = " ".join(address)
     return " ".join(["chifra", "blocks", JSON, CACHE, block])
 
 
@@ -115,6 +116,8 @@ def chifra_abi(address):
     """Retrieve a smart contract's ABI file
     https://trueblocks.io/docs/chifra/accounts/#chifra-abis
     """
+    if isinstance(address, list):
+       address = " ".join(address)
     return " ".join(["chifra", "abi", JSON, address])
 
 
