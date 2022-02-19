@@ -39,10 +39,9 @@ cmd = tb.chifra_list(addresses)
 tb.pipe_chifra_call(cmd)
 
 # Run chifra abi for all addresses to get ABIs
-addresses = list(df_factories['factoryAddress'])
-addresses_str = " ".join(addresses)
-cmd = tb.chifra_abi(addresses)
-tb.pipe_chifra_call(cmd, fpath=os.path.join(DATADIR, 'trueblocks_framework_abis.json'))
+for i, row in df_factories.iterrows(): 
+    cmd = tb.chifra_abi(row['factoryAddress'])
+    tb.pipe_chifra_call(cmd, fpath=os.path.join(DATADIR, f"trueblocks_framework_abis_{row['version']}.json"))
 
 # Run chifra export for each address
 for i, row in df_factories.iterrows():
