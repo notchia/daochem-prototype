@@ -1,0 +1,232 @@
+{ "data": [
+{
+  "name": "SummonComplete",
+  "type": "event",
+  "stateMutability": "nonpayable",
+  "signature": "SummonComplete(address,address[],address[],uint256,uint256,uint256,uint256,uint256,uint256,uint256,uint256[])",
+  "encoding": "0x099e0b09e056ad33e22e4d35de2e837a30ba249f33d912abb7e1e273bbf9d650",
+  "inputs": [
+    {
+      "type": "address",
+      "name": "moloch",
+      "indexed": true,
+      "internalType": "address"
+    },
+    {
+      "type": "address[]",
+      "name": "summoner",
+      "internalType": "address[]"
+    },
+    {
+      "type": "address[]",
+      "name": "tokens",
+      "internalType": "address[]"
+    },
+    {
+      "type": "uint256",
+      "name": "summoningTime",
+      "internalType": "uint256"
+    },
+    {
+      "type": "uint256",
+      "name": "periodDuration",
+      "internalType": "uint256"
+    },
+    {
+      "type": "uint256",
+      "name": "votingPeriodLength",
+      "internalType": "uint256"
+    },
+    {
+      "type": "uint256",
+      "name": "gracePeriodLength",
+      "internalType": "uint256"
+    },
+    {
+      "type": "uint256",
+      "name": "proposalDeposit",
+      "internalType": "uint256"
+    },
+    {
+      "type": "uint256",
+      "name": "dilutionBound",
+      "internalType": "uint256"
+    },
+    {
+      "type": "uint256",
+      "name": "processingReward",
+      "internalType": "uint256"
+    },
+    {
+      "type": "uint256[]",
+      "name": "summonerShares",
+      "internalType": "uint256[]"
+    }
+  ]
+},
+{
+  "name": "summonMoloch",
+  "type": "function",
+  "stateMutability": "nonpayable",
+  "signature": "summonMoloch(address[],address[],uint256,uint256,uint256,uint256,uint256,uint256,uint256[])",
+  "encoding": "0x37c8d503",
+  "inputs": [
+    {
+      "type": "address[]",
+      "name": "_summoner",
+      "internalType": "address[]"
+    },
+    {
+      "type": "address[]",
+      "name": "_approvedTokens",
+      "internalType": "address[]"
+    },
+    {
+      "type": "uint256",
+      "name": "_periodDuration",
+      "internalType": "uint256"
+    },
+    {
+      "type": "uint256",
+      "name": "_votingPeriodLength",
+      "internalType": "uint256"
+    },
+    {
+      "type": "uint256",
+      "name": "_gracePeriodLength",
+      "internalType": "uint256"
+    },
+    {
+      "type": "uint256",
+      "name": "_proposalDeposit",
+      "internalType": "uint256"
+    },
+    {
+      "type": "uint256",
+      "name": "_dilutionBound",
+      "internalType": "uint256"
+    },
+    {
+      "type": "uint256",
+      "name": "_processingReward",
+      "internalType": "uint256"
+    },
+    {
+      "type": "uint256[]",
+      "name": "_summonerShares",
+      "internalType": "uint256[]"
+    }
+  ],
+  "outputs": [
+    {
+      "type": "address",
+      "name": "val_0",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "template",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "template()",
+  "encoding": "0x6f2ddd93",
+  "outputs": [
+    {
+      "type": "address",
+      "name": "val_0",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "daos",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "daos(address)",
+  "encoding": "0xc25f3cf6",
+  "inputs": [
+    {
+      "type": "address",
+      "name": "val_0",
+      "internalType": "address"
+    }
+  ],
+  "outputs": [
+    {
+      "type": "bool",
+      "name": "val_0",
+      "internalType": "bool"
+    }
+  ]
+},
+{
+  "name": "registerDao",
+  "type": "function",
+  "stateMutability": "nonpayable",
+  "signature": "registerDao(address,string,string,uint256)",
+  "encoding": "0xdfc35ad1",
+  "inputs": [
+    {
+      "type": "address",
+      "name": "_daoAdress",
+      "internalType": "address"
+    },
+    {
+      "type": "string",
+      "name": "_daoTitle",
+      "internalType": "string"
+    },
+    {
+      "type": "string",
+      "name": "_http",
+      "internalType": "string"
+    },
+    {
+      "type": "uint256",
+      "name": "_version",
+      "internalType": "uint256"
+    }
+  ],
+  "outputs": [
+    {
+      "type": "bool",
+      "name": "val_0",
+      "internalType": "bool"
+    }
+  ]
+},
+{
+  "name": "Register",
+  "type": "event",
+  "stateMutability": "nonpayable",
+  "signature": "Register(uint256,address,string,string,uint256)",
+  "encoding": "0xfa01623ae7dadfb821d1e96adaf9e6dca0b6437e6c73dfe18af0d9ba73301d43",
+  "inputs": [
+    {
+      "type": "uint256",
+      "name": "daoIdx",
+      "internalType": "uint256"
+    },
+    {
+      "type": "address",
+      "name": "moloch",
+      "internalType": "address"
+    },
+    {
+      "type": "string",
+      "name": "title",
+      "internalType": "string"
+    },
+    {
+      "type": "string",
+      "name": "http",
+      "internalType": "string"
+    },
+    {
+      "type": "uint256",
+      "name": "version",
+      "internalType": "uint256"
+    }
+  ]
+}] }

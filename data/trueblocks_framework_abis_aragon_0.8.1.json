@@ -1,0 +1,92 @@
+{ "data": [
+{
+  "name": "baseACL",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "baseACL()",
+  "encoding": "0x086b339e",
+  "outputs": [
+    {
+      "type": "address",
+      "name": "val_0",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "DeployEVMScriptRegistry",
+  "type": "event",
+  "stateMutability": "nonpayable",
+  "signature": "DeployEVMScriptRegistry(address)",
+  "encoding": "0x1a40224412580c1ae5a2fbe8029a565f49a3a029608a8fd9320b32477f314579",
+  "inputs": [
+    {
+      "type": "address",
+      "name": "reg",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "newDAO",
+  "type": "function",
+  "stateMutability": "nonpayable",
+  "signature": "newDAO(address)",
+  "encoding": "0x21687444",
+  "inputs": [
+    {
+      "type": "address",
+      "name": "_root",
+      "internalType": "address"
+    }
+  ],
+  "outputs": [
+    {
+      "type": "address",
+      "name": "val_0",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "DeployDAO",
+  "type": "event",
+  "stateMutability": "nonpayable",
+  "signature": "DeployDAO(address)",
+  "encoding": "0x3a7eb042a769adf51e9be78b68ed7af0ad7b379246536efc376ed2ca01238282",
+  "inputs": [
+    {
+      "type": "address",
+      "name": "dao",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "regFactory",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "regFactory()",
+  "encoding": "0x656362b5",
+  "outputs": [
+    {
+      "type": "address",
+      "name": "val_0",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "baseKernel",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "baseKernel()",
+  "encoding": "0xb16dd130",
+  "outputs": [
+    {
+      "type": "address",
+      "name": "val_0",
+      "internalType": "address"
+    }
+  ]
+}] }
