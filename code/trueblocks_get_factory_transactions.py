@@ -12,7 +12,8 @@ def get_matching_files(version):
     """Get files matching the framework version"""
     files = os.listdir(TMPDIR)
     matching = [f for f in files if (version in f)]
-    return version
+    return matching
+
 
 def combine_transaction_data(matching):
     """Given list of files containing individual transaction, group into single file"""
@@ -26,6 +27,7 @@ def combine_transaction_data(matching):
         
     with open(fpath, 'w') as out:
         json.dump(transactions, out, indent=4)
+
 
 # Load factory contract addresses for each DAO framework
 df_factories = pd.read_csv(os.path.join(DATADIR, 'framework_factory_contract_addresses.csv'), index_col=False)

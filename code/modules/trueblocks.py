@@ -118,7 +118,7 @@ def chifra_abi(address):
     """
     if isinstance(address, list):
        address = " ".join(address)
-    return " ".join(["chifra", "abi", JSON, address])
+    return " ".join(["chifra", "abis", JSON, address])
 
 
 def chifra_export(address):
