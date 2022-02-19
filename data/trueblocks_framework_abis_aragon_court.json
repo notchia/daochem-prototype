@@ -1,0 +1,862 @@
+{ "data": [
+{
+  "name": "ModuleSet",
+  "type": "event",
+  "stateMutability": "nonpayable",
+  "signature": "ModuleSet(bytes32,address)",
+  "encoding": "0x0669329f751b07de4aa82f60514a409d0dfaef266e791a4a65a95b07b1c4c324",
+  "inputs": [
+    {
+      "type": "bytes32",
+      "name": "id",
+      "internalType": "bytes32"
+    },
+    {
+      "type": "address",
+      "name": "addr",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "getCurrentTermId",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "getCurrentTermId()",
+  "encoding": "0x08135a93",
+  "outputs": [
+    {
+      "type": "uint64",
+      "name": "val_0",
+      "internalType": "uint64"
+    }
+  ]
+},
+{
+  "name": "AutomaticWithdrawalsAllowedChanged",
+  "type": "event",
+  "stateMutability": "nonpayable",
+  "signature": "AutomaticWithdrawalsAllowedChanged(address,bool)",
+  "encoding": "0x189949428c2e58715ea2f0be0d702bc14e73743bdbb58814a595c19e1285c5be",
+  "inputs": [
+    {
+      "type": "address",
+      "name": "holder",
+      "indexed": true,
+      "internalType": "address"
+    },
+    {
+      "type": "bool",
+      "name": "allowed",
+      "internalType": "bool"
+    }
+  ]
+},
+{
+  "name": "getVoting",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "getVoting()",
+  "encoding": "0x1986d376",
+  "outputs": [
+    {
+      "type": "address",
+      "name": "val_0",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "getTermDuration",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "getTermDuration()",
+  "encoding": "0x22f8f6f3",
+  "outputs": [
+    {
+      "type": "uint64",
+      "name": "val_0",
+      "internalType": "uint64"
+    }
+  ]
+},
+{
+  "name": "setModules",
+  "type": "function",
+  "stateMutability": "nonpayable",
+  "signature": "setModules(bytes32[],address[])",
+  "encoding": "0x24bdf713",
+  "inputs": [
+    {
+      "type": "bytes32[]",
+      "name": "_ids",
+      "internalType": "bytes32[]"
+    },
+    {
+      "type": "address[]",
+      "name": "_addresses",
+      "internalType": "address[]"
+    }
+  ]
+},
+{
+  "name": "areWithdrawalsAllowedFor",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "areWithdrawalsAllowedFor(address)",
+  "encoding": "0x27fe748c",
+  "inputs": [
+    {
+      "type": "address",
+      "name": "_holder",
+      "internalType": "address"
+    }
+  ],
+  "outputs": [
+    {
+      "type": "bool",
+      "name": "val_0",
+      "internalType": "bool"
+    }
+  ]
+},
+{
+  "name": "FundsGovernorChanged",
+  "type": "event",
+  "stateMutability": "nonpayable",
+  "signature": "FundsGovernorChanged(address,address)",
+  "encoding": "0x2e8176039aca48fb2df80d8a3f0c25cf4f12ba7ba15aabe562bd39f71967954f",
+  "inputs": [
+    {
+      "type": "address",
+      "name": "previousGovernor",
+      "internalType": "address"
+    },
+    {
+      "type": "address",
+      "name": "currentGovernor",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "getTreasury",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "getTreasury()",
+  "encoding": "0x3b19e84a",
+  "outputs": [
+    {
+      "type": "address",
+      "name": "val_0",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "getSubscriptions",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "getSubscriptions()",
+  "encoding": "0x3b47a9ac",
+  "outputs": [
+    {
+      "type": "address",
+      "name": "val_0",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "getFundsGovernor",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "getFundsGovernor()",
+  "encoding": "0x3c28e88b",
+  "outputs": [
+    {
+      "type": "address",
+      "name": "val_0",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "ensureCurrentTerm",
+  "type": "function",
+  "stateMutability": "nonpayable",
+  "signature": "ensureCurrentTerm()",
+  "encoding": "0x3f33bf86",
+  "outputs": [
+    {
+      "type": "uint64",
+      "name": "val_0",
+      "internalType": "uint64"
+    }
+  ]
+},
+{
+  "name": "getModulesGovernor",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "getModulesGovernor()",
+  "encoding": "0x408a2640",
+  "outputs": [
+    {
+      "type": "address",
+      "name": "val_0",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "getNeededTermTransitions",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "getNeededTermTransitions()",
+  "encoding": "0x50c36580",
+  "outputs": [
+    {
+      "type": "uint64",
+      "name": "val_0",
+      "internalType": "uint64"
+    }
+  ]
+},
+{
+  "name": "setModule",
+  "type": "function",
+  "stateMutability": "nonpayable",
+  "signature": "setModule(bytes32,address)",
+  "encoding": "0x541cd468",
+  "inputs": [
+    {
+      "type": "bytes32",
+      "name": "_id",
+      "internalType": "bytes32"
+    },
+    {
+      "type": "address",
+      "name": "_addr",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "getTermRandomness",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "getTermRandomness(uint64)",
+  "encoding": "0x61f3be6a",
+  "inputs": [
+    {
+      "type": "uint64",
+      "name": "_termId",
+      "internalType": "uint64"
+    }
+  ],
+  "outputs": [
+    {
+      "type": "bytes32",
+      "name": "val_0",
+      "internalType": "bytes32"
+    }
+  ]
+},
+{
+  "name": "getDraftConfig",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "getDraftConfig(uint64)",
+  "encoding": "0x69667005",
+  "inputs": [
+    {
+      "type": "uint64",
+      "name": "_termId",
+      "internalType": "uint64"
+    }
+  ],
+  "outputs": [
+    {
+      "type": "address",
+      "name": "feeToken",
+      "internalType": "address"
+    },
+    {
+      "type": "uint256",
+      "name": "draftFee",
+      "internalType": "uint256"
+    },
+    {
+      "type": "uint16",
+      "name": "penaltyPct",
+      "internalType": "uint16"
+    }
+  ]
+},
+{
+  "name": "getConfigChangeTermId",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "getConfigChangeTermId()",
+  "encoding": "0x6991fdb8",
+  "outputs": [
+    {
+      "type": "uint64",
+      "name": "val_0",
+      "internalType": "uint64"
+    }
+  ]
+},
+{
+  "name": "getDisputeFees",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "getDisputeFees()",
+  "encoding": "0x7b751b9e",
+  "outputs": [
+    {
+      "type": "address",
+      "name": "recipient",
+      "internalType": "address"
+    },
+    {
+      "type": "address",
+      "name": "feeToken",
+      "internalType": "address"
+    },
+    {
+      "type": "uint256",
+      "name": "feeAmount",
+      "internalType": "uint256"
+    }
+  ]
+},
+{
+  "name": "ensureCurrentTermRandomness",
+  "type": "function",
+  "stateMutability": "nonpayable",
+  "signature": "ensureCurrentTermRandomness()",
+  "encoding": "0x7d1f24c9",
+  "outputs": [
+    {
+      "type": "bytes32",
+      "name": "val_0",
+      "internalType": "bytes32"
+    }
+  ]
+},
+{
+  "name": "closeEvidencePeriod",
+  "type": "function",
+  "stateMutability": "nonpayable",
+  "signature": "closeEvidencePeriod(uint256)",
+  "encoding": "0x7e9adccf",
+  "inputs": [
+    {
+      "type": "uint256",
+      "name": "_disputeId",
+      "internalType": "uint256"
+    }
+  ]
+},
+{
+  "name": "setAutomaticWithdrawals",
+  "type": "function",
+  "stateMutability": "nonpayable",
+  "signature": "setAutomaticWithdrawals(bool)",
+  "encoding": "0x7fb011d6",
+  "inputs": [
+    {
+      "type": "bool",
+      "name": "_allowed",
+      "internalType": "bool"
+    }
+  ]
+},
+{
+  "name": "getModule",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "getModule(bytes32)",
+  "encoding": "0x85acd641",
+  "inputs": [
+    {
+      "type": "bytes32",
+      "name": "_id",
+      "internalType": "bytes32"
+    }
+  ],
+  "outputs": [
+    {
+      "type": "address",
+      "name": "val_0",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "executeRuling",
+  "type": "function",
+  "stateMutability": "nonpayable",
+  "signature": "executeRuling(uint256)",
+  "encoding": "0x8bb04875",
+  "inputs": [
+    {
+      "type": "uint256",
+      "name": "_disputeId",
+      "internalType": "uint256"
+    }
+  ]
+},
+{
+  "name": "ejectModulesGovernor",
+  "type": "function",
+  "stateMutability": "nonpayable",
+  "signature": "ejectModulesGovernor()",
+  "encoding": "0x8c8bd218"
+},
+{
+  "name": "changeFundsGovernor",
+  "type": "function",
+  "stateMutability": "nonpayable",
+  "signature": "changeFundsGovernor(address)",
+  "encoding": "0x8de10e87",
+  "inputs": [
+    {
+      "type": "address",
+      "name": "_newFundsGovernor",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "getJurorsRegistry",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "getJurorsRegistry()",
+  "encoding": "0x953e46a0",
+  "outputs": [
+    {
+      "type": "address",
+      "name": "val_0",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "getMinActiveBalance",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "getMinActiveBalance(uint64)",
+  "encoding": "0x95f3c2da",
+  "inputs": [
+    {
+      "type": "uint64",
+      "name": "_termId",
+      "internalType": "uint64"
+    }
+  ],
+  "outputs": [
+    {
+      "type": "uint256",
+      "name": "val_0",
+      "internalType": "uint256"
+    }
+  ]
+},
+{
+  "name": "getConfigGovernor",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "getConfigGovernor()",
+  "encoding": "0x97023f81",
+  "outputs": [
+    {
+      "type": "address",
+      "name": "val_0",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "StartTimeDelayed",
+  "type": "event",
+  "stateMutability": "nonpayable",
+  "signature": "StartTimeDelayed(uint64,uint64)",
+  "encoding": "0x9b735da8a0762c6e913df06587b4fa81f87b8075e2a2afdeae6afde9456fd879",
+  "inputs": [
+    {
+      "type": "uint64",
+      "name": "previousStartTime",
+      "internalType": "uint64"
+    },
+    {
+      "type": "uint64",
+      "name": "currentStartTime",
+      "internalType": "uint64"
+    }
+  ]
+},
+{
+  "name": "heartbeat",
+  "type": "function",
+  "stateMutability": "nonpayable",
+  "signature": "heartbeat(uint64)",
+  "encoding": "0x9bf6fa57",
+  "inputs": [
+    {
+      "type": "uint64",
+      "name": "_maxRequestedTransitions",
+      "internalType": "uint64"
+    }
+  ],
+  "outputs": [
+    {
+      "type": "uint64",
+      "name": "val_0",
+      "internalType": "uint64"
+    }
+  ]
+},
+{
+  "name": "setConfig",
+  "type": "function",
+  "stateMutability": "nonpayable",
+  "signature": "setConfig(uint64,address,uint256[3],uint64[5],uint16[2],uint64[4],uint256[2],uint256)",
+  "encoding": "0xa949e982",
+  "inputs": [
+    {
+      "type": "uint64",
+      "name": "_fromTermId",
+      "internalType": "uint64"
+    },
+    {
+      "type": "address",
+      "name": "_feeToken",
+      "internalType": "address"
+    },
+    {
+      "type": "uint256[3]",
+      "name": "_fees",
+      "internalType": "uint256[3]"
+    },
+    {
+      "type": "uint64[5]",
+      "name": "_roundStateDurations",
+      "internalType": "uint64[5]"
+    },
+    {
+      "type": "uint16[2]",
+      "name": "_pcts",
+      "internalType": "uint16[2]"
+    },
+    {
+      "type": "uint64[4]",
+      "name": "_roundParams",
+      "internalType": "uint64[4]"
+    },
+    {
+      "type": "uint256[2]",
+      "name": "_appealCollateralParams",
+      "internalType": "uint256[2]"
+    },
+    {
+      "type": "uint256",
+      "name": "_minActiveBalance",
+      "internalType": "uint256"
+    }
+  ]
+},
+{
+  "name": "ConfigGovernorChanged",
+  "type": "event",
+  "stateMutability": "nonpayable",
+  "signature": "ConfigGovernorChanged(address,address)",
+  "encoding": "0xad1fe49159fc13ce805cb23e72eb6724c008509c8095b9499752efea5747af3e",
+  "inputs": [
+    {
+      "type": "address",
+      "name": "previousGovernor",
+      "internalType": "address"
+    },
+    {
+      "type": "address",
+      "name": "currentGovernor",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "ModulesGovernorChanged",
+  "type": "event",
+  "stateMutability": "nonpayable",
+  "signature": "ModulesGovernorChanged(address,address)",
+  "encoding": "0xaf8bba87fb343f5755495c80323f32cd6bbfaebd666ff5abac709bc1f76f2f17",
+  "inputs": [
+    {
+      "type": "address",
+      "name": "previousGovernor",
+      "internalType": "address"
+    },
+    {
+      "type": "address",
+      "name": "currentGovernor",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "Heartbeat",
+  "type": "event",
+  "stateMutability": "nonpayable",
+  "signature": "Heartbeat(uint64,uint64)",
+  "encoding": "0xb8818b6d0c27e4fc7cf75de16ac2543426d3c0bcc520931d24e5a7dde4adca11",
+  "inputs": [
+    {
+      "type": "uint64",
+      "name": "previousTermId",
+      "internalType": "uint64"
+    },
+    {
+      "type": "uint64",
+      "name": "currentTermId",
+      "internalType": "uint64"
+    }
+  ]
+},
+{
+  "name": "createDispute",
+  "type": "function",
+  "stateMutability": "nonpayable",
+  "signature": "createDispute(uint256,bytes)",
+  "encoding": "0xc13517e1",
+  "inputs": [
+    {
+      "type": "uint256",
+      "name": "_possibleRulings",
+      "internalType": "uint256"
+    },
+    {
+      "type": "bytes",
+      "name": "_metadata",
+      "internalType": "bytes"
+    }
+  ],
+  "outputs": [
+    {
+      "type": "uint256",
+      "name": "val_0",
+      "internalType": "uint256"
+    }
+  ]
+},
+{
+  "name": "ejectFundsGovernor",
+  "type": "function",
+  "stateMutability": "nonpayable",
+  "signature": "ejectFundsGovernor()",
+  "encoding": "0xcf0a5af3"
+},
+{
+  "name": "changeModulesGovernor",
+  "type": "function",
+  "stateMutability": "nonpayable",
+  "signature": "changeModulesGovernor(address)",
+  "encoding": "0xd7a84693",
+  "inputs": [
+    {
+      "type": "address",
+      "name": "_newModulesGovernor",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "changeConfigGovernor",
+  "type": "function",
+  "stateMutability": "nonpayable",
+  "signature": "changeConfigGovernor(address)",
+  "encoding": "0xd9296df2",
+  "inputs": [
+    {
+      "type": "address",
+      "name": "_newConfigGovernor",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "getDisputeManager",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "getDisputeManager()",
+  "encoding": "0xdb9bee46",
+  "outputs": [
+    {
+      "type": "address",
+      "name": "val_0",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "getConfig",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "getConfig(uint64)",
+  "encoding": "0xe008cb62",
+  "inputs": [
+    {
+      "type": "uint64",
+      "name": "_termId",
+      "internalType": "uint64"
+    }
+  ],
+  "outputs": [
+    {
+      "type": "address",
+      "name": "feeToken",
+      "internalType": "address"
+    },
+    {
+      "type": "uint256[3]",
+      "name": "fees",
+      "internalType": "uint256[3]"
+    },
+    {
+      "type": "uint64[5]",
+      "name": "roundStateDurations",
+      "internalType": "uint64[5]"
+    },
+    {
+      "type": "uint16[2]",
+      "name": "pcts",
+      "internalType": "uint16[2]"
+    },
+    {
+      "type": "uint64[4]",
+      "name": "roundParams",
+      "internalType": "uint64[4]"
+    },
+    {
+      "type": "uint256[2]",
+      "name": "appealCollateralParams",
+      "internalType": "uint256[2]"
+    },
+    {
+      "type": "uint256",
+      "name": "minActiveBalance",
+      "internalType": "uint256"
+    }
+  ]
+},
+{
+  "name": "delayStartTime",
+  "type": "function",
+  "stateMutability": "nonpayable",
+  "signature": "delayStartTime(uint64)",
+  "encoding": "0xe36057b7",
+  "inputs": [
+    {
+      "type": "uint64",
+      "name": "_newFirstTermStartTime",
+      "internalType": "uint64"
+    }
+  ]
+},
+{
+  "name": "getSubscriptionFees",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "getSubscriptionFees(address)",
+  "encoding": "0xe3f2311e",
+  "inputs": [
+    {
+      "type": "address",
+      "name": "_subscriber",
+      "internalType": "address"
+    }
+  ],
+  "outputs": [
+    {
+      "type": "address",
+      "name": "recipient",
+      "internalType": "address"
+    },
+    {
+      "type": "address",
+      "name": "feeToken",
+      "internalType": "address"
+    },
+    {
+      "type": "uint256",
+      "name": "feeAmount",
+      "internalType": "uint256"
+    }
+  ]
+},
+{
+  "name": "getTerm",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "getTerm(uint64)",
+  "encoding": "0xf137b44e",
+  "inputs": [
+    {
+      "type": "uint64",
+      "name": "_termId",
+      "internalType": "uint64"
+    }
+  ],
+  "outputs": [
+    {
+      "type": "uint64",
+      "name": "startTime",
+      "internalType": "uint64"
+    },
+    {
+      "type": "uint64",
+      "name": "randomnessBN",
+      "internalType": "uint64"
+    },
+    {
+      "type": "bytes32",
+      "name": "randomness",
+      "internalType": "bytes32"
+    }
+  ]
+},
+{
+  "name": "getLastEnsuredTermId",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "getLastEnsuredTermId()",
+  "encoding": "0xf7fe5789",
+  "outputs": [
+    {
+      "type": "uint64",
+      "name": "val_0",
+      "internalType": "uint64"
+    }
+  ]
+},
+{
+  "name": "NewConfig",
+  "type": "event",
+  "stateMutability": "nonpayable",
+  "signature": "NewConfig(uint64,uint64)",
+  "encoding": "0xf991c74e88b00b8de409caf790045f133e9a8283d3b989db88e2b2d93612c3a7",
+  "inputs": [
+    {
+      "type": "uint64",
+      "name": "fromTermId",
+      "internalType": "uint64"
+    },
+    {
+      "type": "uint64",
+      "name": "courtConfigId",
+      "internalType": "uint64"
+    }
+  ]
+}] }

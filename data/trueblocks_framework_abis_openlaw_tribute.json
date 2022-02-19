@@ -1,0 +1,328 @@
+{ "data": [
+{
+  "name": "DAOCreated",
+  "type": "event",
+  "stateMutability": "nonpayable",
+  "signature": "DAOCreated(address,string)",
+  "encoding": "0x001d639484c46792ffbaa78827c6f9e6563478dac823f4e2a8ece68cf4d48673",
+  "inputs": [
+    {
+      "type": "address",
+      "name": "_address",
+      "internalType": "address"
+    },
+    {
+      "type": "string",
+      "name": "_name",
+      "internalType": "string"
+    }
+  ]
+},
+{
+  "name": "getDaoAddress",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "getDaoAddress(string)",
+  "encoding": "0x1d1f0a27",
+  "inputs": [
+    {
+      "type": "string",
+      "name": "daoName",
+      "internalType": "string"
+    }
+  ],
+  "outputs": [
+    {
+      "type": "address",
+      "name": "val_0",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "configureExtension",
+  "type": "function",
+  "stateMutability": "nonpayable",
+  "signature": "configureExtension(address,address,(bytes32,address,uint128)[])",
+  "encoding": "0x29ca12ed",
+  "inputs": [
+    {
+      "type": "address",
+      "name": "dao",
+      "internalType": "contract DaoRegistry"
+    },
+    {
+      "type": "address",
+      "name": "extension",
+      "internalType": "address"
+    },
+    {
+      "type": "tuple[]",
+      "name": "adapters",
+      "internalType": "struct DaoFactory.Adapter[]",
+      "components": [
+        {
+          "type": "bytes32",
+          "name": "id",
+          "internalType": "bytes32"
+        },
+        {
+          "type": "address",
+          "name": "addr",
+          "internalType": "address"
+        },
+        {
+          "type": "uint128",
+          "name": "flags",
+          "internalType": "uint128"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "createDao",
+  "type": "function",
+  "stateMutability": "nonpayable",
+  "signature": "createDao(string,address)",
+  "encoding": "0x3baeff3f",
+  "inputs": [
+    {
+      "type": "string",
+      "name": "daoName",
+      "internalType": "string"
+    },
+    {
+      "type": "address",
+      "name": "creator",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "addresses",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "addresses(bytes32)",
+  "encoding": "0x699f200f",
+  "inputs": [
+    {
+      "type": "bytes32",
+      "name": "val_0",
+      "internalType": "bytes32"
+    }
+  ],
+  "outputs": [
+    {
+      "type": "address",
+      "name": "val_0",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "addAdapters",
+  "type": "function",
+  "stateMutability": "nonpayable",
+  "signature": "addAdapters(address,(bytes32,address,uint128)[])",
+  "encoding": "0x9bb20084",
+  "inputs": [
+    {
+      "type": "address",
+      "name": "dao",
+      "internalType": "contract DaoRegistry"
+    },
+    {
+      "type": "tuple[]",
+      "name": "adapters",
+      "internalType": "struct DaoFactory.Adapter[]",
+      "components": [
+        {
+          "type": "bytes32",
+          "name": "id",
+          "internalType": "bytes32"
+        },
+        {
+          "type": "address",
+          "name": "addr",
+          "internalType": "address"
+        },
+        {
+          "type": "uint128",
+          "name": "flags",
+          "internalType": "uint128"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "updateAdapter",
+  "type": "function",
+  "stateMutability": "nonpayable",
+  "signature": "updateAdapter(address,(bytes32,address,uint128))",
+  "encoding": "0xac704cbe",
+  "inputs": [
+    {
+      "type": "address",
+      "name": "dao",
+      "internalType": "contract DaoRegistry"
+    },
+    {
+      "type": "tuple",
+      "name": "adapter",
+      "internalType": "struct DaoFactory.Adapter",
+      "components": [
+        {
+          "type": "bytes32",
+          "name": "id",
+          "internalType": "bytes32"
+        },
+        {
+          "type": "address",
+          "name": "addr",
+          "internalType": "address"
+        },
+        {
+          "type": "uint128",
+          "name": "flags",
+          "internalType": "uint128"
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "setFlag",
+  "type": "function",
+  "stateMutability": "pure",
+  "signature": "setFlag(uint256,uint256,bool)",
+  "encoding": "0xb244a41d",
+  "inputs": [
+    {
+      "type": "uint256",
+      "name": "flags",
+      "internalType": "uint256"
+    },
+    {
+      "type": "uint256",
+      "name": "flag",
+      "internalType": "uint256"
+    },
+    {
+      "type": "bool",
+      "name": "value",
+      "internalType": "bool"
+    }
+  ],
+  "outputs": [
+    {
+      "type": "uint256",
+      "name": "val_0",
+      "internalType": "uint256"
+    }
+  ]
+},
+{
+  "name": "identityAddress",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "identityAddress()",
+  "encoding": "0xbf45767a",
+  "outputs": [
+    {
+      "type": "address",
+      "name": "val_0",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "daos",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "daos(address)",
+  "encoding": "0xc25f3cf6",
+  "inputs": [
+    {
+      "type": "address",
+      "name": "val_0",
+      "internalType": "address"
+    }
+  ],
+  "outputs": [
+    {
+      "type": "bytes32",
+      "name": "val_0",
+      "internalType": "bytes32"
+    }
+  ]
+},
+{
+  "name": "isNotZeroAddress",
+  "type": "function",
+  "stateMutability": "pure",
+  "signature": "isNotZeroAddress(address)",
+  "encoding": "0xca0f4633",
+  "inputs": [
+    {
+      "type": "address",
+      "name": "addr",
+      "internalType": "address"
+    }
+  ],
+  "outputs": [
+    {
+      "type": "bool",
+      "name": "val_0",
+      "internalType": "bool"
+    }
+  ]
+},
+{
+  "name": "isNotReservedAddress",
+  "type": "function",
+  "stateMutability": "pure",
+  "signature": "isNotReservedAddress(address)",
+  "encoding": "0xef6a2499",
+  "inputs": [
+    {
+      "type": "address",
+      "name": "addr",
+      "internalType": "address"
+    }
+  ],
+  "outputs": [
+    {
+      "type": "bool",
+      "name": "val_0",
+      "internalType": "bool"
+    }
+  ]
+},
+{
+  "name": "getFlag",
+  "type": "function",
+  "stateMutability": "pure",
+  "signature": "getFlag(uint256,uint256)",
+  "encoding": "0xfc258031",
+  "inputs": [
+    {
+      "type": "uint256",
+      "name": "flags",
+      "internalType": "uint256"
+    },
+    {
+      "type": "uint256",
+      "name": "flag",
+      "internalType": "uint256"
+    }
+  ],
+  "outputs": [
+    {
+      "type": "bool",
+      "name": "val_0",
+      "internalType": "bool"
+    }
+  ]
+}] }

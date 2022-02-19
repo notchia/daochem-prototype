@@ -1,0 +1,176 @@
+{ "data": [
+{
+  "name": "setSchemes",
+  "type": "function",
+  "stateMutability": "nonpayable",
+  "signature": "setSchemes(address,address[],bytes32[],bytes4[],string)",
+  "encoding": "0x064bf386",
+  "inputs": [
+    {
+      "type": "address",
+      "name": "_avatar",
+      "internalType": "address"
+    },
+    {
+      "type": "address[]",
+      "name": "_schemes",
+      "internalType": "address[]"
+    },
+    {
+      "type": "bytes32[]",
+      "name": "_params",
+      "internalType": "bytes32[]"
+    },
+    {
+      "type": "bytes4[]",
+      "name": "_permissions",
+      "internalType": "bytes4[]"
+    },
+    {
+      "type": "string",
+      "name": "_metaData",
+      "internalType": "string"
+    }
+  ]
+},
+{
+  "name": "NewOrg",
+  "type": "event",
+  "stateMutability": "nonpayable",
+  "signature": "NewOrg(address)",
+  "encoding": "0x244496352f5e67e59ce96b4a53ef9ea7cb88b7db33eb13dc5e771bd04385a60e",
+  "inputs": [
+    {
+      "type": "address",
+      "name": "_avatar",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "addFounders",
+  "type": "function",
+  "stateMutability": "nonpayable",
+  "signature": "addFounders(address,address[],uint256[],uint256[])",
+  "encoding": "0x571084bd",
+  "inputs": [
+    {
+      "type": "address",
+      "name": "_avatar",
+      "internalType": "address"
+    },
+    {
+      "type": "address[]",
+      "name": "_founders",
+      "internalType": "address[]"
+    },
+    {
+      "type": "uint256[]",
+      "name": "_foundersTokenAmount",
+      "internalType": "uint256[]"
+    },
+    {
+      "type": "uint256[]",
+      "name": "_foundersReputationAmount",
+      "internalType": "uint256[]"
+    }
+  ],
+  "outputs": [
+    {
+      "type": "bool",
+      "name": "val_0",
+      "internalType": "bool"
+    }
+  ]
+},
+{
+  "name": "locks",
+  "type": "function",
+  "stateMutability": "view",
+  "signature": "locks(address)",
+  "encoding": "0x5de9a137",
+  "inputs": [
+    {
+      "type": "address",
+      "name": "val_0",
+      "internalType": "address"
+    }
+  ],
+  "outputs": [
+    {
+      "type": "address",
+      "name": "val_0",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "InitialSchemesSet",
+  "type": "event",
+  "stateMutability": "nonpayable",
+  "signature": "InitialSchemesSet(address)",
+  "encoding": "0x9007c9042f12be953f7dbe3909f56c3f088e9fe294dbebbef4a67afa63462b6a",
+  "inputs": [
+    {
+      "type": "address",
+      "name": "_avatar",
+      "internalType": "address"
+    }
+  ]
+},
+{
+  "name": "forgeOrg",
+  "type": "function",
+  "stateMutability": "nonpayable",
+  "signature": "forgeOrg(string,string,string,address[],uint256[],uint256[],address,uint256)",
+  "encoding": "0xff720f0f",
+  "inputs": [
+    {
+      "type": "string",
+      "name": "_orgName",
+      "internalType": "string"
+    },
+    {
+      "type": "string",
+      "name": "_tokenName",
+      "internalType": "string"
+    },
+    {
+      "type": "string",
+      "name": "_tokenSymbol",
+      "internalType": "string"
+    },
+    {
+      "type": "address[]",
+      "name": "_founders",
+      "internalType": "address[]"
+    },
+    {
+      "type": "uint256[]",
+      "name": "_foundersTokenAmount",
+      "internalType": "uint256[]"
+    },
+    {
+      "type": "uint256[]",
+      "name": "_foundersReputationAmount",
+      "internalType": "uint256[]"
+    },
+    {
+      "type": "address",
+      "name": "_uController",
+      "internalType": "address"
+    },
+    {
+      "type": "uint256",
+      "name": "_cap",
+      "internalType": "uint256"
+    }
+  ],
+  "outputs": [
+    {
+      "type": "address",
+      "name": "val_0",
+      "internalType": "address"
+    }
+  ]
+}] }
