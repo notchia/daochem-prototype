@@ -6,6 +6,7 @@ namespace Model.BoardRoom
     public class Protocol
     {
         public string id { get; set; }
+        public string framework { get; set; }
         public DocumentType DocumentType { get; set; } = DocumentType.Protocol;
 
         // Boardroom data
