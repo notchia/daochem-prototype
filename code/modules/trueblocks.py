@@ -139,6 +139,15 @@ def chifra_export_logs(address):
     return " ".join(["chifra", "export", "--factory",  "--logs", "--articulate", "--relevant", JSON, address])
 
 
+def chifra_trace(address):
+    """Export all transactions involving this account:
+    command line: chifra export --fmt json <address>
+    https://trueblocks.io/docs/chifra/accounts/#chifra-export
+    """
+
+    return " ".join(["chifra", "export", "--trace", "--articulate", JSON, address])
+
+
 def test_address_export(address):
     # Create monitor
     cmd = chifra_list(address)
