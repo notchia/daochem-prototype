@@ -13,7 +13,7 @@ Are (on-chain) DAOs working right now? Are they achieving their stated goals, an
 DAOs that have an on-chain component to their governance process often deploy their smart contracts through a platform like Arargon or DAOHaus. In these cases, the contract is created by the platform's factory contract. We are accessing the entire transaction history of these factory contracts using [TrueBlocks](https://trueblocks.io/) and an archive node (generously provided by [ArchiveNode.io](https://archivenode.io/), to pull out the parameters set at the time of deployment for each set of DAO governance smart contracts.
 #### Twitter engagement with governance-related tweets
 Twitter is a common way for a DAO to engage with its membership. We are using the Twitter API to acquire the follower counts and the contents and engagement of up to the 200 most recent tweets for DAOs with Twitter accounts. From these, we select those related to governance (based on keyword searchs) to guage how frequently the DAO communicates about its governance process and how engaged the DAO's followers are with these.
-#### Contributor seentiment survey
+#### Contributor sentiment survey
 Quantitative data on DAO governance is useful, but ignores an important component of a DAO's operations: its contributors. Similar to how GlassDoor provides some context about what it's like to actually work at a company, we are deploying a short survey to understand how DAO contributors feel about, for example, whether the governance process is legitimate, or whether their contribution is valued.
 ### Sourced datasets
 #### DeepDAO
