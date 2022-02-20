@@ -8,7 +8,7 @@ from modules.utils import load_json
 
 os.chdir(CWD)
 
-def get_matching_files(version):
+def get_matching_files(version, label):
     """Get files matching the framework version"""
     files = os.listdir(TMPDIR)
     matching = [f for f in files if ((version in f) and (label in f))]
@@ -36,8 +36,7 @@ def combine_trace_data(matching, fpath):
     for f in matching:
         count = os.path.splitext(f)[0].split('_')[-1]
         t = load_json(os.path.join(TMPDIR, f))
-        t_cut = tb.get_minimal_transaction_info(t)
-        transactions[int(count)] = t_cut
+        transactions[int(count)] = t
         
     with open(fpath, 'w') as out:
         json.dump(transactions, out, indent=4)
@@ -63,7 +62,7 @@ for i, row in df_factories.iterrows():
     addr = row['factoryAddress']
     print(version)
 
-    label = 'export'
+    label = 'factory'
     fpath = os.path.join(DATADIR, f'trueblocks_export_{version}.json')
     matching = get_matching_files(version, label)
     if not any(matching):
@@ -95,7 +94,7 @@ for i, row in df_factories.iterrows():
         try:
             # Export transactions if not previously exported
             cmd = tb.chifra_trace(addr)
-            tb.pipe_chifra_call_with_sleep(cmd, label=f"trueblocks_trace_{row['version']}_full")
+            tb.pipe_chifra_call_with_sleep(cmd, label=f"trueblocks_trace_{row['version']}")
 
             # Update matching file list
             matching = get_matching_files(version, label)

@@ -130,6 +130,10 @@ def chifra_export(address):
     return " ".join(["chifra", "export", "--articulate", CACHE, JSON, address])
 
 
+def chifra_trace(address):
+    return " ".join(["chifra", "export", "--traces", "--articulate", CACHE, JSON, address])
+
+
 def chifra_export_logs(address):
     """Export all transactions involving this account:
     command line: chifra export --fmt json <address>
