@@ -94,13 +94,19 @@ def get_minimal_transaction_info(transaction):
     return t
 
 
+def get_minimal_trace_info(fullTrace):
+    trace = fullTrace.get('data', [])
+    contractsCreated = [t.get('result', {}).get('newContract') for t in trace if t.get('action', {}).get('callType') == "creation"]
+
+    return {'contractsCreated': contractsCreated}
+
+
 def chifra_list(address):
     """Retrieve a smart contract's ABI file
     https://trueblocks.io/docs/chifra/accounts/#chifra-abis
     """    
     if isinstance(address, list):
        address = " ".join(address)
-
     return " ".join(["chifra", "list", JSON, address])
 
 
@@ -108,6 +114,8 @@ def chifra_blocks(block):
     """Retrieve a smart contract's ABI file
     https://trueblocks.io/docs/chifra/accounts/#chifra-abis
     """
+    if isinstance(address, list):
+       address = " ".join(address)
     return " ".join(["chifra", "blocks", JSON, CACHE, block])
 
 
@@ -115,7 +123,9 @@ def chifra_abi(address):
     """Retrieve a smart contract's ABI file
     https://trueblocks.io/docs/chifra/accounts/#chifra-abis
     """
-    return " ".join(["chifra", "abi", JSON, address])
+    if isinstance(address, list):
+       address = " ".join(address)
+    return " ".join(["chifra", "abis", JSON, address])
 
 
 def chifra_export(address):
@@ -127,6 +137,10 @@ def chifra_export(address):
     return " ".join(["chifra", "export", "--articulate", CACHE, JSON, address])
 
 
+def chifra_trace(address):
+    return " ".join(["chifra", "export", "--traces", "--articulate", CACHE, JSON, address])
+
+
 def chifra_export_logs(address):
     """Export all transactions involving this account:
     command line: chifra export --fmt json <address>
@@ -134,6 +148,15 @@ def chifra_export_logs(address):
     """
 
     return " ".join(["chifra", "export", "--factory",  "--logs", "--articulate", "--relevant", JSON, address])
+
+
+def chifra_trace(address):
+    """Export all transactions involving this account:
+    command line: chifra export --fmt json <address>
+    https://trueblocks.io/docs/chifra/accounts/#chifra-export
+    """
+
+    return " ".join(["chifra", "export", "--trace", "--articulate", JSON, address])
 
 
 def test_address_export(address):

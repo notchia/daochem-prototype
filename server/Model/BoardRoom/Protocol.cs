@@ -6,6 +6,7 @@ namespace Model.BoardRoom
     public class Protocol
     {
         public string id { get; set; }
+        public string framework { get; set; }
         public DocumentType DocumentType { get; set; } = DocumentType.Protocol;
 
         // Boardroom data
@@ -18,6 +19,12 @@ namespace Model.BoardRoom
         public List<Icons> Icons { get; set; }
 
         // Twitter Info
+        // name,key_word_tweet_count,tweet_count,key_word_ratio,likes,follower_count,like_follower_ratio
+        public long? key_word_tweet_count { get; set; }
+        public long? tweet_count { get; set; }
+        public decimal? key_word_ratio { get; set; }
+        public long? likes { get; set; }
+        public decimal? like_follower_ratio { get; set; }
         public string TwitterHandle { get; set; }
         public string TwitterURL { get; set; }
         public string FollowerCount { get; set; }

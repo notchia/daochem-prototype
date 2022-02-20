@@ -1,65 +1,16 @@
 ﻿@page "/"
-@inject IBackEndBoardRoomService _boardRoomService
 
-<h1>Protocol Information</h1>
-
-
-<div class="container">
-    @if (hasLoaded)
-    {
-        <RadzenDataGrid AllowFiltering="true" AllowColumnResize="true" FilterMode="FilterMode.Advanced" AllowSorting="true" PageSize="30" AllowPaging="true" PagerHorizontalAlign="HorizontalAlign.Left" ShowPagingSummary="true"
-                        Data="@_protocols" TItem="Protocol" ColumnWidth="300px" LogicalFilterOperator="LogicalFilterOperator.Or">
-            <Columns>
-                <RadzenDataGridColumn TItem="Protocol" Property="Name" Filterable="false" Title="Protocol Name" Frozen="true" Width="70px" TextAlign="TextAlign.Center" />
-                <RadzenDataGridColumn TItem="Protocol" Title="Icon" Frozen="true" Sortable="false" Filterable="false" Width="60px">
-                    <Template Context="data">
-                        <RadzenImage Path="@data.Icons.First().Url" style="width: 40px; height: 40px; border-radius: 8px;" />
-                    </Template>
-                </RadzenDataGridColumn>
-                <RadzenDataGridColumn TItem="Protocol" Property="TotalProposals" Title="Total Proposals" Frozen="true" Width="140px" />
-                <RadzenDataGridColumn TItem="Protocol" Property="TotalVotes" Title="Total Votes" Frozen="true" Width="140px" />
-                <RadzenDataGridColumn TItem="Protocol" Property="UniqueVoters" Title="Unique Voters" Frozen="true" Width="140px" />
-            </Columns>
-        </RadzenDataGrid>
-
-
-
-
-
-
-
-
-
-
-
-
-
-        @foreach (Protocol protocol in _protocols)
-        {
-            <div class="row">
-                <div class="card">
-                    <p>
-                        <b>Protocol Name</b> @protocol.Name
-                    </p>
-                </div>
-            </div>
-        }
-    }
-    else
-    {
+<Banner />
+<div class="content-text">
+    <Animate Animation="Animations.SlideUp" DurationMs="1000">
         <p>
-            Loading...
+            Incepted at BUIDLweek 2022, we're a team of 4 researching the intersection of on-chain DAO data (proposals + votes), twitter engagement data, and qualitative sentiment data in order to characterize the DAO governance landscape. 
         </p>
-    }
+        <p>
+            Lucia Korpas (team lead, on chain data lead) 
+            Sage Shelton (qualitative data lead) 
+            Strykerin (product lead)
+            Son Ngyuen (off-chain data lead) 
+        </p>
+    </Animate>
 </div>
-
-@code {
-    private bool hasLoaded = false;
-    private List<Protocol> _protocols = new List<Protocol>();
-
-    protected override async Task OnInitializedAsync()
-    {
-        _protocols = await _boardRoomService.GetProtocols();
-        hasLoaded = true;
-    }
-}

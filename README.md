@@ -1,14 +1,15 @@
 # daochem
-## Logistics
-- Sunday 02/20 @ 7am: project submission on [DoraHacks](https://hackerlink.io/hackathon/ethdenver22/) is due!
-- Sunday 02/20 @ 9:30am-1pm: project presentation
-- Sunday 02/20 @ 2pm: TBD!
+**DAOchem** is a solution in which on- and off-chain governance data sources react to produce a holistic view of DAO governance. We integrate data on **smart contract parameters**, **voting activity**, **Twitter activity**, and **contributor sentiment** to help DAO creators and contributors understand the governance landscape.
 
 ## Overarching questions driving our work
 Are (on-chain) DAOs working right now? Are they achieving their stated goals, and are members enjoying the experience?
 - What governance systems are DAO members choosing to implement?
 - In what ways are DAO members participating (in measureable ways)? Does DAO member activity relate to the chosen systems?
 - How satisfied are DAO members with their own experiences in the DAO and with the health/success of the DAO overall? How do these experiences relate to the chosen systems?
+
+## Data sources
+### New datasets
+### Sourced datasets
 
 ## #BUIDLWeek deliverable
 We will collect a new dataset of on- and off-chain data on DAO governance (contextualized with some existing datasets) to build a website displaying:
