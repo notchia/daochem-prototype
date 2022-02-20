@@ -1,4 +1,4 @@
-,organization_name,type,governance_address,url,description,cleanAddress
+,organization_name,type,governance_address,url,description,clean_address
 0,0x06Bdd90Cc7122D4531ab7CbB3C22D265Cb112ABD,governance,0x06bdd90cc7122d4531ab7cbb3c22d265cb112abd,https://client.aragon.org/#/0x06bdd90cc7122d4531ab7cbb3c22d265cb112abd,Aragon Governance,0x06bdd90cc7122d4531ab7cbb3c22d265cb112abd
 1,0x117d1F8CB4Bf6e74Bc5D667f15af7b810baCCCD6,governance,0x117d1f8cb4bf6e74bc5d667f15af7b810bacccd6,https://client.aragon.org/#/0x117d1f8cb4bf6e74bc5d667f15af7b810bacccd6,Aragon Governance,0x117d1f8cb4bf6e74bc5d667f15af7b810bacccd6
 2,1HiveLLC,governance,1hivellc.aragonid.eth,https://client.aragon.org/#/1hivellc.aragonid.eth,Aragon Governance,0xAf3098521355BC588424560155a40C5b4bf7185E
