@@ -11,11 +11,25 @@ os.chdir(CWD)
 def get_matching_files(version):
     """Get files matching the framework version"""
     files = os.listdir(TMPDIR)
-    matching = [f for f in files if (version in f)]
+    matching = [f for f in files if ((version in f) and (label in f))]
     return matching
 
 
-def combine_transaction_data(matching):
+def combine_transaction_data(matching, fpath):
+    """Given list of files containing individual transaction, group into single file"""
+    transactions = {}
+    matching.sort(key=lambda s: int(os.path.splitext(s)[0].split('_')[-1]))
+    for f in matching:
+        count = os.path.splitext(f)[0].split('_')[-1]
+        t = load_json(os.path.join(TMPDIR, f))
+        t_cut = tb.get_minimal_transaction_info(t)
+        transactions[int(count)] = t_cut
+        
+    with open(fpath, 'w') as out:
+        json.dump(transactions, out, indent=4)
+
+
+def combine_trace_data(matching, fpath):
     """Given list of files containing individual transaction, group into single file"""
     transactions = {}
     matching.sort(key=lambda s: int(os.path.splitext(s)[0].split('_')[-1]))
@@ -46,27 +60,51 @@ for i, row in df_factories.iterrows():
 # Run chifra export for each address
 for i, row in df_factories.iterrows():
     version = row['version']
+    addr = row['factoryAddress']
     print(version)
 
-    addr = row['factoryAddress']
+    label = 'export'
     fpath = os.path.join(DATADIR, f'trueblocks_export_{version}.json')
-
-    matching = get_matching_files(version)
+    matching = get_matching_files(version, label)
     if not any(matching):
         try:
             # Export transactions if not previously exported
             cmd = tb.chifra_export(addr)
-            r = tb.pipe_chifra_call_with_sleep(cmd, label=f"trueblocks_factory_{row['version']}_full")
-            for j in r:
-                with open(f"trueblocks_factory_{row['version']}.json", "a") as outfile:
-                    json.dump(j, outfile)
+            tb.pipe_chifra_call_with_sleep(cmd, label=f"trueblocks_factory_{row['version']}_full")
 
             # Update matching file list
-            matching = get_matching_files(version)
+            matching = get_matching_files(version, label)
         except Exception as e:
             print(e)
     else:
         print(f"using {len(matching)} previous files")
     
     # Merge individual transactions into a single file for each address
-    combine_transaction_data(matching)
+    fpath = os.path.join(DATADIR, f'trueblocks_export_{version}.json')
+    combine_transaction_data(matching, fpath)
+
+# Run chifra trace for each address
+for i, row in df_factories.iterrows():
+    version = row['version']
+    addr = row['factoryAddress']
+    print(version)
+
+    label = 'trace'
+    matching = get_matching_files(version, label)
+    if not any(matching):
+        try:
+            # Export transactions if not previously exported
+            cmd = tb.chifra_trace(addr)
+            tb.pipe_chifra_call_with_sleep(cmd, label=f"trueblocks_trace_{row['version']}_full")
+
+            # Update matching file list
+            matching = get_matching_files(version, label)
+            print(f"found {len(matching)} traces")
+        except Exception as e:
+            print(e)
+    else:
+        print(f"using {len(matching)} previous files")
+    
+    # Merge individual transactions into a single file for each address
+    fpath = os.path.join(DATADIR, f'trueblocks_trace_{version}.json')
+    combine_trace_data(matching, fpath)
