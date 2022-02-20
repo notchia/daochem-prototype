@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <ErrorOnDuplicatePublishOutputFiles>false</ErrorOnDuplicatePublishOutputFiles>
   </PropertyGroup>
 
   <ItemGroup>
@@ -27,6 +28,8 @@
     <Content Remove="wwwroot\Images\photo1.jpeg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="wwwroot\Images\photo1.jpeg" />
+    <None Include="wwwroot\Images\photo1.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 </Project>

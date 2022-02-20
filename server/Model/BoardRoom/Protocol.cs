@@ -4,7 +4,15 @@ using System.Text.Json.Serialization;
 namespace Model.BoardRoom
 {
     public class Protocol
-    {
+    { 
+        public string functionInputs { get; set; }
+        public string functionName { get; set; }
+        public string transactionHash { get; set; }
+        public string contractsCreated { get; set; }
+
+
+
+        public string GovernanceAddress { get; set; }
         public string id { get; set; }
         public string framework { get; set; }
         public DocumentType DocumentType { get; set; } = DocumentType.Protocol;
