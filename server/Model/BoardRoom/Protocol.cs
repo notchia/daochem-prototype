@@ -5,6 +5,9 @@ namespace Model.BoardRoom
 {
     public class Protocol
     { 
+        public List<Sentiment> Sentiment { get; set; } = new();
+
+
         public string functionInputs { get; set; }
         public string functionName { get; set; }
         public string transactionHash { get; set; }
@@ -37,6 +40,17 @@ namespace Model.BoardRoom
         public string TwitterURL { get; set; }
         public string FollowerCount { get; set; }
         public string Category { get; set; }
+    }
+
+    public class Sentiment
+    {
+        public string DAO { get; set; }
+        public string DAOSentiment { get; set; }
+        public string PartOfDecisionMaking { get; set; }
+        public string TrustTheDecisionMaking { get; set; }
+        public string DoesDAOAccomplishMission { get; set; }
+        public string DoYouFeelNeededByTheDAO { get; set; }
+        public string DoesContributingToDAOBringFulfilment { get; set; }
     }
 
     public class Icons
