@@ -12,9 +12,11 @@
                         <RadzenImage Path="@data.Icons.First().Url" style="width: 40px; height: 40px; border-radius: 8px;" />
                     </Template>
                 </RadzenDataGridColumn>
+                <RadzenDataGridColumn TItem="Protocol" Property="framework" Title="framework" Frozen="true" Width="140px" />
                 <RadzenDataGridColumn TItem="Protocol" Property="TotalProposals" Title="Total Proposals" Frozen="true" Width="140px" />
                 <RadzenDataGridColumn TItem="Protocol" Property="TotalVotes" Title="Total Votes" Frozen="true" Width="140px" />
                 <RadzenDataGridColumn TItem="Protocol" Property="UniqueVoters" Title="Unique Voters" Frozen="true" Width="140px" />
+                <RadzenDataGridColumn TItem="Protocol" Property="like_follower_ratio" Title="like follower ratio" Frozen="true" Width="140px" />
             </Columns>
         </RadzenDataGrid>
     }
