@@ -7,6 +7,10 @@ Are (on-chain) DAOs working right now? Are they achieving their stated goals, an
 - In what ways are DAO members participating (in measureable ways)? Does DAO member activity relate to the chosen systems?
 - How satisfied are DAO members with their own experiences in the DAO and with the health/success of the DAO overall? How do these experiences relate to the chosen systems?
 
+## Data sources
+### New datasets
+### Sourced datasets
+
 ## #BUIDLWeek deliverable
 We will collect a new dataset of on- and off-chain data on DAO governance (contextualized with some existing datasets) to build a website displaying:
 - For each DAO, 
