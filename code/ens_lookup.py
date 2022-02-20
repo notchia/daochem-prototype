@@ -8,7 +8,7 @@ from modules.config import TMPDIR, DATADIR
 from modules.utils import load_json, print_groupby
 
 ## Load DeepDAO data
-df = pd.read_csv(os.path.join(TMPDIR, 'deepdao.csv'))
+df = pd.read_csv(os.path.join(DATADIR, 'deepdao.csv'))
 df['cleanAddress'] = None
 
 for i, row in df.iterrows():
@@ -22,3 +22,4 @@ for i, row in df.iterrows():
             print(e)
 
 print(df)
+df.to_csv(os.path.join(DATADIR, 'deepdao_cleaned.csv'))

@@ -1,0 +1,262 @@
+organization_name,type,governance_address,url,description
+0x06Bdd90Cc7122D4531ab7CbB3C22D265Cb112ABD,governance,0x06bdd90cc7122d4531ab7cbb3c22d265cb112abd,https://client.aragon.org/#/0x06bdd90cc7122d4531ab7cbb3c22d265cb112abd,Aragon Governance
+0x117d1F8CB4Bf6e74Bc5D667f15af7b810baCCCD6,governance,0x117d1f8cb4bf6e74bc5d667f15af7b810bacccd6,https://client.aragon.org/#/0x117d1f8cb4bf6e74bc5d667f15af7b810bacccd6,Aragon Governance
+1HiveLLC,governance,1hivellc.aragonid.eth,https://client.aragon.org/#/1hivellc.aragonid.eth,Aragon Governance
+1UP,governance,0xafdd1eb2511cd891acf2bff82dabf47e0c914d24,https://etherscan.io/address/0xafdd1eb2511cd891acf2bff82dabf47e0c914d24,Daostack Governance
+4c4bf6a8,governance,4c4bf6a8.aragonid.eth,https://client.aragon.org/#/4c4bf6a8.aragonid.eth,Aragon Governance
+6Ef0c0b0,governance,6ef0c0b0.aragonid.eth,https://client.aragon.org/#/6ef0c0b0.aragonid.eth,Aragon Governance
+Aave,governance,aave.eth,https://snapshot.org/#/aave.eth,Snapshot Governance
+Aave,governance,0x89c51828427f70d77875c6747759fb17ba10ceb0,,Assetsonly Governance
+Aave,governance,aave,https://snapshot.org/#/aave,Snapshot Governance
+Aavegotchi,governance,aavegotchi.eth,https://snapshot.org/#/aavegotchi.eth,Snapshot Governance
+Aavegotchi,governance,aavegotchi.aragonid.eth,https://client.aragon.org/#/aavegotchi.aragonid.eth,Aragon Governance
+Airalab,governance,aira.aragonid.eth,https://client.aragon.org/#/aira.aragonid.eth,Aragon Governance
+AirSwap,governance,vote.airswap.eth,https://snapshot.org/#/vote.airswap.eth,Snapshot Governance
+Alchemix,governance,alchemixstakers.eth,https://snapshot.org/#/alchemixstakers.eth,Snapshot Governance
+Ampleforth,governance,0x8a994c6f55be1fd2b4d0dc3b8f8f7d4e3a2da8f1,https://etherscan.io/address/0x8a994c6f55be1fd2b4d0dc3b8f8f7d4e3a2da8f1,Compound Governance
+Ampleforth,governance,ampleforth,https://snapshot.org/#/ampleforth,Snapshot Governance
+Ampleforth,governance,ampleforthorg.eth,https://snapshot.org/#/ampleforthorg.eth,Snapshot Governance
+APE DAO,governance,togetherstrong.eth,https://snapshot.org/#/togetherstrong.eth,Snapshot Governance
+API3,governance,api3daov1.aragonid.eth,https://client.aragon.org/#/api3daov1.aragonid.eth,Aragon Governance
+API3,governance,0xd9f80bdb37e6bad114d747e60ce6d2aaf26704ae,,Assetsonly Governance
+ApocalypseDAO,governance,0x44d55a8492a90640dc6af013657eaf1ac5bc9548,https://etherscan.io/address/0x44d55a8492a90640dc6af013657eaf1ac5bc9548,Daostack Governance
+Aragon Association DAO,governance,associationops.aragonid.eth,https://client.aragon.org/#/associationops.aragonid.eth,Aragon Governance
+Aragon Network,governance,0x40204daacb1480019a7a6826c699903df94ee019,https://client.aragon.org/#/0x40204daacb1480019a7a6826c699903df94ee019,Aragon Governance
+Aragon Network Budget,governance,budget.aragonid.eth,https://client.aragon.org/#/budget.aragonid.eth,Aragon Governance
+Aragon One,governance,0x635193983512c621e6a3e15ee1dbf36f0c0db8e0,https://client.aragon.org/#/0x635193983512c621e6a3e15ee1dbf36f0c0db8e0,Aragon Governance
+Aragon Trust,governance,trust.aragonid.eth,https://client.aragon.org/#/trust.aragonid.eth,Aragon Governance
+ArbitrageDAO,governance,0xa8fc468da0417f71393523393bd7d57450143a62,https://etherscan.io/address/0xa8fc468da0417f71393523393bd7d57450143a62,Moloch / Daohaus Governance
+Arca,governance,arca.aragonid.eth,https://client.aragon.org/#/arca.aragonid.eth,Aragon Governance
+array.finance CCO,governance,0xff3f8c0b98454306fb0bda57e5ae38cbfa66cc0d,https://etherscan.io/address/0xff3f8c0b98454306fb0bda57e5ae38cbfa66cc0d,Moloch / Daohaus Governance
+Arweavers,governance,arweavers.aragonid.eth,https://client.aragon.org/#/arweavers.aragonid.eth,Aragon Governance
+Badger DAO,governance,badger.aragonid.eth,https://client.aragon.org/#/badger.aragonid.eth,Aragon Governance
+Badger DAO,governance,badgerdao.eth,https://snapshot.org/#/badgerdao.eth,Snapshot Governance
+Balancer,governance,balancer.eth,https://snapshot.org/#/balancer.eth,Snapshot Governance
+Bancor 0x3EcD508F87Ef27417474B0FDF8dd90A3b2B337C9,governance,0x3ecd508f87ef27417474b0fdf8dd90a3b2b337c9,https://client.aragon.org/#/0x3ecd508f87ef27417474b0fdf8dd90a3b2b337c9,Aragon Governance
+Bankless DAO,governance,,https://snapshot.org/#/,Snapshot Governance
+Bankless DAO,governance,banklessvault.eth,https://snapshot.org/#/banklessvault.eth,Snapshot Governance
+BarnBridge,governance,barnbridge.eth,https://snapshot.org/#/barnbridge.eth,Snapshot Governance
+BarnBridge,governance,barnbridgelaunch.aragonid.eth,https://client.aragon.org/#/barnbridgelaunch.aragonid.eth,Aragon Governance
+BarnBridge,governance,0x4cae362d7f227e3d306f70ce4878e245563f3069,,Assetsonly Governance
+BerezkafLexDAO,governance,berezkaflexdao.aragonid.eth,https://client.aragon.org/#/berezkaflexdao.aragonid.eth,Aragon Governance
+Betacolony,governance,0x869814034d96544f3c62de2ac22448ed79ac8e70,https://etherscan.io/address/0x869814034d96544f3c62de2ac22448ed79ac8e70,Colony Governance
+BitDAO,governance,bitdao.eth,https://snapshot.org/#/bitdao.eth,Snapshot Governance
+blequity,governance,blequity.aragonid.eth,https://client.aragon.org/#/blequity.aragonid.eth,Aragon Governance
+Bprotocol,governance,bpro.eth,https://snapshot.org/#/bpro.eth,Snapshot Governance
+BProtocol,governance,0xbbbbbb512661e9a574a8a3e8c12afaf647e98809,https://etherscan.io/address/0xbbbbbb512661e9a574a8a3e8c12afaf647e98809,Compound Governance
+BrightID,governance,0x5aad137d8f7d2dc6e1b2548c059b1483360bcc6a,https://client.aragon.org/#/0x5aad137d8f7d2dc6e1b2548c059b1483360bcc6a,Aragon Governance
+brightiddev,governance,brightiddev.aragonid.eth,https://client.aragon.org/#/brightiddev.aragonid.eth,Aragon Governance
+Burn Signal,governance,0x5a49fb12f512451819caeb7f4be37e89f0eb0afd,https://etherscan.io/address/0x5a49fb12f512451819caeb7f4be37e89f0eb0afd,Colony Governance
+Buyback CC1,governance,0x2004cb1e8fb6d4476acdc9e1d37f717d3a83384d,https://etherscan.io/address/0x2004cb1e8fb6d4476acdc9e1d37f717d3a83384d,Moloch / Daohaus Governance
+bZx,governance,bzx.eth,https://snapshot.org/#/bzx.eth,Snapshot Governance
+cadcad,governance,cadcad.aragonid.eth,https://client.aragon.org/#/cadcad.aragonid.eth,Aragon Governance
+Carbonswap,governance,carbonswap.eth,https://snapshot.org/#/carbonswap.eth,Snapshot Governance
+CENNZnet Grants DAO,governance,0xee7fa430a7e513d3df962ed0c0e285bc6f87fc24,https://etherscan.io/address/0xee7fa430a7e513d3df962ed0c0e285bc6f87fc24,Daostack Governance
+centrifugelabic01,governance,centrifugelabic01.aragonid.eth,https://client.aragon.org/#/centrifugelabic01.aragonid.eth,Aragon Governance
+CityDAO,governance,daocity.eth,https://snapshot.org/#/daocity.eth,Snapshot Governance
+clr.fund,governance,,https://snapshot.org/#/,Snapshot Governance
+clr.fund,governance,0xa357c5dc01d8ab4f3af519b0537468391e3e0976,https://etherscan.io/address/0xa357c5dc01d8ab4f3af519b0537468391e3e0976,Colony Governance
+Collab19,governance,collab.aragonid.eth,https://client.aragon.org/#/collab.aragonid.eth,Aragon Governance
+Compound,governance,comp-vote.eth,https://snapshot.org/#/comp-vote.eth,Snapshot Governance
+Compound,governance,grantcomp.eth,https://snapshot.org/#/grantcomp.eth,Snapshot Governance
+Compound,governance,compgov.eth,https://snapshot.org/#/compgov.eth,Snapshot Governance
+Compound,governance,0xc0da02939e1441f497fd74f78ce7decb17b66529,https://etherscan.io/address/0xc0da02939e1441f497fd74f78ce7decb17b66529,Compound Governance
+Compound,governance,cuni,https://snapshot.org/#/cuni,Snapshot Governance
+Compound,governance,0xc0da01a04c3f3e0be433606045bb7017a7323e38,https://etherscan.io/address/0xc0da01a04c3f3e0be433606045bb7017a7323e38,Compound Governance
+Conjure,governance,0x6cae87e30445665ca5125d574aa02db4aa9edb96,https://etherscan.io/address/0x6cae87e30445665ca5125d574aa02db4aa9edb96,Compound Governance
+Constitution,governance,2a988310-48d5-4809-bc65-622d43fc5f58,,Assetsonly Governance
+Creative Collabo DAO,governance,0x161e99f7467f20602c7ff9ff85f22be1ecc41b86,https://etherscan.io/address/0x161e99f7467f20602c7ff9ff85f22be1ecc41b86,Moloch / Daohaus Governance
+CrisisDAO,governance,crisisdao.eth,https://snapshot.org/#/crisisdao.eth,Snapshot Governance
+Cryptex,governance,0x874c5d592afc6803c3dd60d6442357879f196d5b,https://etherscan.io/address/0x874c5d592afc6803c3dd60d6442357879f196d5b,Compound Governance
+Cryptex,governance,cryptexdao.eth,https://snapshot.org/#/cryptexdao.eth,Snapshot Governance
+Cryptex,governance,0x271901c3268d0959bbc9543de4f073d3708c88f7,https://etherscan.io/address/0x271901c3268d0959bbc9543de4f073d3708c88f7,Compound Governance
+Cura Dao,governance,0x0b93ba560283350d4216f29dc57e15df38d0eace,https://etherscan.io/address/0x0b93ba560283350d4216f29dc57e15df38d0eace,Daostack Governance
+Curio,governance,curio.aragonid.eth,https://client.aragon.org/#/curio.aragonid.eth,Aragon Governance
+Cyber Congress,governance,0xc45417092c7ba66052c92a4ad871fc60bdbc7009,https://client.aragon.org/#/0xc45417092c7ba66052c92a4ad871fc60bdbc7009,Aragon Governance
+Dandy,governance,dandy.aragonid.eth,https://client.aragon.org/#/dandy.aragonid.eth,Aragon Governance
+DAOhaus Second Story CCO,governance,0x44f2f58eb410c3099d59db44e8ab9859e886c176,https://etherscan.io/address/0x44f2f58eb410c3099d59db44e8ab9859e886c176,Moloch / Daohaus Governance
+DAOSquare,governance,daosquare,https://snapshot.org/#/daosquare,Snapshot Governance
+DAOSquare,governance,0x1ba850cb53280d7f9987be283ff462038ec8abe2,https://etherscan.io/address/0x1ba850cb53280d7f9987be283ff462038ec8abe2,Moloch / Daohaus Governance
+Daoversify,governance,daoversify.aragonid.eth,https://client.aragon.org/#/daoversify.aragonid.eth,Aragon Governance
+Decentraland,governance,snapshot.dcl.eth,https://snapshot.org/#/snapshot.dcl.eth,Snapshot Governance
+Decentraland,governance,0xf47917b108ca4b820ccea2587546fbb9f7564b56,https://client.aragon.org/#/0xf47917b108ca4b820ccea2587546fbb9f7564b56,Aragon Governance
+Decentral Games,governance,decentralgames.eth,https://snapshot.org/#/decentralgames.eth,Snapshot Governance
+Defi Omega,governance,0xe9d7e590171cb5080ab8dfd45850692a714260f0,https://etherscan.io/address/0xe9d7e590171cb5080ab8dfd45850692a714260f0,Moloch / Daohaus Governance
+DeoraTest,governance,0x48c2f0a379f8cc93b1be3775964e242adebfd8dc,https://etherscan.io/address/0x48c2f0a379f8cc93b1be3775964e242adebfd8dc,Moloch / Daohaus Governance
+dHedge,governance,gov.dhedge.eth,https://snapshot.org/#/gov.dhedge.eth,Snapshot Governance
+dHedge,governance,0xb76e40277b79b78dfa954cbec863d0e4fd0656ca,,Assetsonly Governance
+dHedge,governance,dhedge.aragonid.eth,https://client.aragon.org/#/dhedge.aragonid.eth,Aragon Governance
+DimensionLab,governance,dimensionlab.aragonid.eth,https://client.aragon.org/#/dimensionlab.aragonid.eth,Aragon Governance
+dOrg,governance,dorg.eth,https://snapshot.org/#/dorg.eth,Snapshot Governance
+dOrg,governance,0x94a587478c83491b13291265581cb983e7feb540,https://etherscan.io/address/0x94a587478c83491b13291265581cb983e7feb540,Daostack Governance
+dOrg,governance,0x15344ecdc2c4edfcb092e284d93c20f0529fd8a6,https://etherscan.io/address/0x15344ecdc2c4edfcb092e284d93c20f0529fd8a6,Daostack Governance
+Dtravel,governance,dtraveldao.eth,https://snapshot.org/#/dtraveldao.eth,Snapshot Governance
+DXdao,governance,0xe81a69caca4a99360589cfd18d9eeaa5029b5ef8,https://etherscan.io/address/0xe81a69caca4a99360589cfd18d9eeaa5029b5ef8,Daostack Governance
+DXdao,governance,0x519b70055af55a007110b4ff99b0ea33071c720a,https://etherscan.io/address/0x519b70055af55a007110b4ff99b0ea33071c720a,Daostack Governance
+Elimuai,governance,elimuai.aragonid.eth,https://client.aragon.org/#/elimuai.aragonid.eth,Aragon Governance
+ENS,governance,,https://snapshot.org/#/,Snapshot Governance
+ENS,governance,,https://snapshot.org/#/,Snapshot Governance
+ENS,governance,ens.eth,https://snapshot.org/#/ens.eth,Snapshot Governance
+Enzyme Finance,governance,0xfe1f2de598f42ce67bb9aad5ad473f0272d09b74,https://client.aragon.org/#/0xfe1f2de598f42ce67bb9aad5ad473f0272d09b74,Aragon Governance
+Enzyme Finance,governance,enzymefinance.eth,https://snapshot.org/#/enzymefinance.eth,Snapshot Governance
+Estonia,governance,estonia.aragonid.eth,https://client.aragon.org/#/estonia.aragonid.eth,Aragon Governance
+EulerBeats OG DAO,governance,ebog.eth,https://snapshot.org/#/ebog.eth,Snapshot Governance
+EulerBeats OG DAO,governance,ebog-rinkeby,https://snapshot.org/#/ebog-rinkeby,Snapshot Governance
+f25f0531,governance,f25f0531.aragonid.eth,https://client.aragon.org/#/f25f0531.aragonid.eth,Aragon Governance
+Farmgod DAO,governance,farmgod.eth,https://snapshot.org/#/farmgod.eth,Snapshot Governance
+Fei,governance,0xe087f94c3081e1832dc7a22b48c6f2b5faae579b,https://etherscan.io/address/0xe087f94c3081e1832dc7a22b48c6f2b5faae579b,Compound Governance
+Fei,governance,fei.eth,https://snapshot.org/#/fei.eth,Snapshot Governance
+Fest Dao,governance,0x8990e11b69403ea53ef2b32434bbd7dbf84b5234,https://etherscan.io/address/0x8990e11b69403ea53ef2b32434bbd7dbf84b5234,Daostack Governance
+FiatLuxDAO,governance,,,Assetsonly Governance
+Fingerprints DAO,governance,fingerprints.eth,https://snapshot.org/#/fingerprints.eth,Snapshot Governance
+flamingo,governance,0x43310bd1c8f261ee7b9025662207ed95329aa193,https://etherscan.io/address/0x43310bd1c8f261ee7b9025662207ed95329aa193,Openlaw Governance
+ForeFront,governance,ffdao.eth,https://snapshot.org/#/ffdao.eth,Snapshot Governance
+Friends With Benefits Pro,governance,friendswithbenefits.eth,https://snapshot.org/#/friendswithbenefits.eth,Snapshot Governance
+Futhorcecosystem,governance,futhorcecosystem.aragonid.eth,https://client.aragon.org/#/futhorcecosystem.aragonid.eth,Aragon Governance
+GCR DAO,governance,globalcoinresearch.eth,https://snapshot.org/#/globalcoinresearch.eth,Snapshot Governance
+Genesis Alpha,governance,0x294f999356ed03347c7a23bcbcf8d33fa41dc830,https://etherscan.io/address/0x294f999356ed03347c7a23bcbcf8d33fa41dc830,Daostack Governance
+Gitcoin,governance,,https://snapshot.org/#/,Snapshot Governance
+Gitcoin,governance,gitcoindao.eth,https://snapshot.org/#/gitcoindao.eth,Snapshot Governance
+Gitcoin,governance,0xdbd27635a534a3d3169ef0498beb56fb9c937489,https://etherscan.io/address/0xdbd27635a534a3d3169ef0498beb56fb9c937489,Compound Governance
+Gnosis,governance,gnosis.eth,https://snapshot.org/#/gnosis.eth,Snapshot Governance
+Governor DAO,governance,gdao.eth,https://snapshot.org/#/gdao.eth,Snapshot Governance
+Governor DAO,governance,gdao.aragonid.eth,https://client.aragon.org/#/gdao.aragonid.eth,Aragon Governance
+Hakt DAO,governance,,https://snapshot.org/#/,Snapshot Governance
+HausDAO,governance,0xdec090a12f2e280b089daa225892d9efa8ed0ee8,https://etherscan.io/address/0xdec090a12f2e280b089daa225892d9efa8ed0ee8,Moloch / Daohaus Governance
+HelpDao,governance,helpdao.aragonid.eth,https://client.aragon.org/#/helpdao.aragonid.eth,Aragon Governance
+Idle Finance,governance,idlefinance.eth,https://snapshot.org/#/idlefinance.eth,Snapshot Governance
+Idle Finance,governance,0x2256b25cfc8e35c3135664fd03e77595042fe31b,https://etherscan.io/address/0x2256b25cfc8e35c3135664fd03e77595042fe31b,Compound Governance
+Index,governance,index-coop.eth,https://snapshot.org/#/index-coop.eth,Snapshot Governance
+Indexed,governance,0x95129751769f99cc39824a0793ef4933dd8bb74b,https://etherscan.io/address/0x95129751769f99cc39824a0793ef4933dd8bb74b,Compound Governance
+Instadapp,governance,instadapp-gov.eth,https://snapshot.org/#/instadapp-gov.eth,Snapshot Governance
+Instadapp,governance,0x0204cd037b2ec03605cfdfe482d8e257c765fa1b,https://etherscan.io/address/0x0204cd037b2ec03605cfdfe482d8e257c765fa1b,Compound Governance
+Inverse,governance,0x35d9f4953748b318f18c30634ba299b237eedfff,https://etherscan.io/address/0x35d9f4953748b318f18c30634ba299b237eedfff,Compound Governance
+Jenny Metaverse DAO,governance,jennydao.eth,https://snapshot.org/#/jennydao.eth,Snapshot Governance
+JINN,governance,0xcfa7700f9c15f03e0ae81ebd524e4c2af915d13b,https://etherscan.io/address/0xcfa7700f9c15f03e0ae81ebd524e4c2af915d13b,Moloch / Daohaus Governance
+JuiceboxDAO,governance,jbdao.eth,https://snapshot.org/#/jbdao.eth,Snapshot Governance
+KeeperDAO,governance,rook.eth,https://snapshot.org/#/rook.eth,Snapshot Governance
+Keytree,governance,keytree.aragonid.eth,https://client.aragon.org/#/keytree.aragonid.eth,Aragon Governance
+KlimaDAO,governance,klimadao.eth,https://snapshot.org/#/klimadao.eth,Snapshot Governance
+Kusama,governance,kusama,,Kusama Governance
+Kusama,governance,kusama_techcom,,Kusama Governance
+Kusama,governance,kusama_democracy,,Kusama Governance
+Kusama,governance,kusama_council,,Kusama Governance
+lexDAO,governance,0xa365a8429fcefdbe1e684dddda3531b6e8d96e75,https://client.aragon.org/#/0xa365a8429fcefdbe1e684dddda3531b6e8d96e75,Aragon Governance
+Lido,governance,lido-dao.aragonid.eth,https://client.aragon.org/#/lido-dao.aragonid.eth,Aragon Governance
+Lido,governance,lido-snapshot.eth,https://snapshot.org/#/lido-snapshot.eth,Snapshot Governance
+Lobby Token,governance,lobbytoken.eth,https://snapshot.org/#/lobbytoken.eth,Snapshot Governance
+Machi X DAO,governance,0x016e79e9101a8eaa3e7f46d6d1c267819c09c939,https://etherscan.io/address/0x016e79e9101a8eaa3e7f46d6d1c267819c09c939,Moloch / Daohaus Governance
+Maker Dao,governance,maker,,Assetsonly Governance
+MansaNetwork,governance,mansanetwork.aragonid.eth,https://client.aragon.org/#/mansanetwork.aragonid.eth,Aragon Governance
+MANTRA DAO,governance,mantra-dao.eth,https://snapshot.org/#/mantra-dao.eth,Snapshot Governance
+MANTRA DAO,governance,mantra-dao,https://snapshot.org/#/mantra-dao,Snapshot Governance
+Markeing DAO,governance,0x6c9b4f1bdddd7704a26a5caf5242e88501dc5f0b,https://etherscan.io/address/0x6c9b4f1bdddd7704a26a5caf5242e88501dc5f0b,Moloch / Daohaus Governance
+MarsDao,governance,marsdao.aragonid.eth,https://client.aragon.org/#/marsdao.aragonid.eth,Aragon Governance
+MeebitsDAO,governance,meebitsdao.eth,https://snapshot.org/#/meebitsdao.eth,Snapshot Governance
+MeebitsDAO,governance,manekari.eth,https://snapshot.org/#/manekari.eth,Snapshot Governance
+MetaCartel,governance,metacartel.eth,https://snapshot.org/#/metacartel.eth,Snapshot Governance
+MetaCartel,governance,0x0372f3696fa7dc99801f435fd6737e57818239f2,https://etherscan.io/address/0x0372f3696fa7dc99801f435fd6737e57818239f2,Moloch / Daohaus Governance
+MetaCartel v2,governance,0xee629a192374caf2a72cf1695c485c5c89611ef2,https://etherscan.io/address/0xee629a192374caf2a72cf1695c485c5c89611ef2,Moloch / Daohaus Governance
+MetaCartel Ventures,governance,0x4570b4faf71e23942b8b9f934b47ccedf7540162,https://etherscan.io/address/0x4570b4faf71e23942b8b9f934b47ccedf7540162,Moloch / Daohaus Governance
+MetaCartel Ventures,governance,mcv.eth,https://snapshot.org/#/mcv.eth,Snapshot Governance
+MetaCartel Ventures China,governance,0x934d6b90e3f916a3ad5d080a674a1e953447dda3,https://etherscan.io/address/0x934d6b90e3f916a3ad5d080a674a1e953447dda3,Moloch / Daohaus Governance
+MetaClan,governance,0xb5cef5887a0b46d895cb1893b3cddc9a31607261,https://etherscan.io/address/0xb5cef5887a0b46d895cb1893b3cddc9a31607261,Moloch / Daohaus Governance
+Metafam,governance,metafam.aragonid.eth,https://client.aragon.org/#/metafam.aragonid.eth,Aragon Governance
+Meta Gamma Delta,governance,0x7d58c962356ae66ba91b108751d67ae5d3b022fc,https://etherscan.io/address/0x7d58c962356ae66ba91b108751d67ae5d3b022fc,Moloch / Daohaus Governance
+Meta Gamma Delta,governance,0x1b3d7efb93ec432b0d1d56880c23303979b379e9,https://etherscan.io/address/0x1b3d7efb93ec432b0d1d56880c23303979b379e9,Moloch / Daohaus Governance
+Meter Governance MTRG,governance,meter-mainnet.eth,https://snapshot.org/#/meter-mainnet.eth,Snapshot Governance
+Moloch,governance,0x1fd169a4f5c59acf79d0fd5d91d1201ef1bce9f1,https://etherscan.io/address/0x1fd169a4f5c59acf79d0fd5d91d1201ef1bce9f1,Moloch / Daohaus Governance
+mStable,governance,mstabledao.eth_old,https://snapshot.org/#/mstabledao.eth_old,Snapshot Governance
+mStable,governance,mstablegovernance.eth,https://snapshot.org/#/mstablegovernance.eth,Snapshot Governance
+mStable,governance,mstableprotocoldao.eth,https://snapshot.org/#/mstableprotocoldao.eth,Snapshot Governance
+mStable,governance,mstabledao.eth,https://snapshot.org/#/mstabledao.eth,Snapshot Governance
+mStable,governance,mstable.aragonid.eth,https://client.aragon.org/#/mstable.aragonid.eth,Aragon Governance
+murziki,governance,murziki.aragonid.eth,https://client.aragon.org/#/murziki.aragonid.eth,Aragon Governance
+MyDaoDashboard,governance,mydaodashboard.aragonid.eth,https://client.aragon.org/#/mydaodashboard.aragonid.eth,Aragon Governance
+necDAO,governance,0xe56b4d8d42b1c9ea7dda8a6950e3699755943de7,https://etherscan.io/address/0xe56b4d8d42b1c9ea7dda8a6950e3699755943de7,Daostack Governance
+Neptune DAO,governance,0xa3cf824160e5ec3dccccb44c2552eee45a44aaeb,https://etherscan.io/address/0xa3cf824160e5ec3dccccb44c2552eee45a44aaeb,Openlaw Governance
+NFTX,governance,nftx.aragonid.eth,https://client.aragon.org/#/nftx.aragonid.eth,Aragon Governance
+NFTX,governance,nftx.eth,https://snapshot.org/#/nftx.eth,Snapshot Governance
+Nouns DAO,governance,nouns.eth,https://snapshot.org/#/nouns.eth,Snapshot Governance
+Nouns DAO,governance,0x6f3e6272a167e8accb32072d08e0957f9c79223d,https://etherscan.io/address/0x6f3e6272a167e8accb32072d08e0957f9c79223d,Compound Governance
+OceanDAO,governance,officialoceandao.eth,https://snapshot.org/#/officialoceandao.eth,Snapshot Governance
+Odyssy,governance,0xdcaaf0efd2e70e8103566e705c86b038ed8ff88e,https://etherscan.io/address/0xdcaaf0efd2e70e8103566e705c86b038ed8ff88e,Moloch / Daohaus Governance
+OlympusDAO,governance,olympusdao.eth,https://snapshot.org/#/olympusdao.eth,Snapshot Governance
+Orochi DAO V2,governance,0xb42616e266cb0c6d34c1434f09b95ed50bb551ed,https://etherscan.io/address/0xb42616e266cb0c6d34c1434f09b95ed50bb551ed,Moloch / Daohaus Governance
+Own.fund DAO,governance,ownfund.eth,https://snapshot.org/#/ownfund.eth,Snapshot Governance
+PancakeSwap,governance,pancake,https://snapshot.org/#/pancake,Snapshot Governance
+PancakeSwap,governance,cake.eth,https://snapshot.org/#/cake.eth,Snapshot Governance
+Pangolin,governance,pangolindex.eth,https://snapshot.org/#/pangolindex.eth,Snapshot Governance
+PartyDAO,governance,partydao.eth,https://snapshot.org/#/partydao.eth,Snapshot Governance
+Perpetual Protocol,governance,vote-perp.eth,https://snapshot.org/#/vote-perp.eth,Snapshot Governance
+PieDAO,governance,0x0c188b183ff758500d1d18b432313d10e9f6b8a4,https://client.aragon.org/#/0x0c188b183ff758500d1d18b432313d10e9f6b8a4,Aragon Governance
+PieDAO,governance,piedao,https://snapshot.org/#/piedao,Snapshot Governance
+PieDAO,governance,,https://snapshot.org/#/,Snapshot Governance
+PleasrDAO,governance,pleasrdao.eth,https://snapshot.org/#/pleasrdao.eth,Snapshot Governance
+pNetwork,governance,pnetwork-dao.eth,https://snapshot.org/#/pnetwork-dao.eth,Snapshot Governance
+pNetwork,governance,0x2732fd9fd5f0e84b1b774cf5e6f5c812eafd455b,https://client.aragon.org/#/0x2732fd9fd5f0e84b1b774cf5e6f5c812eafd455b,Aragon Governance
+PoolTogether,governance,0xb3a87172f555ae2a2ab79be60b336d2f7d0187f0,https://etherscan.io/address/0xb3a87172f555ae2a2ab79be60b336d2f7d0187f0,Compound Governance
+PoolTogether,governance,pooltogether.eth,https://snapshot.org/#/pooltogether.eth,Snapshot Governance
+Pragma,governance,pragmadev2.eth,https://snapshot.org/#/pragmadev2.eth,Snapshot Governance
+PrimeDAO,governance,0x273d0f686a53a49a0fba2a801566b19f9aaf8fcd,https://etherscan.io/address/0x273d0f686a53a49a0fba2a801566b19f9aaf8fcd,Daostack Governance
+PrimeDAO,governance,0xe3a89ed4956c4f7173418e4dec2a77a5f60807de,https://etherscan.io/address/0xe3a89ed4956c4f7173418e4dec2a77a5f60807de,Daostack Governance
+PrimeDAO,governance,primexyz.eth,https://snapshot.org/#/primexyz.eth,Snapshot Governance
+Proof Of Humanity,governance,poh.eth,https://snapshot.org/#/poh.eth,Snapshot Governance
+Radicle,governance,gov.radicle.eth,https://snapshot.org/#/gov.radicle.eth,Snapshot Governance
+Radicle,governance,0x690e775361ad66d1c4a25d89da9fcd639f5198ed,https://etherscan.io/address/0x690e775361ad66d1c4a25d89da9fcd639f5198ed,Compound Governance
+Raid Guild,governance,0xbd6fa666fbb6fdeb4fc5eb36cdd5c87b069b24c1,https://etherscan.io/address/0xbd6fa666fbb6fdeb4fc5eb36cdd5c87b069b24c1,Moloch / Daohaus Governance
+Raid Guild,governance,raid-guild,https://snapshot.org/#/raid-guild,Snapshot Governance
+Raid Guild War Chest,governance,0xbeb3e32355a933501c247e2dbde6e6ca2489bf3d,https://etherscan.io/address/0xbeb3e32355a933501c247e2dbde6e6ca2489bf3d,Moloch / Daohaus Governance
+Rarible,governance,rarible.eth,https://snapshot.org/#/rarible.eth,Snapshot Governance
+Ribbon finance,governance,rbn.eth,https://snapshot.org/#/rbn.eth,Snapshot Governance
+Rocket LP DAO,governance,0xa9ade79ab198a579772dd5e310ea28643e4a4421,https://etherscan.io/address/0xa9ade79ab198a579772dd5e310ea28643e4a4421,Moloch / Daohaus Governance
+Seedify.fund,governance,seedifyfund.eth,https://snapshot.org/#/seedifyfund.eth,Snapshot Governance
+ShapeShift,governance,shapeshiftdao.eth,https://snapshot.org/#/shapeshiftdao.eth,Snapshot Governance
+Shark DAO,governance,sharkdao.eth,https://snapshot.org/#/sharkdao.eth,Snapshot Governance
+ShieldDao,governance,shielddao.aragonid.eth,https://client.aragon.org/#/shielddao.aragonid.eth,Aragon Governance
+ShillShop,governance,0x50d9fbebdd7fd36c0716fc1faaa9248bab6bbcc0,https://etherscan.io/address/0x50d9fbebdd7fd36c0716fc1faaa9248bab6bbcc0,Moloch / Daohaus Governance
+snglsDAO,governance,0x515aef991f262d0d098dacfb57fccfe9852ff9c1,https://etherscan.io/address/0x515aef991f262d0d098dacfb57fccfe9852ff9c1,Daostack Governance
+SquiggleDAO,governance,squiggledao.eth,https://snapshot.org/#/squiggledao.eth,Snapshot Governance
+Srt,governance,srt.aragonid.eth,https://client.aragon.org/#/srt.aragonid.eth,Aragon Governance
+Stacker Ventures,governance,stackerventures.aragonid.eth,https://client.aragon.org/#/stackerventures.aragonid.eth,Aragon Governance
+Stacker Ventures,governance,stackervc.eth,https://snapshot.org/#/stackervc.eth,Snapshot Governance
+Stacker Ventures DDC,governance,stackerventures.eth,https://snapshot.org/#/stackerventures.eth,Snapshot Governance
+STAKEhaus,governance,0x97ace434171c7eb426548afc4af188a3c973a38d,https://etherscan.io/address/0x97ace434171c7eb426548afc4af188a3c973a38d,Moloch / Daohaus Governance
+StakeWise,governance,stakewise.eth,https://snapshot.org/#/stakewise.eth,Snapshot Governance
+Status,governance,status.aragonid.eth,https://client.aragon.org/#/status.aragonid.eth,Aragon Governance
+Sushiswap,governance,sushigov.eth,https://snapshot.org/#/sushigov.eth,Snapshot Governance
+Synthetix,governance,snxgrants.eth,https://snapshot.org/#/snxgrants.eth,Snapshot Governance
+Synthetix,governance,snxambassador.eth,https://snapshot.org/#/snxambassador.eth,Snapshot Governance
+Synthetix,governance,treasurycouncil.eth,https://snapshot.org/#/treasurycouncil.eth,Snapshot Governance
+Synthetix,governance,spartancouncil.eth,https://snapshot.org/#/spartancouncil.eth,Snapshot Governance
+TeaSwap,governance,tea-swap.eth,https://snapshot.org/#/tea-swap.eth,Snapshot Governance
+The LAO,governance,0x8f56682a50becb1df2fb8136954f2062871bc7fc,https://etherscan.io/address/0x8f56682a50becb1df2fb8136954f2062871bc7fc,Openlaw Governance
+The LAO,governance,thelao,https://snapshot.org/#/thelao,Snapshot Governance
+Tornado Cash,governance,torn-community.eth,https://snapshot.org/#/torn-community.eth,Snapshot Governance
+Tracer,governance,tracer.eth,https://snapshot.org/#/tracer.eth,Snapshot Governance
+Trojan DAO,governance,0xcc7dcdb700eed457c8180406d7d699877f4eee24,https://etherscan.io/address/0xcc7dcdb700eed457c8180406d7d699877f4eee24,Moloch / Daohaus Governance
+TYAN Intergalactic,governance,0xecfbf206d32c7ca0272028711799a781bfb6710d,https://etherscan.io/address/0xecfbf206d32c7ca0272028711799a781bfb6710d,Moloch / Daohaus Governance
+UberHAUS,governance,0x4bec8e49aa44bb520bd5e29d6358e22464b5eb68,https://etherscan.io/address/0x4bec8e49aa44bb520bd5e29d6358e22464b5eb68,Moloch / Daohaus Governance
+Unicly,governance,uniclynft.eth,https://snapshot.org/#/uniclynft.eth,Snapshot Governance
+Uniswap,governance,0xc4e172459f1e7939d522503b81afaac1014ce6f6,https://etherscan.io/address/0xc4e172459f1e7939d522503b81afaac1014ce6f6,Compound Governance
+Uniswap,governance,uniswap,https://snapshot.org/#/uniswap,Snapshot Governance
+Uniswap,governance,0x5e4be8bc9637f0eaa1a755019e06a68ce081d58f,https://etherscan.io/address/0x5e4be8bc9637f0eaa1a755019e06a68ce081d58f,Compound Governance
+Uniswap,governance,0x408ed6354d4973f66138c91495f2f2fcbd8724c3,https://etherscan.io/address/0x408ed6354d4973f66138c91495f2f2fcbd8724c3,Compound Governance
+Uniswap,governance,uni.meme0xb1.eth,https://snapshot.org/#/uni.meme0xb1.eth,Snapshot Governance
+Unslashed,governance,0xa0ae994229b1bc31850d8a17a273904d1ed12190,https://etherscan.io/address/0xa0ae994229b1bc31850d8a17a273904d1ed12190,Compound Governance
+Urza,governance,0x7ae4bc22d038479c8ad21616450cd5e35d3f03cc,https://etherscan.io/address/0x7ae4bc22d038479c8ad21616450cd5e35d3f03cc,Moloch / Daohaus Governance
+Valtech,governance,0x4eef8cff7fd9bfab6cbcdf05b74d2161cadaff52,https://client.aragon.org/#/0x4eef8cff7fd9bfab6cbcdf05b74d2161cadaff52,Aragon Governance
+Varen,governance,varen.eth,https://snapshot.org/#/varen.eth,Snapshot Governance
+VitaDAO,governance,351bacc0-070d-4577-8ab7-1e1fe7e1b201,,Assetsonly Governance
+VitaDAO,governance,vote.vitadao.eth,https://snapshot.org/#/vote.vitadao.eth,Snapshot Governance
+Warcamp,governance,0x55eafe832507e652c48b25a957bd3a15420aa805,https://etherscan.io/address/0x55eafe832507e652c48b25a957bd3a15420aa805,Moloch / Daohaus Governance
+Warcamp,governance,0xc8e0d7fd13eb3cbc19eb293d0e00b8386cc1b6f2,https://etherscan.io/address/0xc8e0d7fd13eb3cbc19eb293d0e00b8386cc1b6f2,Moloch / Daohaus Governance
+Warcamp,governance,0x8d2ec7025957d09cfb0a8197f9aacd0dcc08b21a,https://etherscan.io/address/0x8d2ec7025957d09cfb0a8197f9aacd0dcc08b21a,Moloch / Daohaus Governance
+Warcamp,governance,0xef3d8c4fbb1860fceab16595db7e650cd5ad51c1,https://etherscan.io/address/0xef3d8c4fbb1860fceab16595db7e650cd5ad51c1,Moloch / Daohaus Governance
+Warcamp,governance,0xd1924dc661a3e0563defe8e8028485211799e2b0,https://etherscan.io/address/0xd1924dc661a3e0563defe8e8028485211799e2b0,Moloch / Daohaus Governance
+XDAO,governance,0x9d63d20d1cfbb85cd46602bd096d81211bf44a5a,https://etherscan.io/address/0x9d63d20d1cfbb85cd46602bd096d81211bf44a5a,Moloch / Daohaus Governance
+Yam Finance,governance,0x78bdd33e95ecbcac16745fb28db0ffb703344026,https://etherscan.io/address/0x78bdd33e95ecbcac16745fb28db0ffb703344026,Compound Governance
+Yam Finance,governance,yam.eth,https://snapshot.org/#/yam.eth,Snapshot Governance
+yearn.finance,governance,0xcb46298767fb5d44c18313976c30d3eeb5071862,https://etherscan.io/address/0xcb46298767fb5d44c18313976c30d3eeb5071862,Moloch / Daohaus Governance
+yearn.finance,governance,yearn,https://snapshot.org/#/yearn,Snapshot Governance
+yearn.finance,governance,ybaby.eth,https://snapshot.org/#/ybaby.eth,Snapshot Governance
