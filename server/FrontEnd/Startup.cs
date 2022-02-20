@@ -33,7 +33,7 @@ namespace FrontEnd
             services.AddSingleton<WeatherForecastService>();
             services.AddHttpClient<IBackEndBoardRoomService, BackEndBoardRoomService>(client =>
             {
-                client.BaseAddress = new Uri("https://localhost:7044");
+                client.BaseAddress = new Uri("https://ethdenver.azurewebsites.net");
             });
         }
 
