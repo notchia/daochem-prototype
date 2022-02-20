@@ -36,7 +36,8 @@ def combine_trace_data(matching, fpath):
     for f in matching:
         count = os.path.splitext(f)[0].split('_')[-1]
         t = load_json(os.path.join(TMPDIR, f))
-        transactions[int(count)] = t
+        t_cut = tb.get_minimal_trace_info(t)
+        transactions[int(count)] = t_cut
         
     with open(fpath, 'w') as out:
         json.dump(transactions, out, indent=4)
