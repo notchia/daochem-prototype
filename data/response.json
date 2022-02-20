@@ -1,0 +1,3525 @@
+[
+  {
+    "id": "1inch",
+    "framework": null,
+    "documentType": 1,
+    "name": "1inch",
+    "cName": "1inch",
+    "totalProposals": 3,
+    "totalVotes": 214,
+    "uniqueVoters": 175,
+    "tokens": [
+      {
+        "symbol": "1inch",
+        "network": "ethereum",
+        "contractAddress": "0x111111111117dc0aa78b770fa6a738034120c302"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13469/small/1inch-token.png?1608803028"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13469/large/1inch-token.png?1608803028"
+      }
+    ],
+    "key_word_tweet_count": 10,
+    "tweet_count": 136,
+    "key_word_ratio": 0.07352941176470588,
+    "likes": 1214,
+    "like_follower_ratio": 0.00011958823819140029,
+    "twitterHandle": "1inch",
+    "twitterURL": "https://twitter.com/1inch",
+    "followerCount": "1015150",
+    "category": "Protocol"
+  },
+  {
+    "id": "Aave",
+    "framework": "Aave Governance V2",
+    "documentType": 1,
+    "name": "Aave",
+    "cName": "aave",
+    "totalProposals": 58,
+    "totalVotes": 1790,
+    "uniqueVoters": 890,
+    "tokens": [
+      {
+        "symbol": "aave",
+        "network": "ethereum",
+        "contractAddress": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12645/small/AAVE.png?1601374110"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png?1601374110"
+      }
+    ],
+    "key_word_tweet_count": 31,
+    "tweet_count": 120,
+    "key_word_ratio": 0.25833333333333336,
+    "likes": 8464,
+    "like_follower_ratio": 0.0006372350023911371,
+    "twitterHandle": "AaveAave",
+    "twitterURL": "https://twitter.com/AaveAave",
+    "followerCount": "428464",
+    "category": "Protocol"
+  },
+  {
+    "id": "Aavegotchi",
+    "framework": "Aave Governance V2",
+    "documentType": 1,
+    "name": "Aavegotchi",
+    "cName": "aavegotchi",
+    "totalProposals": 246,
+    "totalVotes": 78376,
+    "uniqueVoters": 6532,
+    "tokens": [
+      {
+        "symbol": "ghst",
+        "network": "ethereum",
+        "contractAddress": "0x3f382dbd960e3a9bbceae22651e88158d2791550"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/12467/thumb/ghst_200.png?1600750321"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12467/small/ghst_200.png?1600750321"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12467/large/ghst_200.png?1600750321"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": "aavegotchi",
+    "twitterURL": "https://twitter.com/aavegotchi",
+    "followerCount": "92203.0",
+    "category": "Protocol"
+  },
+  {
+    "id": "Alchemist",
+    "framework": null,
+    "documentType": 1,
+    "name": "Alchemist",
+    "cName": "alchemist",
+    "totalProposals": 24,
+    "totalVotes": 521,
+    "uniqueVoters": 301,
+    "tokens": [
+      {
+        "symbol": "mist",
+        "network": "ethereum",
+        "contractAddress": "0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/14655/large/79158662.png?1617589045"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/14655/thumb/79158662.png?1617589045"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/14655/small/79158662.png?1617589045"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": null,
+    "category": "Service"
+  },
+  {
+    "id": "Alchemix Finance",
+    "framework": null,
+    "documentType": 1,
+    "name": "Alchemix Finance",
+    "cName": "alchemixfinance",
+    "totalProposals": 40,
+    "totalVotes": 6666,
+    "uniqueVoters": 1715,
+    "tokens": [
+      {
+        "symbol": "alcx",
+        "network": "ethereum",
+        "contractAddress": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/14113/large/Alchemix.png?1614409874"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/14113/thumb/Alchemix.png?1614409874"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/14113/small/Alchemix.png?1614409874"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": null,
+    "category": "Protocol"
+  },
+  {
+    "id": "Ampleforth",
+    "framework": null,
+    "documentType": 1,
+    "name": "Ampleforth",
+    "cName": "ampleforth",
+    "totalProposals": 0,
+    "totalVotes": 0,
+    "uniqueVoters": 0,
+    "tokens": [
+      {
+        "symbol": "ampl",
+        "network": "ethereum",
+        "contractAddress": "0xd46ba6d942050d489dbd938a2c909a5d5039a161"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/4708/thumb/Ampleforth.png?1561684250"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/4708/small/Ampleforth.png?1561684250"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/4708/large/Ampleforth.png?1561684250"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": "AmpleforthOrg",
+    "twitterURL": "https://twitter.com/AmpleforthOrg",
+    "followerCount": "36734.0",
+    "category": "Protocol"
+  },
+  {
+    "id": "Aragon",
+    "framework": null,
+    "documentType": 1,
+    "name": "Aragon",
+    "cName": "aragon",
+    "totalProposals": 17,
+    "totalVotes": 240,
+    "uniqueVoters": 92,
+    "tokens": [
+      {
+        "symbol": "ant",
+        "network": "ethereum",
+        "contractAddress": "0xa117000000f279d81a1d3cc75430faa017fa5a2e"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/681/large/JelZ58cv_400x400.png?1601449653"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/681/thumb/JelZ58cv_400x400.png?1601449653"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/681/small/JelZ58cv_400x400.png?1601449653"
+      }
+    ],
+    "key_word_tweet_count": 39,
+    "tweet_count": 100,
+    "key_word_ratio": 0.39,
+    "likes": 537,
+    "like_follower_ratio": 0.003928453857127181,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": "3505",
+    "category": "Protocol"
+  },
+  {
+    "id": "Armor",
+    "framework": null,
+    "documentType": 1,
+    "name": "Armor",
+    "cName": "armorfi",
+    "totalProposals": 2,
+    "totalVotes": 23,
+    "uniqueVoters": 20,
+    "tokens": [
+      {
+        "symbol": "armor",
+        "network": "ethereum",
+        "contractAddress": "0x1337def16f9b486faed0293eb623dc8395dfe46a"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/13748/thumb/armor.png?1611425846"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13748/small/armor.png?1611425846"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13748/large/armor.png?1611425846"
+      }
+    ],
+    "key_word_tweet_count": 41,
+    "tweet_count": 168,
+    "key_word_ratio": 0.24404761904761904,
+    "likes": 260,
+    "like_follower_ratio": 0.000796866475827362,
+    "twitterHandle": "ArmorFi",
+    "twitterURL": "https://twitter.com/ArmorFi",
+    "followerCount": "7958",
+    "category": "Investment"
+  },
+  {
+    "id": "BadgerDAO",
+    "framework": null,
+    "documentType": 1,
+    "name": "BadgerDAO",
+    "cName": "badgerdao",
+    "totalProposals": 86,
+    "totalVotes": 37043,
+    "uniqueVoters": 6640,
+    "tokens": [
+      {
+        "symbol": "badger",
+        "network": "ethereum",
+        "contractAddress": "0x3472a5a71965499acd81997a54bba8d852c6e53d"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/13287/thumb/badger_dao_logo.jpg?1607054976"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13287/small/badger_dao_logo.jpg?1607054976"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13287/large/badger_dao_logo.jpg?1607054976"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": null,
+    "category": "Service"
+  },
+  {
+    "id": "Balancer",
+    "framework": null,
+    "documentType": 1,
+    "name": "Balancer",
+    "cName": "balancer",
+    "totalProposals": 84,
+    "totalVotes": 27405,
+    "uniqueVoters": 6479,
+    "tokens": [
+      {
+        "symbol": "bal",
+        "network": "ethereum",
+        "contractAddress": "0xba100000625a3754423978a60c9317c58a424e3d"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/11683/thumb/Balancer.png?1592792958"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/11683/small/Balancer.png?1592792958"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/11683/large/Balancer.png?1592792958"
+      }
+    ],
+    "key_word_tweet_count": 30,
+    "tweet_count": 138,
+    "key_word_ratio": 0.21739130434782608,
+    "likes": 992,
+    "like_follower_ratio": 0.00027123389548745547,
+    "twitterHandle": "BalancerLabs",
+    "twitterURL": "https://twitter.com/BalancerLabs",
+    "followerCount": "121912",
+    "category": "Protocol"
+  },
+  {
+    "id": "Bancor",
+    "framework": null,
+    "documentType": 1,
+    "name": "Bancor",
+    "cName": "bancor",
+    "totalProposals": 322,
+    "totalVotes": 24701,
+    "uniqueVoters": 953,
+    "tokens": [
+      {
+        "symbol": "vbnt",
+        "network": "ethereum",
+        "contractAddress": "0x48fb253446873234f2febbf9bdeaa72d9d387f94"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/14053/thumb/bancorvbnt_32.png?1614048819"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/14053/small/bancorvbnt_32.png?1614048819"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/14053/large/bancorvbnt_32.png?1614048819"
+      }
+    ],
+    "key_word_tweet_count": 20,
+    "tweet_count": 103,
+    "key_word_ratio": 0.1941747572815534,
+    "likes": 1071,
+    "like_follower_ratio": 0.00036813738295912333,
+    "twitterHandle": "bancor",
+    "twitterURL": "https://twitter.com/bancor",
+    "followerCount": "145462",
+    "category": "Protocol"
+  },
+  {
+    "id": "Bankless DAO",
+    "framework": null,
+    "documentType": 1,
+    "name": "Bankless DAO",
+    "cName": "banklessvault",
+    "totalProposals": 26,
+    "totalVotes": 9522,
+    "uniqueVoters": 2561,
+    "tokens": [
+      {
+        "symbol": "bank",
+        "network": "ethereum",
+        "contractAddress": "0x2d94aa3e47d9d5024503ca8491fce9a2fb4da198"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/15227/large/j4WEJrwU.png?1622615796"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/15227/thumb/j4WEJrwU.png?1622615796"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/15227/small/j4WEJrwU.png?1622615796"
+      }
+    ],
+    "key_word_tweet_count": 38,
+    "tweet_count": 151,
+    "key_word_ratio": 0.25165562913907286,
+    "likes": 1107,
+    "like_follower_ratio": 0.0006990180911186184,
+    "twitterHandle": "banklessDAO",
+    "twitterURL": "https://twitter.com/banklessDAO",
+    "followerCount": "41675",
+    "category": "Social"
+  },
+  {
+    "id": "VPBasisDollar",
+    "framework": null,
+    "documentType": 1,
+    "name": "VPBasisDollar",
+    "cName": "basisdollar",
+    "totalProposals": 33,
+    "totalVotes": 596,
+    "uniqueVoters": 150,
+    "tokens": [
+      {
+        "symbol": "bsd",
+        "network": "ethereum",
+        "contractAddress": "0x003e0af2916e598fa5ea5cb2da4edfda9aed9fde"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/13409/small/bdollar_logo.png?1608263890"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13409/large/bdollar_logo.png?1608263890"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13409/thumb/bdollar_logo.png?1608263890"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": null,
+    "category": "Uncategorized"
+  },
+  {
+    "id": "Blockzero Labs",
+    "framework": null,
+    "documentType": 1,
+    "name": "Blockzero Labs",
+    "cName": "blockzerolabs",
+    "totalProposals": 38,
+    "totalVotes": 1858,
+    "uniqueVoters": 396,
+    "tokens": [
+      {
+        "symbol": "xio",
+        "network": "ethereum",
+        "contractAddress": "0x0f7f961648ae6db43c75663ac7e5414eb79b5704"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/10029/small/blockzero.jpg?1611110205"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/10029/large/blockzero.jpg?1611110205"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/10029/thumb/blockzero.jpg?1611110205"
+      }
+    ],
+    "key_word_tweet_count": 15,
+    "tweet_count": 138,
+    "key_word_ratio": 0.10869565217391304,
+    "likes": 382,
+    "like_follower_ratio": 0.0021071211870483755,
+    "twitterHandle": "blockzerolabs",
+    "twitterURL": "https://twitter.com/blockzerolabs",
+    "followerCount": "12086",
+    "category": "Uncategorized"
+  },
+  {
+    "id": "B.Protocol",
+    "framework": null,
+    "documentType": 1,
+    "name": "B.Protocol",
+    "cName": "bprotocol",
+    "totalProposals": 14,
+    "totalVotes": 255,
+    "uniqueVoters": 135,
+    "tokens": [
+      {
+        "symbol": "bpro",
+        "network": "ethereum",
+        "contractAddress": "0xbbbbbbb5aa847a2003fbc6b5c16df0bd1e725f61"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/15110/large/66428641.jpg?1619749844"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/15110/thumb/66428641.jpg?1619749844"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/15110/small/66428641.jpg?1619749844"
+      }
+    ],
+    "key_word_tweet_count": 30,
+    "tweet_count": 163,
+    "key_word_ratio": 0.18404907975460122,
+    "likes": 482,
+    "like_follower_ratio": 0.0024384074467546923,
+    "twitterHandle": "bprotocoleth",
+    "twitterURL": "https://twitter.com/bprotocoleth",
+    "followerCount": "6589",
+    "category": "Protocol"
+  },
+  {
+    "id": "Buzzed Bear Hideout",
+    "framework": null,
+    "documentType": 1,
+    "name": "Buzzed Bear Hideout",
+    "cName": "buzzedbearhideout",
+    "totalProposals": 29,
+    "totalVotes": 1897,
+    "uniqueVoters": 531,
+    "tokens": null,
+    "icons": [
+      {
+        "url": "https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/buzzedbearhideout/logo.png"
+      }
+    ],
+    "key_word_tweet_count": 11,
+    "tweet_count": 172,
+    "key_word_ratio": 0.06395348837209303,
+    "likes": 81,
+    "like_follower_ratio": 0.0016785129618500942,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": "4387",
+    "category": "Social"
+  },
+  {
+    "id": "bZx",
+    "framework": null,
+    "documentType": 1,
+    "name": "bZx",
+    "cName": "bzx",
+    "totalProposals": 10,
+    "totalVotes": 186,
+    "uniqueVoters": 80,
+    "tokens": [
+      {
+        "symbol": "bzrx",
+        "network": "ethereum",
+        "contractAddress": "0x56d811088235f11c8920698a204a5010a788f4b3"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/11811/small/bzrx.png?1594563172"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/11811/thumb/bzrx.png?1594563172"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/11811/large/bzrx.png?1594563172"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": "bzxhq",
+    "twitterURL": "https://twitter.com/bzxhq",
+    "followerCount": "1095.0",
+    "category": "Protocol"
+  },
+  {
+    "id": "CityDAO",
+    "framework": null,
+    "documentType": 1,
+    "name": "CityDAO",
+    "cName": "citydao",
+    "totalProposals": 20,
+    "totalVotes": 9299,
+    "uniqueVoters": 2330,
+    "tokens": null,
+    "icons": [
+      {
+        "url": "https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/cityDAO/logo.png"
+      }
+    ],
+    "key_word_tweet_count": 27,
+    "tweet_count": 148,
+    "key_word_ratio": 0.18243243243243243,
+    "likes": 4178,
+    "like_follower_ratio": 0.005531196051642148,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": "27976",
+    "category": "Uncategorized"
+  },
+  {
+    "id": "Compound",
+    "framework": "Governor Bravo",
+    "documentType": 1,
+    "name": "Compound",
+    "cName": "compound",
+    "totalProposals": 84,
+    "totalVotes": 3429,
+    "uniqueVoters": 1038,
+    "tokens": [
+      {
+        "symbol": "comp",
+        "network": "ethereum",
+        "contractAddress": "0xc00e94cb662c3520282e6f5717214004a7f26888"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/10775/thumb/COMP.png?1592625425"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/10775/large/COMP.png?1592625425"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/10775/small/COMP.png?1592625425"
+      }
+    ],
+    "key_word_tweet_count": 104,
+    "tweet_count": 132,
+    "key_word_ratio": 0.7878787878787878,
+    "likes": 7354,
+    "like_follower_ratio": 0.0003231227595826066,
+    "twitterHandle": "compoundfinance",
+    "twitterURL": "https://twitter.com/compoundfinance",
+    "followerCount": "218838",
+    "category": "Protocol"
+  },
+  {
+    "id": "Compound Grants",
+    "framework": "Governor Bravo",
+    "documentType": 1,
+    "name": "Compound Grants",
+    "cName": "compoundgrants",
+    "totalProposals": 2,
+    "totalVotes": 8,
+    "uniqueVoters": 7,
+    "tokens": [
+      {
+        "symbol": "comp",
+        "network": "ethereum",
+        "contractAddress": "0xc00e94cb662c3520282e6f5717214004a7f26888"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/10775/thumb/COMP.png?1592625425"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/10775/large/COMP.png?1592625425"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/10775/small/COMP.png?1592625425"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": null,
+    "category": "Grants"
+  },
+  {
+    "id": "Convex Finance",
+    "framework": null,
+    "documentType": 1,
+    "name": "Convex Finance",
+    "cName": "convexfinance",
+    "totalProposals": 70,
+    "totalVotes": 3248,
+    "uniqueVoters": 1048,
+    "tokens": [
+      {
+        "symbol": "cvx",
+        "network": "ethereum",
+        "contractAddress": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/15585/large/convex.png?1621256328"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/15585/thumb/convex.png?1621256328"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/15585/small/convex.png?1621256328"
+      }
+    ],
+    "key_word_tweet_count": 17,
+    "tweet_count": 118,
+    "key_word_ratio": 0.1440677966101695,
+    "likes": 1635,
+    "like_follower_ratio": 0.0025264387566521825,
+    "twitterHandle": "ConvexFinance",
+    "twitterURL": "https://twitter.com/ConvexFinance",
+    "followerCount": "38068",
+    "category": "Protocol"
+  },
+  {
+    "id": "CreamFinance",
+    "framework": null,
+    "documentType": 1,
+    "name": "CreamFinance",
+    "cName": "creamfinance",
+    "totalProposals": 111,
+    "totalVotes": 7224,
+    "uniqueVoters": 2920,
+    "tokens": [
+      {
+        "symbol": "cream",
+        "network": "ethereum",
+        "contractAddress": "0x2ba592f78db6436527729929aaf6c908497cb200"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/11976/large/Cream.png?1596593418"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/11976/thumb/Cream.png?1596593418"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/11976/small/Cream.png?1596593418"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": null,
+    "category": null
+  },
+  {
+    "id": "Credmark",
+    "framework": null,
+    "documentType": 1,
+    "name": "Credmark",
+    "cName": "credmark",
+    "totalProposals": 3,
+    "totalVotes": 27,
+    "uniqueVoters": 19,
+    "tokens": [
+      {
+        "symbol": "cmk",
+        "network": "ethereum",
+        "contractAddress": "0x68cfb82eacb9f198d508b514d898a403c449533e"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/16305/thumb/Credmark.png?1623720167"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/16305/small/Credmark.png?1623720167"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/16305/large/Credmark.png?1623720167"
+      }
+    ],
+    "key_word_tweet_count": 13,
+    "tweet_count": 150,
+    "key_word_ratio": 0.08666666666666667,
+    "likes": 41,
+    "like_follower_ratio": 0.0011548319860293496,
+    "twitterHandle": "credmarkhq",
+    "twitterURL": "https://twitter.com/credmarkhq",
+    "followerCount": "2731",
+    "category": "Uncategorized"
+  },
+  {
+    "id": "CryptoCorgis",
+    "framework": null,
+    "documentType": 1,
+    "name": "CryptoCorgis",
+    "cName": "cryptocorgis",
+    "totalProposals": 23,
+    "totalVotes": 444,
+    "uniqueVoters": 304,
+    "tokens": null,
+    "icons": [
+      {
+        "url": "https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/crypto-corgis.eth/logo.png"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": null,
+    "category": "Social"
+  },
+  {
+    "id": "dai-prize-pool",
+    "framework": null,
+    "documentType": 1,
+    "name": "dai-prize-pool",
+    "cName": "daiprizepool",
+    "totalProposals": 12,
+    "totalVotes": 11,
+    "uniqueVoters": 11,
+    "tokens": null,
+    "icons": [
+      {
+        "url": "https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/dai-prize-pool/logo.png"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": null,
+    "category": "Uncategorized"
+  },
+  {
+    "id": "DAOSquare",
+    "framework": "DAOHaus",
+    "documentType": 1,
+    "name": "DAOSquare",
+    "cName": "daosquare",
+    "totalProposals": 3,
+    "totalVotes": 13,
+    "uniqueVoters": 7,
+    "tokens": null,
+    "icons": [
+      {
+        "url": "https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/dai-prize-pool/logo.png"
+      }
+    ],
+    "key_word_tweet_count": 22,
+    "tweet_count": 168,
+    "key_word_ratio": 0.13095238095238096,
+    "likes": 284,
+    "like_follower_ratio": 0.0009877642443255725,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": "13069",
+    "category": "Grants"
+  },
+  {
+    "id": "Decentral Games",
+    "framework": null,
+    "documentType": 1,
+    "name": "Decentral Games",
+    "cName": "decentralgames",
+    "totalProposals": 74,
+    "totalVotes": 4999,
+    "uniqueVoters": 2108,
+    "tokens": [
+      {
+        "symbol": "dg",
+        "network": "ethereum",
+        "contractAddress": "0x4b520c812e8430659fc9f12f6d0c39026c83588d"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/21173/thumb/Decentral_Games_Logo-1.png?1638441275"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/21173/small/Decentral_Games_Logo-1.png?1638441275"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/21173/large/Decentral_Games_Logo-1.png?1638441275"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": null,
+    "category": null
+  },
+  {
+    "id": "DefiDollar DAO",
+    "framework": null,
+    "documentType": 1,
+    "name": "DefiDollar DAO",
+    "cName": "defidollar",
+    "totalProposals": 8,
+    "totalVotes": 30,
+    "uniqueVoters": 27,
+    "tokens": [
+      {
+        "symbol": "dfd",
+        "network": "ethereum",
+        "contractAddress": "0x20c36f062a31865bed8a5b1e512d9a1a20aa333a"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/12959/small/DFD.jpg?1604415975"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12959/thumb/DFD.jpg?1604415975"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12959/large/DFD.jpg?1604415975"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": "defidollar",
+    "twitterURL": "https://twitter.com/defidollar",
+    "followerCount": "12878.0",
+    "category": "Protocol"
+  },
+  {
+    "id": "Developer DAO",
+    "framework": null,
+    "documentType": 1,
+    "name": "Developer DAO",
+    "cName": "devdao",
+    "totalProposals": 7,
+    "totalVotes": 5603,
+    "uniqueVoters": 2174,
+    "tokens": null,
+    "icons": [
+      {
+        "url": "https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/devdao/logo.png"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": null,
+    "category": "Service"
+  },
+  {
+    "id": "dHEDGE",
+    "framework": null,
+    "documentType": 1,
+    "name": "dHEDGE",
+    "cName": "dhedge",
+    "totalProposals": 50,
+    "totalVotes": 925,
+    "uniqueVoters": 216,
+    "tokens": [
+      {
+        "symbol": "dht",
+        "network": "ethereum",
+        "contractAddress": "0xca1207647ff814039530d7d35df0e1dd2e91fa84"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/12508/small/dht.png?1600752201"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12508/thumb/dht.png?1600752201"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12508/large/dht.png?1600752201"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": "dHedgeOrg",
+    "twitterURL": "https://twitter.com/dHedgeOrg",
+    "followerCount": "18164.0",
+    "category": "Protocol"
+  },
+  {
+    "id": "Doodles",
+    "framework": null,
+    "documentType": 1,
+    "name": "Doodles",
+    "cName": "doodles",
+    "totalProposals": 32,
+    "totalVotes": 9660,
+    "uniqueVoters": 2688,
+    "tokens": null,
+    "icons": [
+      {
+        "url": "https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/doodles/resources/logo.jpg"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": null,
+    "category": "Social"
+  },
+  {
+    "id": "Digital Reserve Currency",
+    "framework": null,
+    "documentType": 1,
+    "name": "Digital Reserve Currency",
+    "cName": "drc",
+    "totalProposals": 15,
+    "totalVotes": 343,
+    "uniqueVoters": 178,
+    "tokens": [
+      {
+        "symbol": "drc",
+        "network": "ethereum",
+        "contractAddress": "0xa150db9b1fa65b44799d4dd949d922c0a33ee606"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/12802/thumb/DRC-Digital-Reserve-Currency-Coingecko.png?1603355646"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12802/small/DRC-Digital-Reserve-Currency-Coingecko.png?1603355646"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12802/large/DRC-Digital-Reserve-Currency-Coingecko.png?1603355646"
+      }
+    ],
+    "key_word_tweet_count": 24,
+    "tweet_count": 139,
+    "key_word_ratio": 0.17266187050359713,
+    "likes": 647,
+    "like_follower_ratio": 0.007602462868960331,
+    "twitterHandle": "drctoken",
+    "twitterURL": "https://twitter.com/drctoken",
+    "followerCount": "3546",
+    "category": "Uncategorized"
+  },
+  {
+    "id": "DynamicSetDollar",
+    "framework": null,
+    "documentType": 1,
+    "name": "DynamicSetDollar",
+    "cName": "dsd",
+    "totalProposals": 3,
+    "totalVotes": 36,
+    "uniqueVoters": 30,
+    "tokens": [
+      {
+        "symbol": "dsd",
+        "network": "ethereum",
+        "contractAddress": "0xbd2f0cd039e0bfcf88901c98c0bfac5ab27566e3"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/13249/thumb/DSD.jpg?1606713628"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13249/small/DSD.jpg?1606713628"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13249/large/DSD.jpg?1606713628"
+      }
+    ],
+    "key_word_tweet_count": 22,
+    "tweet_count": 73,
+    "key_word_ratio": 0.3013698630136986,
+    "likes": 478,
+    "like_follower_ratio": 0.006836775559242519,
+    "twitterHandle": "dsdproject",
+    "twitterURL": "https://twitter.com/dsdproject",
+    "followerCount": "3178",
+    "category": "Protocol"
+  },
+  {
+    "id": "dYdX",
+    "framework": null,
+    "documentType": 1,
+    "name": "dYdX",
+    "cName": "dydx",
+    "totalProposals": 6,
+    "totalVotes": 1295,
+    "uniqueVoters": 804,
+    "tokens": [
+      {
+        "symbol": "dydx",
+        "network": "ethereum",
+        "contractAddress": "0x92d6c1e31e14520e676a687f0a93788b716beff5"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/17500/thumb/hjnIm9bV.jpg?1628009360"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/17500/small/hjnIm9bV.jpg?1628009360"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/17500/large/hjnIm9bV.jpg?1628009360"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": "dydxprotocol",
+    "twitterURL": "https://twitter.com/dydxprotocol",
+    "followerCount": "113426.0",
+    "category": "Protocol"
+  },
+  {
+    "id": "Earthfund",
+    "framework": null,
+    "documentType": 1,
+    "name": "Earthfund",
+    "cName": "earthfund",
+    "totalProposals": 1,
+    "totalVotes": 10,
+    "uniqueVoters": 10,
+    "tokens": [
+      {
+        "symbol": "1earth",
+        "network": "ethereum",
+        "contractAddress": "0x9e04f519b094f5f8210441e285f603f4d2b50084"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/20822/thumb/earthfund.PNG?1637722232"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/20822/small/earthfund.PNG?1637722232"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/20822/large/earthfund.PNG?1637722232"
+      }
+    ],
+    "key_word_tweet_count": 23,
+    "tweet_count": 172,
+    "key_word_ratio": 0.13372093023255813,
+    "likes": 112,
+    "like_follower_ratio": 0.0016890618166463076,
+    "twitterHandle": "EarthFund_io",
+    "twitterURL": "https://twitter.com/EarthFund_io",
+    "followerCount": "2883",
+    "category": "Uncategorized"
+  },
+  {
+    "id": "Ethereum Name Service",
+    "framework": null,
+    "documentType": 1,
+    "name": "Ethereum Name Service",
+    "cName": "ens",
+    "totalProposals": 2,
+    "totalVotes": 132,
+    "uniqueVoters": 100,
+    "tokens": [
+      {
+        "symbol": "ens",
+        "network": "ethereum",
+        "contractAddress": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/19785/thumb/acatxTm8_400x400.jpg?1635850140"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/19785/small/acatxTm8_400x400.jpg?1635850140"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/19785/large/acatxTm8_400x400.jpg?1635850140"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": "ensdomains",
+    "twitterURL": "https://twitter.com/ensdomains",
+    "followerCount": "155899.0",
+    "category": "Protocol"
+  },
+  {
+    "id": "EmptySetDollar",
+    "framework": null,
+    "documentType": 1,
+    "name": "EmptySetDollar",
+    "cName": "esd",
+    "totalProposals": 19,
+    "totalVotes": 464,
+    "uniqueVoters": 297,
+    "tokens": [
+      {
+        "symbol": "esd",
+        "network": "ethereum",
+        "contractAddress": "0x36f3fd68e7325a35eb768f1aedaae9ea0689d723"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/12440/thumb/esd_logo_circle.png?1603676421"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12440/small/esd_logo_circle.png?1603676421"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12440/large/esd_logo_circle.png?1603676421"
+      }
+    ],
+    "key_word_tweet_count": 22,
+    "tweet_count": 68,
+    "key_word_ratio": 0.3235294117647059,
+    "likes": 255,
+    "like_follower_ratio": 0.0031343723880230103,
+    "twitterHandle": "emptysetdollar",
+    "twitterURL": "https://twitter.com/emptysetdollar",
+    "followerCount": "3698",
+    "category": "Protocol"
+  },
+  {
+    "id": "Fei Money",
+    "framework": null,
+    "documentType": 1,
+    "name": "Fei Money",
+    "cName": "fei",
+    "totalProposals": 57,
+    "totalVotes": 1129,
+    "uniqueVoters": 661,
+    "tokens": [
+      {
+        "symbol": "tribe",
+        "network": "ethereum",
+        "contractAddress": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/14575/large/tribe.PNG?1617487954"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/14575/small/tribe.PNG?1617487954"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/14575/thumb/tribe.PNG?1617487954"
+      }
+    ],
+    "key_word_tweet_count": 20,
+    "tweet_count": 92,
+    "key_word_ratio": 0.21739130434782608,
+    "likes": 908,
+    "like_follower_ratio": 0.0012443128871347914,
+    "twitterHandle": "feiprotocol",
+    "twitterURL": "https://twitter.com/feiprotocol",
+    "followerCount": "36486",
+    "category": "Protocol"
+  },
+  {
+    "id": "Forefront",
+    "framework": null,
+    "documentType": 1,
+    "name": "Forefront",
+    "cName": "forefront",
+    "totalProposals": 7,
+    "totalVotes": 285,
+    "uniqueVoters": 181,
+    "tokens": [
+      {
+        "symbol": "ff",
+        "network": "ethereum",
+        "contractAddress": "0x7e9d8f07a64e363e97a648904a89fb4cd5fb94cd"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/14659/thumb/N2kir6jx_400x400.jpg?1617608020"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/14659/large/N2kir6jx_400x400.jpg?1617608020"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/14659/small/N2kir6jx_400x400.jpg?1617608020"
+      }
+    ],
+    "key_word_tweet_count": 65,
+    "tweet_count": 162,
+    "key_word_ratio": 0.4012345679012346,
+    "likes": 1087,
+    "like_follower_ratio": 0.0007583817932554952,
+    "twitterHandle": "forefront__",
+    "twitterURL": "https://twitter.com/forefront__",
+    "followerCount": "22051",
+    "category": "Uncategorized"
+  },
+  {
+    "id": "Friends With Benefits",
+    "framework": null,
+    "documentType": 1,
+    "name": "Friends With Benefits",
+    "cName": "friendswithbenefits",
+    "totalProposals": 35,
+    "totalVotes": 4162,
+    "uniqueVoters": 1319,
+    "tokens": [
+      {
+        "symbol": "fwb",
+        "network": "ethereum",
+        "contractAddress": "0x35bd01fc9d6d5d81ca9e055db88dc49aa2c699a8"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/14391/thumb/xRGEXmQN_400x400.png?1615868085"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/14391/small/xRGEXmQN_400x400.png?1615868085"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/14391/large/xRGEXmQN_400x400.png?1615868085"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": "FWBtweets",
+    "twitterURL": "https://twitter.com/FWBtweets",
+    "followerCount": "50654.0",
+    "category": "Social"
+  },
+  {
+    "id": "Frontier",
+    "framework": null,
+    "documentType": 1,
+    "name": "Frontier",
+    "cName": "frontier",
+    "totalProposals": 1,
+    "totalVotes": 31,
+    "uniqueVoters": 31,
+    "tokens": [
+      {
+        "symbol": "front",
+        "network": "ethereum",
+        "contractAddress": "0xf8c3527cc04340b208c854e985240c02f7b7793f"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/12479/large/frontier_logo.png?1600145472"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12479/thumb/frontier_logo.png?1600145472"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12479/small/frontier_logo.png?1600145472"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": "FrontierDAO",
+    "twitterURL": "https://twitter.com/FrontierDAO",
+    "followerCount": "3870.0",
+    "category": "Product"
+  },
+  {
+    "id": "Game Mine Alliance",
+    "framework": "DAOHaus",
+    "documentType": 1,
+    "name": "Game Mine Alliance",
+    "cName": "gameminealliance",
+    "totalProposals": 31,
+    "totalVotes": 28,
+    "uniqueVoters": 2,
+    "tokens": null,
+    "icons": [
+      {
+        "url": "https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/gameminealliance/logo.png"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": null,
+    "category": "Ventures"
+  },
+  {
+    "id": "Gitcoin",
+    "framework": "Governor Alpha",
+    "documentType": 1,
+    "name": "Gitcoin",
+    "cName": "gitcoin",
+    "totalProposals": 16,
+    "totalVotes": 441,
+    "uniqueVoters": 311,
+    "tokens": [
+      {
+        "symbol": "gtc",
+        "network": "ethereum",
+        "contractAddress": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/15810/thumb/gitcoin.png?1621992929"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/15810/small/gitcoin.png?1621992929"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/15810/large/gitcoin.png?1621992929"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": "gitcoin",
+    "twitterURL": "https://twitter.com/gitcoin",
+    "followerCount": "90185.0",
+    "category": "Protocol"
+  },
+  {
+    "id": "Gnosis",
+    "framework": null,
+    "documentType": 1,
+    "name": "Gnosis",
+    "cName": "gnosis",
+    "totalProposals": 19,
+    "totalVotes": 2316,
+    "uniqueVoters": 941,
+    "tokens": [
+      {
+        "symbol": "gno",
+        "network": "ethereum",
+        "contractAddress": "0x6810e776880c02933d47db1b9fc05908e5386b96"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/662/large/logo_square_simple_300px.png?1609402668"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/662/thumb/logo_square_simple_300px.png?1609402668"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/662/small/logo_square_simple_300px.png?1609402668"
+      }
+    ],
+    "key_word_tweet_count": 26,
+    "tweet_count": 65,
+    "key_word_ratio": 0.4,
+    "likes": 1362,
+    "like_follower_ratio": 0.00044141982914913577,
+    "twitterHandle": "gnosisPM",
+    "twitterURL": "https://twitter.com/gnosisPM",
+    "followerCount": "118673",
+    "category": "Protocol"
+  },
+  {
+    "id": "GoodDollar",
+    "framework": null,
+    "documentType": 1,
+    "name": "GoodDollar",
+    "cName": "gooddollar",
+    "totalProposals": 0,
+    "totalVotes": 0,
+    "uniqueVoters": 0,
+    "tokens": null,
+    "icons": [
+      {
+        "url": "https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/gooddollar/gooddollar-logo.jpg"
+      }
+    ],
+    "key_word_tweet_count": 16,
+    "tweet_count": 182,
+    "key_word_ratio": 0.08791208791208792,
+    "likes": 429,
+    "like_follower_ratio": 0.002143285371702638,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": "12510",
+    "category": "Investment"
+  },
+  {
+    "id": "TheGraph",
+    "framework": null,
+    "documentType": 1,
+    "name": "TheGraph",
+    "cName": "graphprotocol",
+    "totalProposals": 4,
+    "totalVotes": 1195,
+    "uniqueVoters": 762,
+    "tokens": [
+      {
+        "symbol": "grt",
+        "network": "ethereum",
+        "contractAddress": "0xc944e90c64b2c07662a292be6244bdf05cda44a7"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/13397/thumb/Graph_Token.png?1608145566"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13397/small/Graph_Token.png?1608145566"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13397/large/Graph_Token.png?1608145566"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": "graphprotocol",
+    "twitterURL": "https://twitter.com/graphprotocol",
+    "followerCount": "209560.0",
+    "category": "Protocol"
+  },
+  {
+    "id": "Idle",
+    "framework": null,
+    "documentType": 1,
+    "name": "Idle",
+    "cName": "idlefinance",
+    "totalProposals": 88,
+    "totalVotes": 1198,
+    "uniqueVoters": 323,
+    "tokens": [
+      {
+        "symbol": "idle",
+        "network": "ethereum",
+        "contractAddress": "0x875773784af8135ea0ef43b5a374aad105c5d39e"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/13286/thumb/token-logo.png?1607004948"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13286/small/token-logo.png?1607004948"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13286/large/token-logo.png?1607004948"
+      }
+    ],
+    "key_word_tweet_count": 78,
+    "tweet_count": 199,
+    "key_word_ratio": 0.39195979899497485,
+    "likes": 918,
+    "like_follower_ratio": 0.0009282459791174991,
+    "twitterHandle": "idlefinance",
+    "twitterURL": "https://twitter.com/idlefinance",
+    "followerCount": "12679",
+    "category": "Protocol"
+  },
+  {
+    "id": "Index",
+    "framework": null,
+    "documentType": 1,
+    "name": "Index",
+    "cName": "indexCoop",
+    "totalProposals": 305,
+    "totalVotes": 13970,
+    "uniqueVoters": 2622,
+    "tokens": [
+      {
+        "symbol": "index",
+        "network": "ethereum",
+        "contractAddress": "0x0954906da0bf32d5479e25f46056d22f08464cab"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/12729/thumb/index.png?1634894321"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12729/small/index.png?1634894321"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12729/large/index.png?1634894321"
+      }
+    ],
+    "key_word_tweet_count": 20,
+    "tweet_count": 137,
+    "key_word_ratio": 0.145985401459854,
+    "likes": 398,
+    "like_follower_ratio": 0.017155172413793104,
+    "twitterHandle": "Index_DAO",
+    "twitterURL": "https://twitter.com/Index_DAO",
+    "followerCount": "1160",
+    "category": "Protocol"
+  },
+  {
+    "id": "Indexed",
+    "framework": null,
+    "documentType": 1,
+    "name": "Indexed",
+    "cName": "indexed",
+    "totalProposals": 16,
+    "totalVotes": 440,
+    "uniqueVoters": 272,
+    "tokens": [
+      {
+        "symbol": "ndx",
+        "network": "ethereum",
+        "contractAddress": "0x86772b1409b61c639eaac9ba0acfbb6e238e5f83"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/13546/thumb/indexed-light.74bb5471.png?1609712728"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13546/small/indexed-light.74bb5471.png?1609712728"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13546/large/indexed-light.74bb5471.png?1609712728"
+      }
+    ],
+    "key_word_tweet_count": 29,
+    "tweet_count": 159,
+    "key_word_ratio": 0.18238993710691823,
+    "likes": 948,
+    "like_follower_ratio": 0.0017564695702763846,
+    "twitterHandle": "ndxfi",
+    "twitterURL": "https://twitter.com/ndxfi",
+    "followerCount": "18611",
+    "category": "Protocol"
+  },
+  {
+    "id": "Instadapp",
+    "framework": null,
+    "documentType": 1,
+    "name": "Instadapp",
+    "cName": "instadapp",
+    "totalProposals": 4,
+    "totalVotes": 49,
+    "uniqueVoters": 27,
+    "tokens": [
+      {
+        "symbol": "inst",
+        "network": "ethereum",
+        "contractAddress": "0x6f40d4a6237c257fff2db00fa0510deeecd303eb"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/14688/thumb/30hFM0-n_400x400.jpg?1617786420"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/14688/small/30hFM0-n_400x400.jpg?1617786420"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/14688/large/30hFM0-n_400x400.jpg?1617786420"
+      }
+    ],
+    "key_word_tweet_count": 10,
+    "tweet_count": 109,
+    "key_word_ratio": 0.09174311926605505,
+    "likes": 1228,
+    "like_follower_ratio": 0.0037890709370853775,
+    "twitterHandle": "Instadapp",
+    "twitterURL": "https://twitter.com/Instadapp",
+    "followerCount": "32409",
+    "category": "Protocol"
+  },
+  {
+    "id": "Inverse Finance",
+    "framework": null,
+    "documentType": 1,
+    "name": "Inverse Finance",
+    "cName": "inverse",
+    "totalProposals": 29,
+    "totalVotes": 1683,
+    "uniqueVoters": 420,
+    "tokens": [
+      {
+        "symbol": "inv",
+        "network": "ethereum",
+        "contractAddress": "0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/14205/thumb/inverse_finance.jpg?1614921871"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/14205/small/inverse_finance.jpg?1614921871"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/14205/large/inverse_finance.jpg?1614921871"
+      }
+    ],
+    "key_word_tweet_count": 57,
+    "tweet_count": 154,
+    "key_word_ratio": 0.37012987012987014,
+    "likes": 4376,
+    "like_follower_ratio": 0.0038105886645436737,
+    "twitterHandle": "InverseFinance",
+    "twitterURL": "https://twitter.com/InverseFinance",
+    "followerCount": "20147",
+    "category": "Protocol"
+  },
+  {
+    "id": "Keep2r",
+    "framework": null,
+    "documentType": 1,
+    "name": "Keep2r",
+    "cName": "keep2r",
+    "totalProposals": 2,
+    "totalVotes": 32,
+    "uniqueVoters": 28,
+    "tokens": null,
+    "icons": [
+      {
+        "url": "https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/keep2r.eth/logo.png"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": null,
+    "category": "Uncategorized"
+  },
+  {
+    "id": "Keeper DAO",
+    "framework": null,
+    "documentType": 1,
+    "name": "Keeper DAO",
+    "cName": "keeperdao",
+    "totalProposals": 15,
+    "totalVotes": 535,
+    "uniqueVoters": 169,
+    "tokens": [
+      {
+        "symbol": "rook",
+        "network": "ethereum",
+        "contractAddress": "0xfa5047c9c78b8877af97bdcb85db743fd7313d4a"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/13005/small/keeper_dao_logo.jpg?1604316506"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13005/thumb/keeper_dao_logo.jpg?1604316506"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13005/large/keeper_dao_logo.jpg?1604316506"
+      }
+    ],
+    "key_word_tweet_count": 21,
+    "tweet_count": 169,
+    "key_word_ratio": 0.1242603550295858,
+    "likes": 593,
+    "like_follower_ratio": 0.0010848288604723487,
+    "twitterHandle": "Keeper_DAO",
+    "twitterURL": "https://twitter.com/Keeper_DAO",
+    "followerCount": "26030",
+    "category": "Protocol"
+  },
+  {
+    "id": "Kleros",
+    "framework": null,
+    "documentType": 1,
+    "name": "Kleros",
+    "cName": "kleros",
+    "totalProposals": 12,
+    "totalVotes": 448,
+    "uniqueVoters": 188,
+    "tokens": [
+      {
+        "symbol": "pnk",
+        "network": "ethereum",
+        "contractAddress": "0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/3833/large/kleros.png?1547975322"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/3833/thumb/kleros.png?1547975322"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/3833/small/kleros.png?1547975322"
+      }
+    ],
+    "key_word_tweet_count": 11,
+    "tweet_count": 161,
+    "key_word_ratio": 0.06832298136645963,
+    "likes": 138,
+    "like_follower_ratio": 0.0005584693084693085,
+    "twitterHandle": "Kleros_io",
+    "twitterURL": "https://twitter.com/Kleros_io",
+    "followerCount": "22464",
+    "category": "Protocol"
+  },
+  {
+    "id": "Klima DAO",
+    "framework": null,
+    "documentType": 1,
+    "name": "Klima DAO",
+    "cName": "klimadao",
+    "totalProposals": 14,
+    "totalVotes": 9027,
+    "uniqueVoters": 4186,
+    "tokens": [
+      {
+        "symbol": "klima",
+        "network": "polygon-pos",
+        "contractAddress": "0x4e78011ce80ee02d2c3e649fb657e45898257815"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/19169/thumb/klima-logo.png?1634606729"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/19169/small/klima-logo.png?1634606729"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/19169/large/klima-logo.png?1634606729"
+      }
+    ],
+    "key_word_tweet_count": 24,
+    "tweet_count": 138,
+    "key_word_ratio": 0.17391304347826086,
+    "likes": 4044,
+    "like_follower_ratio": 0.002425018709343158,
+    "twitterHandle": "KlimaDAO",
+    "twitterURL": "https://twitter.com/KlimaDAO",
+    "followerCount": "69484",
+    "category": "Service"
+  },
+  {
+    "id": "Krause House",
+    "framework": null,
+    "documentType": 1,
+    "name": "Krause House",
+    "cName": "krausehouse",
+    "totalProposals": 38,
+    "totalVotes": 1950,
+    "uniqueVoters": 453,
+    "tokens": [
+      {
+        "symbol": "$KRAUSE",
+        "network": "ethereum",
+        "contractAddress": "0x9f6f91078a5072a8b54695dafa2374ab3ccd603b"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/21022/small/-HEQTtGz_400x400.png?1638193269"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/21022/thumb/-HEQTtGz_400x400.png?1638193269"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/21022/large/-HEQTtGz_400x400.png?1638193269"
+      }
+    ],
+    "key_word_tweet_count": 23,
+    "tweet_count": 178,
+    "key_word_ratio": 0.12921348314606743,
+    "likes": 606,
+    "like_follower_ratio": 0.0023956924974501293,
+    "twitterHandle": "KrauseHouseDAO",
+    "twitterURL": "https://twitter.com/KrauseHouseDAO",
+    "followerCount": "10998",
+    "category": "Uncategorized"
+  },
+  {
+    "id": "Lido DAO",
+    "framework": null,
+    "documentType": 1,
+    "name": "Lido DAO",
+    "cName": "lido",
+    "totalProposals": 55,
+    "totalVotes": 1276,
+    "uniqueVoters": 429,
+    "tokens": [
+      {
+        "symbol": "ldo",
+        "network": "ethereum",
+        "contractAddress": "0x5a98fcbea516cf06857215779fd812ca3bef1b32"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/13573/small/Lido_DAO.png?1609873644"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13573/thumb/Lido_DAO.png?1609873644"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13573/large/Lido_DAO.png?1609873644"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": null,
+    "category": "Protocol"
+  },
+  {
+    "id": "MantraDAO",
+    "framework": null,
+    "documentType": 1,
+    "name": "MantraDAO",
+    "cName": "mantraDao",
+    "totalProposals": 75,
+    "totalVotes": 2356,
+    "uniqueVoters": 688,
+    "tokens": [
+      {
+        "symbol": "om",
+        "network": "ethereum",
+        "contractAddress": "0x3593d125a4f7849a1b059e64f4517a86dd60c95d"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/12151/thumb/OM_3D_whtbg.png?1598332353"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12151/small/OM_3D_whtbg.png?1598332353"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12151/large/OM_3D_whtbg.png?1598332353"
+      }
+    ],
+    "key_word_tweet_count": 22,
+    "tweet_count": 194,
+    "key_word_ratio": 0.1134020618556701,
+    "likes": 672,
+    "like_follower_ratio": 0.0005380657497129516,
+    "twitterHandle": "MANTRADAO",
+    "twitterURL": "https://twitter.com/MANTRADAO",
+    "followerCount": "56769",
+    "category": "Protocol"
+  },
+  {
+    "id": "Metacartel Ventures",
+    "framework": "DAOHaus",
+    "documentType": 1,
+    "name": "Metacartel Ventures",
+    "cName": "metacartel",
+    "totalProposals": 447,
+    "totalVotes": 199,
+    "uniqueVoters": 33,
+    "tokens": null,
+    "icons": [
+      {
+        "url": "https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/metacartelventures/logo.png"
+      }
+    ],
+    "key_word_tweet_count": 29,
+    "tweet_count": 140,
+    "key_word_ratio": 0.20714285714285716,
+    "likes": 1283,
+    "like_follower_ratio": 0.002248494577675586,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": "19676",
+    "category": "Ventures"
+  },
+  {
+    "id": "Moloch DAO",
+    "framework": "DAOHaus",
+    "documentType": 1,
+    "name": "Moloch DAO",
+    "cName": "molochdao",
+    "totalProposals": 7,
+    "totalVotes": 19,
+    "uniqueVoters": 10,
+    "tokens": null,
+    "icons": [
+      {
+        "url": "https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/molochdao/logo.png"
+      }
+    ],
+    "key_word_tweet_count": 30,
+    "tweet_count": 85,
+    "key_word_ratio": 0.35294117647058826,
+    "likes": 613,
+    "like_follower_ratio": 0.0020560810357550144,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": "9938",
+    "category": "Grants"
+  },
+  {
+    "id": "Moloch Rises",
+    "framework": "DAOHaus",
+    "documentType": 1,
+    "name": "Moloch Rises",
+    "cName": "molochrises",
+    "totalProposals": 7,
+    "totalVotes": 19,
+    "uniqueVoters": 10,
+    "tokens": null,
+    "icons": [
+      {
+        "url": "https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/molochrises/logo.png"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": null,
+    "category": "Grants"
+  },
+  {
+    "id": "mStable",
+    "framework": null,
+    "documentType": 1,
+    "name": "mStable",
+    "cName": "mstable",
+    "totalProposals": 102,
+    "totalVotes": 9245,
+    "uniqueVoters": 2044,
+    "tokens": [
+      {
+        "symbol": "mta",
+        "network": "ethereum",
+        "contractAddress": "0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/11846/small/mStable.png?1594950533"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/11846/large/mStable.png?1594950533"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/11846/thumb/mStable.png?1594950533"
+      }
+    ],
+    "key_word_tweet_count": 22,
+    "tweet_count": 104,
+    "key_word_ratio": 0.21153846153846154,
+    "likes": 268,
+    "like_follower_ratio": 0.00046693312054192117,
+    "twitterHandle": "mstable_",
+    "twitterURL": "https://twitter.com/mstable_",
+    "followerCount": "26089",
+    "category": "Protocol"
+  },
+  {
+    "id": "Nouns DAO",
+    "framework": null,
+    "documentType": 1,
+    "name": "Nouns DAO",
+    "cName": "nounsdao",
+    "totalProposals": 39,
+    "totalVotes": 455,
+    "uniqueVoters": 81,
+    "tokens": null,
+    "icons": [
+      {
+        "url": "https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/nounsdao/logo.png"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": null,
+    "category": "Social"
+  },
+  {
+    "id": "Olympus DAO",
+    "framework": null,
+    "documentType": 1,
+    "name": "Olympus DAO",
+    "cName": "olympusdao",
+    "totalProposals": 178,
+    "totalVotes": 39431,
+    "uniqueVoters": 7986,
+    "tokens": [
+      {
+        "symbol": "ohm",
+        "network": "ethereum",
+        "contractAddress": "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/14483/thumb/token_OHM_%281%29.png?1628311611"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/14483/small/token_OHM_%281%29.png?1628311611"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/14483/large/token_OHM_%281%29.png?1628311611"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": null,
+    "category": null
+  },
+  {
+    "id": "OOKI",
+    "framework": null,
+    "documentType": 1,
+    "name": "OOKI",
+    "cName": "ooki",
+    "totalProposals": 10,
+    "totalVotes": 186,
+    "uniqueVoters": 80,
+    "tokens": [
+      {
+        "symbol": "bzrx",
+        "network": "ethereum",
+        "contractAddress": "0x56d811088235f11c8920698a204a5010a788f4b3"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/11811/large/bzrx.png?1594563172"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/11811/thumb/bzrx.png?1594563172"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/11811/small/bzrx.png?1594563172"
+      }
+    ],
+    "key_word_tweet_count": 24,
+    "tweet_count": 162,
+    "key_word_ratio": 0.14814814814814814,
+    "likes": 1978,
+    "like_follower_ratio": 0.0017234769273665135,
+    "twitterHandle": "OokiTrade",
+    "twitterURL": "https://twitter.com/OokiTrade",
+    "followerCount": "47820",
+    "category": "Uncategorized"
+  },
+  {
+    "id": "OpenDAO",
+    "framework": null,
+    "documentType": 1,
+    "name": "OpenDAO",
+    "cName": "opendao",
+    "totalProposals": 9,
+    "totalVotes": 8482,
+    "uniqueVoters": 5224,
+    "tokens": [
+      {
+        "symbol": "sos",
+        "network": "ethereum",
+        "contractAddress": "0x3b484b82567a09e2588a13d54d032153f0c0aee0"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/21956/thumb/fo42wXI6_400x400.jpg?1640373810"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/21956/small/fo42wXI6_400x400.jpg?1640373810"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/21956/large/fo42wXI6_400x400.jpg?1640373810"
+      }
+    ],
+    "key_word_tweet_count": 14,
+    "tweet_count": 93,
+    "key_word_ratio": 0.15053763440860216,
+    "likes": 11504,
+    "like_follower_ratio": 0.005158087490203041,
+    "twitterHandle": "The_OpenDAO",
+    "twitterURL": "https://twitter.com/The_OpenDAO",
+    "followerCount": "159306",
+    "category": "Social"
+  },
+  {
+    "id": "Overstimulated DAO",
+    "framework": null,
+    "documentType": 1,
+    "name": "Overstimulated DAO",
+    "cName": "oversmdao",
+    "totalProposals": 2,
+    "totalVotes": 8,
+    "uniqueVoters": 8,
+    "tokens": null,
+    "icons": [
+      {
+        "url": "https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/overstimulateddao/logo.png"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": null,
+    "category": "Social"
+  },
+  {
+    "id": "PastaDAOv0",
+    "framework": null,
+    "documentType": 1,
+    "name": "PastaDAOv0",
+    "cName": "pasta",
+    "totalProposals": 10,
+    "totalVotes": 129,
+    "uniqueVoters": 61,
+    "tokens": [
+      {
+        "symbol": "pasta",
+        "network": "ethereum",
+        "contractAddress": "0xe54f9e6ab80ebc28515af8b8233c1aee6506a15e"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/12170/small/pasta_logo.png?1597803191"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12170/large/pasta_logo.png?1597803191"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12170/thumb/pasta_logo.png?1597803191"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": null,
+    "category": "Protocol"
+  },
+  {
+    "id": "PegzDAO",
+    "framework": "DAOHaus",
+    "documentType": 1,
+    "name": "PegzDAO",
+    "cName": "pegzdao",
+    "totalProposals": 1,
+    "totalVotes": 1,
+    "uniqueVoters": 1,
+    "tokens": null,
+    "icons": [
+      {
+        "url": "https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/pegzdao/logo.png"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": null,
+    "category": "Grants"
+  },
+  {
+    "id": "Perpetual Protocol",
+    "framework": null,
+    "documentType": 1,
+    "name": "Perpetual Protocol",
+    "cName": "perpetualprotocol",
+    "totalProposals": 20,
+    "totalVotes": 1456,
+    "uniqueVoters": 517,
+    "tokens": [
+      {
+        "symbol": "perp",
+        "network": "ethereum",
+        "contractAddress": "0xbc396689893d065f41bc2c6ecbee5e0085233447"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/12381/small/60d18e06844a844ad75901a9_mark_only_03.png?1628674771"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12381/large/60d18e06844a844ad75901a9_mark_only_03.png?1628674771"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12381/thumb/60d18e06844a844ad75901a9_mark_only_03.png?1628674771"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": "perpprotocol",
+    "twitterURL": "https://twitter.com/perpprotocol",
+    "followerCount": "38029.0",
+    "category": "Protocol"
+  },
+  {
+    "id": "CPICKLE",
+    "framework": null,
+    "documentType": 1,
+    "name": "CPICKLE",
+    "cName": "pickle",
+    "totalProposals": 95,
+    "totalVotes": 5323,
+    "uniqueVoters": 2636,
+    "tokens": [
+      {
+        "symbol": "pickle",
+        "network": "ethereum",
+        "contractAddress": "0x429881672b9ae42b8eba0e26cd9c73711b891ca5"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/12435/thumb/0M4W6Yr6_400x400.jpg?1643006080"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12435/small/0M4W6Yr6_400x400.jpg?1643006080"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12435/large/0M4W6Yr6_400x400.jpg?1643006080"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": null,
+    "category": "Protocol"
+  },
+  {
+    "id": "PieDAO",
+    "framework": null,
+    "documentType": 1,
+    "name": "PieDAO",
+    "cName": "piedao",
+    "totalProposals": 72,
+    "totalVotes": 4904,
+    "uniqueVoters": 708,
+    "tokens": [
+      {
+        "symbol": "dough",
+        "network": "ethereum",
+        "contractAddress": "0xad32a8e6220741182940c5abf610bde99e737b2d"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/12693/thumb/DOUGH2v.png?1602655308"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12693/small/DOUGH2v.png?1602655308"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12693/large/DOUGH2v.png?1602655308"
+      }
+    ],
+    "key_word_tweet_count": 29,
+    "tweet_count": 117,
+    "key_word_ratio": 0.24786324786324787,
+    "likes": 248,
+    "like_follower_ratio": 0.0005400861524523831,
+    "twitterHandle": "PieDAO_DeFi",
+    "twitterURL": "https://twitter.com/PieDAO_DeFi",
+    "followerCount": "15834",
+    "category": "Protocol"
+  },
+  {
+    "id": "PleasrDAO",
+    "framework": null,
+    "documentType": 1,
+    "name": "PleasrDAO",
+    "cName": "pleasrdao",
+    "totalProposals": 49,
+    "totalVotes": 861,
+    "uniqueVoters": 73,
+    "tokens": null,
+    "icons": [
+      {
+        "url": "https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/pleasrdao/logo.png"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": null,
+    "category": "Protocol"
+  },
+  {
+    "id": "PoolTogether",
+    "framework": null,
+    "documentType": 1,
+    "name": "PoolTogether",
+    "cName": "pooltogether",
+    "totalProposals": 30,
+    "totalVotes": 784,
+    "uniqueVoters": 354,
+    "tokens": [
+      {
+        "symbol": "pool",
+        "network": "ethereum",
+        "contractAddress": "0x0cec1a9154ff802e7934fc916ed7ca50bde6844e"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/14003/thumb/PoolTogether.png?1613585632"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/14003/small/PoolTogether.png?1613585632"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/14003/large/PoolTogether.png?1613585632"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": "PoolTogether_",
+    "twitterURL": "https://twitter.com/PoolTogether_",
+    "followerCount": "37257.0",
+    "category": "Protocol"
+  },
+  {
+    "id": "Powerpool",
+    "framework": null,
+    "documentType": 1,
+    "name": "Powerpool",
+    "cName": "powerpool",
+    "totalProposals": 0,
+    "totalVotes": 0,
+    "uniqueVoters": 0,
+    "tokens": [
+      {
+        "symbol": "cvp",
+        "network": "ethereum",
+        "contractAddress": "0x38e4adb44ef08f22f5b5b76a8f0c2d0dcbe7dca1"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/12266/small/Powerpool.jpg?1598621373"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12266/thumb/Powerpool.jpg?1598621373"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12266/large/Powerpool.jpg?1598621373"
+      }
+    ],
+    "key_word_tweet_count": 40,
+    "tweet_count": 172,
+    "key_word_ratio": 0.23255813953488372,
+    "likes": 2089,
+    "like_follower_ratio": 0.0017276456382943532,
+    "twitterHandle": "powerpoolcvp",
+    "twitterURL": "https://twitter.com/powerpoolcvp",
+    "followerCount": "30229",
+    "category": "Protocol"
+  },
+  {
+    "id": "Premia",
+    "framework": null,
+    "documentType": 1,
+    "name": "Premia",
+    "cName": "premia",
+    "totalProposals": 28,
+    "totalVotes": 891,
+    "uniqueVoters": 405,
+    "tokens": [
+      {
+        "symbol": "premia",
+        "network": "ethereum",
+        "contractAddress": "0x6399c842dd2be3de30bf99bc7d1bbf6fa3650e70"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/13962/thumb/apple-touch-icon.png?1623679482"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13962/small/apple-touch-icon.png?1623679482"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13962/large/apple-touch-icon.png?1623679482"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": "PremiaFinance",
+    "twitterURL": "https://twitter.com/PremiaFinance",
+    "followerCount": "12808.0",
+    "category": "Uncategorized"
+  },
+  {
+    "id": "PrimeDAO",
+    "framework": null,
+    "documentType": 1,
+    "name": "PrimeDAO",
+    "cName": "primedao",
+    "totalProposals": 30,
+    "totalVotes": 173,
+    "uniqueVoters": 26,
+    "tokens": [
+      {
+        "symbol": "d2d",
+        "network": "ethereum",
+        "contractAddress": "0x43d4a3cd90ddd2f8f4f693170c9c8098163502ad"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/21609/thumb/RJD82RrV_400x400.jpg?1639559164"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/21609/small/RJD82RrV_400x400.jpg?1639559164"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/21609/large/RJD82RrV_400x400.jpg?1639559164"
+      }
+    ],
+    "key_word_tweet_count": 26,
+    "tweet_count": 139,
+    "key_word_ratio": 0.18705035971223022,
+    "likes": 324,
+    "like_follower_ratio": 0.001806281846867439,
+    "twitterHandle": "PrimeDAO_",
+    "twitterURL": "https://twitter.com/PrimeDAO_",
+    "followerCount": "6899",
+    "category": "Product"
+  },
+  {
+    "id": "Radicle",
+    "framework": null,
+    "documentType": 1,
+    "name": "Radicle",
+    "cName": "radicle",
+    "totalProposals": 5,
+    "totalVotes": 76,
+    "uniqueVoters": 67,
+    "tokens": [
+      {
+        "symbol": "rad",
+        "network": "ethereum",
+        "contractAddress": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/14013/thumb/radicle.png?1614402918"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/14013/small/radicle.png?1614402918"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/14013/large/radicle.png?1614402918"
+      }
+    ],
+    "key_word_tweet_count": 17,
+    "tweet_count": 95,
+    "key_word_ratio": 0.17894736842105263,
+    "likes": 1822,
+    "like_follower_ratio": 0.003867371651868628,
+    "twitterHandle": "radicle",
+    "twitterURL": "https://twitter.com/radicle",
+    "followerCount": "27713",
+    "category": "Social"
+  },
+  {
+    "id": "Rally",
+    "framework": null,
+    "documentType": 1,
+    "name": "Rally",
+    "cName": "rally",
+    "totalProposals": 198,
+    "totalVotes": 2595,
+    "uniqueVoters": 477,
+    "tokens": [
+      {
+        "symbol": "rly",
+        "network": "ethereum",
+        "contractAddress": "0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/12843/thumb/image.png?1611212077"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12843/small/image.png?1611212077"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12843/large/image.png?1611212077"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": "rally_io",
+    "twitterURL": "https://twitter.com/rally_io",
+    "followerCount": "35959.0",
+    "category": "Product"
+  },
+  {
+    "id": "RariCapital",
+    "framework": null,
+    "documentType": 1,
+    "name": "RariCapital",
+    "cName": "rari",
+    "totalProposals": 143,
+    "totalVotes": 4344,
+    "uniqueVoters": 1068,
+    "tokens": [
+      {
+        "symbol": "rgt",
+        "network": "ethereum",
+        "contractAddress": "0xd291e7a03283640fdc51b121ac401383a46cc623"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/12900/large/Rari_Logo_Transparent.png?1613978014"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12900/thumb/Rari_Logo_Transparent.png?1613978014"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12900/small/Rari_Logo_Transparent.png?1613978014"
+      }
+    ],
+    "key_word_tweet_count": 36,
+    "tweet_count": 95,
+    "key_word_ratio": 0.37894736842105264,
+    "likes": 771,
+    "like_follower_ratio": 0.00044188141759685286,
+    "twitterHandle": "RariCapital",
+    "twitterURL": "https://twitter.com/RariCapital",
+    "followerCount": "48467",
+    "category": "Protocol"
+  },
+  {
+    "id": "Rarible",
+    "framework": null,
+    "documentType": 1,
+    "name": "Rarible",
+    "cName": "rarible",
+    "totalProposals": 135,
+    "totalVotes": 7070,
+    "uniqueVoters": 2102,
+    "tokens": [
+      {
+        "symbol": "rari",
+        "network": "ethereum",
+        "contractAddress": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/11845/thumb/Rari.png?1594946953"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/11845/small/Rari.png?1594946953"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/11845/large/Rari.png?1594946953"
+      }
+    ],
+    "key_word_tweet_count": 28,
+    "tweet_count": 177,
+    "key_word_ratio": 0.15819209039548024,
+    "likes": 344,
+    "like_follower_ratio": 0.003928914066426059,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": "3127",
+    "category": null
+  },
+  {
+    "id": "REtoken DAO",
+    "framework": null,
+    "documentType": 1,
+    "name": "REtoken DAO",
+    "cName": "retoken",
+    "totalProposals": 37,
+    "totalVotes": 223,
+    "uniqueVoters": 17,
+    "tokens": null,
+    "icons": [
+      {
+        "url": "https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/retoken/logo.png"
+      }
+    ],
+    "key_word_tweet_count": 64,
+    "tweet_count": 167,
+    "key_word_ratio": 0.38323353293413176,
+    "likes": 148,
+    "like_follower_ratio": 0.007682724252491694,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": "301",
+    "category": "Protocol"
+  },
+  {
+    "id": "Screensaver",
+    "framework": null,
+    "documentType": 1,
+    "name": "Screensaver",
+    "cName": "screensaver",
+    "totalProposals": 13,
+    "totalVotes": 77,
+    "uniqueVoters": 39,
+    "tokens": null,
+    "icons": null,
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": null,
+    "category": "Product"
+  },
+  {
+    "id": "seen.haus",
+    "framework": null,
+    "documentType": 1,
+    "name": "seen.haus",
+    "cName": "seen",
+    "totalProposals": 7,
+    "totalVotes": 235,
+    "uniqueVoters": 134,
+    "tokens": [
+      {
+        "symbol": "seen",
+        "network": "ethereum",
+        "contractAddress": "0xca3fe04c7ee111f0bbb02c328c699226acf9fd33"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/13052/thumb/seen_logo.png?1604678509"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13052/small/seen_logo.png?1604678509"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13052/large/seen_logo.png?1604678509"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": "seen_haus",
+    "twitterURL": "https://twitter.com/seen_haus",
+    "followerCount": "7413.0",
+    "category": "Product"
+  },
+  {
+    "id": "ShapeShift",
+    "framework": null,
+    "documentType": 1,
+    "name": "ShapeShift",
+    "cName": "shapeshift",
+    "totalProposals": 54,
+    "totalVotes": 6862,
+    "uniqueVoters": 1169,
+    "tokens": [
+      {
+        "symbol": "fox",
+        "network": "ethereum",
+        "contractAddress": "0xc770eefad204b5180df6a14ee197d99d808ee52d"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/9988/thumb/FOX.png?1574330622"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/9988/small/FOX.png?1574330622"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/9988/large/FOX.png?1574330622"
+      }
+    ],
+    "key_word_tweet_count": 58,
+    "tweet_count": 163,
+    "key_word_ratio": 0.3558282208588957,
+    "likes": 3146,
+    "like_follower_ratio": 0.00048042035100921866,
+    "twitterHandle": "ShapeShift_io",
+    "twitterURL": "https://twitter.com/ShapeShift_io",
+    "followerCount": "112904",
+    "category": "Protocol"
+  },
+  {
+    "id": "Sushi",
+    "framework": null,
+    "documentType": 1,
+    "name": "Sushi",
+    "cName": "sushi",
+    "totalProposals": 268,
+    "totalVotes": 26106,
+    "uniqueVoters": 8325,
+    "tokens": [
+      {
+        "symbol": "sushi",
+        "network": "ethereum",
+        "contractAddress": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png?1606986688"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12271/thumb/512x512_Logo_no_chop.png?1606986688"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png?1606986688"
+      }
+    ],
+    "key_word_tweet_count": 14,
+    "tweet_count": 88,
+    "key_word_ratio": 0.1590909090909091,
+    "likes": 1402,
+    "like_follower_ratio": 0.0005050858033422126,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": "198269",
+    "category": "Protocol"
+  },
+  {
+    "id": "Synthetix",
+    "framework": null,
+    "documentType": 1,
+    "name": "Synthetix",
+    "cName": "synthetix",
+    "totalProposals": 259,
+    "totalVotes": 1714,
+    "uniqueVoters": 178,
+    "tokens": [
+      {
+        "symbol": "snx",
+        "network": "ethereum",
+        "contractAddress": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/3406/thumb/SNX.png?1598631139"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/3406/small/SNX.png?1598631139"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/3406/large/SNX.png?1598631139"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": "synthetix_io",
+    "twitterURL": "https://twitter.com/synthetix_io",
+    "followerCount": "188018.0",
+    "category": "Protocol"
+  },
+  {
+    "id": "TheGraphCouncil",
+    "framework": null,
+    "documentType": 1,
+    "name": "TheGraphCouncil",
+    "cName": "thegraphcouncil",
+    "totalProposals": 10,
+    "totalVotes": 65,
+    "uniqueVoters": 11,
+    "tokens": [
+      {
+        "symbol": "grt",
+        "network": "ethereum",
+        "contractAddress": "0xc944e90c64b2c07662a292be6244bdf05cda44a7"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/13397/large/Graph_Token.png?1608145566"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13397/small/Graph_Token.png?1608145566"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13397/thumb/Graph_Token.png?1608145566"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": null,
+    "category": "Grants"
+  },
+  {
+    "id": "The LAO",
+    "framework": "DAOHaus",
+    "documentType": 1,
+    "name": "The LAO",
+    "cName": "thelao",
+    "totalProposals": 168,
+    "totalVotes": 466,
+    "uniqueVoters": 42,
+    "tokens": null,
+    "icons": [
+      {
+        "url": "https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/thelao/logo.jpg"
+      }
+    ],
+    "key_word_tweet_count": 19,
+    "tweet_count": 120,
+    "key_word_ratio": 0.15833333333333333,
+    "likes": 1347,
+    "like_follower_ratio": 0.004935240991444849,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": "14365",
+    "category": "Ventures"
+  },
+  {
+    "id": "Token Engineering Commons",
+    "framework": null,
+    "documentType": 1,
+    "name": "Token Engineering Commons",
+    "cName": "token-engineering-commons",
+    "totalProposals": 18,
+    "totalVotes": 269,
+    "uniqueVoters": 108,
+    "tokens": null,
+    "icons": [
+      {
+        "url": "https://raw.githubusercontent.com/boardroom-inc/protocol-Info/main/protocols/tecommons/logo.png"
+      }
+    ],
+    "key_word_tweet_count": 51,
+    "tweet_count": 145,
+    "key_word_ratio": 0.35172413793103446,
+    "likes": 739,
+    "like_follower_ratio": 0.004404314917456344,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": "3290",
+    "category": "Social"
+  },
+  {
+    "id": "Tokenlon",
+    "framework": null,
+    "documentType": 1,
+    "name": "Tokenlon",
+    "cName": "tokenlon",
+    "totalProposals": 34,
+    "totalVotes": 1666,
+    "uniqueVoters": 1022,
+    "tokens": [
+      {
+        "symbol": "lon",
+        "network": "ethereum",
+        "contractAddress": "0x0000000000095413afc295d19edeb1ad7b71c952"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/13454/thumb/lon_logo.png?1608701720"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13454/small/lon_logo.png?1608701720"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13454/large/lon_logo.png?1608701720"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": "tokenlon",
+    "twitterURL": "https://twitter.com/tokenlon",
+    "followerCount": "10971.0",
+    "category": "Uncategorized"
+  },
+  {
+    "id": "Tornado Cash",
+    "framework": null,
+    "documentType": 1,
+    "name": "Tornado Cash",
+    "cName": "tornadocash",
+    "totalProposals": 10,
+    "totalVotes": 379,
+    "uniqueVoters": 255,
+    "tokens": [
+      {
+        "symbol": "torn",
+        "network": "ethereum",
+        "contractAddress": "0x77777feddddffc19ff86db637967013e6c6a116c"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/13496/small/ZINt8NSB_400x400.jpg?1609193407"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13496/large/ZINt8NSB_400x400.jpg?1609193407"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13496/thumb/ZINt8NSB_400x400.jpg?1609193407"
+      }
+    ],
+    "key_word_tweet_count": 14,
+    "tweet_count": 90,
+    "key_word_ratio": 0.15555555555555556,
+    "likes": 933,
+    "like_follower_ratio": 0.0017900310809255207,
+    "twitterHandle": "TornadoCash",
+    "twitterURL": "https://twitter.com/TornadoCash",
+    "followerCount": "37230",
+    "category": "Protocol"
+  },
+  {
+    "id": "TrueFi",
+    "framework": null,
+    "documentType": 1,
+    "name": "TrueFi",
+    "cName": "truefigov",
+    "totalProposals": 35,
+    "totalVotes": 447,
+    "uniqueVoters": 141,
+    "tokens": [
+      {
+        "symbol": "tru",
+        "network": "ethereum",
+        "contractAddress": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/13180/thumb/truefi_glyph_color.png?1617610941"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13180/small/truefi_glyph_color.png?1617610941"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13180/large/truefi_glyph_color.png?1617610941"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": "TrustToken",
+    "twitterURL": "https://twitter.com/TrustToken",
+    "followerCount": "37326.0",
+    "category": "Protocol"
+  },
+  {
+    "id": "UberHAUS",
+    "framework": null,
+    "documentType": 1,
+    "name": "UberHAUS",
+    "cName": "uberhaus",
+    "totalProposals": 0,
+    "totalVotes": 0,
+    "uniqueVoters": 0,
+    "tokens": null,
+    "icons": null,
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": null,
+    "category": "Uncategorized"
+  },
+  {
+    "id": "UltraDAO V2",
+    "framework": null,
+    "documentType": 1,
+    "name": "UltraDAO V2",
+    "cName": "ultradaov2",
+    "totalProposals": 1,
+    "totalVotes": 0,
+    "uniqueVoters": 0,
+    "tokens": null,
+    "icons": null,
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": null,
+    "category": "Uncategorized"
+  },
+  {
+    "id": "Uniswap",
+    "framework": "Governor Bravo",
+    "documentType": 1,
+    "name": "Uniswap",
+    "cName": "uniswap",
+    "totalProposals": 9,
+    "totalVotes": 1631,
+    "uniqueVoters": 1230,
+    "tokens": [
+      {
+        "symbol": "uni",
+        "network": "ethereum",
+        "contractAddress": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/12504/thumb/uniswap-uni.png?1600306604"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12504/small/uniswap-uni.png?1600306604"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png?1600306604"
+      }
+    ],
+    "key_word_tweet_count": 18,
+    "tweet_count": 140,
+    "key_word_ratio": 0.12857142857142856,
+    "likes": 9091,
+    "like_follower_ratio": 0.0005992391752001067,
+    "twitterHandle": "Uniswap",
+    "twitterURL": "https://twitter.com/Uniswap",
+    "followerCount": "842828",
+    "category": "Protocol"
+  },
+  {
+    "id": "Visor",
+    "framework": null,
+    "documentType": 1,
+    "name": "Visor",
+    "cName": "visor",
+    "totalProposals": 0,
+    "totalVotes": 0,
+    "uniqueVoters": 0,
+    "tokens": [
+      {
+        "symbol": "visr",
+        "network": "ethereum",
+        "contractAddress": "0xf938424f7210f31df2aee3011291b658f872e91e"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/14381/large/visor_logo.png?1615782828"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/14381/thumb/visor_logo.png?1615782828"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/14381/small/visor_logo.png?1615782828"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": "VisorFinance",
+    "twitterURL": "https://twitter.com/VisorFinance",
+    "followerCount": "169.0",
+    "category": "Uncategorized"
+  },
+  {
+    "id": "Vesper",
+    "framework": null,
+    "documentType": 1,
+    "name": "Vesper",
+    "cName": "vsp",
+    "totalProposals": 17,
+    "totalVotes": 1212,
+    "uniqueVoters": 470,
+    "tokens": [
+      {
+        "symbol": "vsp",
+        "network": "ethereum",
+        "contractAddress": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/13527/thumb/vesper_logo.jpg?1609399927"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13527/small/vesper_logo.jpg?1609399927"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/13527/large/vesper_logo.jpg?1609399927"
+      }
+    ],
+    "key_word_tweet_count": 14,
+    "tweet_count": 183,
+    "key_word_ratio": 0.07650273224043716,
+    "likes": 200,
+    "like_follower_ratio": 0.0007134652292720515,
+    "twitterHandle": "VesperFi",
+    "twitterURL": "https://twitter.com/VesperFi",
+    "followerCount": "20023",
+    "category": "Uncategorized"
+  },
+  {
+    "id": "WGMI",
+    "framework": null,
+    "documentType": 1,
+    "name": "WGMI",
+    "cName": "wgmi",
+    "totalProposals": 1,
+    "totalVotes": 1,
+    "uniqueVoters": 1,
+    "tokens": [
+      {
+        "symbol": "wgmi",
+        "network": "ethereum",
+        "contractAddress": "0x20f6a313cb250062331fe70b9567e3ee5f01888b"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/20330/small/0lXK3XOJ_400x400.jpg?1636925939"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/20330/large/0lXK3XOJ_400x400.jpg?1636925939"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/20330/thumb/0lXK3XOJ_400x400.jpg?1636925939"
+      }
+    ],
+    "key_word_tweet_count": 15,
+    "tweet_count": 144,
+    "key_word_ratio": 0.10416666666666667,
+    "likes": 308,
+    "like_follower_ratio": 0.004690117252931324,
+    "twitterHandle": "wgmi4thepeople",
+    "twitterURL": "https://twitter.com/wgmi4thepeople",
+    "followerCount": "4378",
+    "category": "Uncategorized"
+  },
+  {
+    "id": "Yam",
+    "framework": null,
+    "documentType": 1,
+    "name": "Yam",
+    "cName": "yam",
+    "totalProposals": 114,
+    "totalVotes": 13272,
+    "uniqueVoters": 3861,
+    "tokens": [
+      {
+        "symbol": "YAMv2",
+        "network": "ethereum",
+        "contractAddress": "0xaba8cac6866b83ae4eec97dd07ed254282f6ad8a"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/12179/thumb/YAM-v2.png?1597892396"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12179/small/YAM-v2.png?1597892396"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12179/large/YAM-v2.png?1597892396"
+      }
+    ],
+    "key_word_tweet_count": 38,
+    "tweet_count": 140,
+    "key_word_ratio": 0.2714285714285714,
+    "likes": 590,
+    "like_follower_ratio": 0.0006137854122973468,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": "25296",
+    "category": "Product"
+  },
+  {
+    "id": "Yearn",
+    "framework": null,
+    "documentType": 1,
+    "name": "Yearn",
+    "cName": "ybaby",
+    "totalProposals": 24,
+    "totalVotes": 6839,
+    "uniqueVoters": 4382,
+    "tokens": [
+      {
+        "symbol": "yfi",
+        "network": "ethereum",
+        "contractAddress": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/11849/thumb/yfi-192x192.png?1598325330"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/11849/small/yfi-192x192.png?1598325330"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/11849/large/yfi-192x192.png?1598325330"
+      }
+    ],
+    "key_word_tweet_count": 19,
+    "tweet_count": 130,
+    "key_word_ratio": 0.14615384615384616,
+    "likes": 2377,
+    "like_follower_ratio": 0.000684143752504018,
+    "twitterHandle": null,
+    "twitterURL": null,
+    "followerCount": "182864",
+    "category": null
+  },
+  {
+    "id": "yfBeta",
+    "framework": null,
+    "documentType": 1,
+    "name": "yfBeta",
+    "cName": "yfbeta",
+    "totalProposals": 14,
+    "totalVotes": 708,
+    "uniqueVoters": 324,
+    "tokens": [
+      {
+        "symbol": "yfbeta",
+        "network": "ethereum",
+        "contractAddress": "0x89ee58af4871b474c30001982c3d7439c933c838"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/12325/thumb/yfbeta_logo.jpg?1599096612"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12325/small/yfbeta_logo.jpg?1599096612"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12325/large/yfbeta_logo.jpg?1599096612"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": "yfBeta",
+    "twitterURL": "https://twitter.com/yfBeta",
+    "followerCount": "1630.0",
+    "category": "Protocol"
+  },
+  {
+    "id": "Yup",
+    "framework": null,
+    "documentType": 1,
+    "name": "Yup",
+    "cName": "yup",
+    "totalProposals": 14,
+    "totalVotes": 36,
+    "uniqueVoters": 27,
+    "tokens": [
+      {
+        "symbol": "yup",
+        "network": "ethereum",
+        "contractAddress": "0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9"
+      }
+    ],
+    "icons": [
+      {
+        "url": "https://assets.coingecko.com/coins/images/12322/thumb/photo_2021-10-26_00-47-35.jpg?1635227479"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12322/small/photo_2021-10-26_00-47-35.jpg?1635227479"
+      },
+      {
+        "url": "https://assets.coingecko.com/coins/images/12322/large/photo_2021-10-26_00-47-35.jpg?1635227479"
+      }
+    ],
+    "key_word_tweet_count": null,
+    "tweet_count": null,
+    "key_word_ratio": null,
+    "likes": null,
+    "like_follower_ratio": null,
+    "twitterHandle": "yup_io",
+    "twitterURL": "https://twitter.com/yup_io",
+    "followerCount": "6544.0",
+    "category": "Product"
+  }
+]
