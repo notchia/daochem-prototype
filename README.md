@@ -2,7 +2,7 @@
 **DAOchem** is a solution in which on- and off-chain governance data sources react to produce a holistic view of DAO governance. We integrate data on **smart contract parameters**, **voting activity**, **Twitter activity**, and **contributor sentiment** to help DAO creators and contributors understand the governance landscape.
 
 ## Overarching questions driving our work
-Are (on-chain) DAOs working right now? Are they achieving their stated goals, and are members enjoying the experience?
+Are (on-chain) DAOs working right now? Are they achieving their stated goals, and how do members feel about their experience in the DAO?
 - What governance systems are DAO members choosing to implement, with what "laws"?
 - In what ways are DAO members participating (in measureable ways)? Does DAO member activity relate to the chosen systems?
 - How satisfied are DAO members with their own experiences in the DAO and with the health/success of the DAO overall? How do these experiences relate to the chosen systems?
