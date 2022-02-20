@@ -94,6 +94,13 @@ def get_minimal_transaction_info(transaction):
     return t
 
 
+def get_minimal_trace_info(fullTrace):
+    trace = fullTrace.get('data', [])
+    contractsCreated = [t.get('result', {}).get('newContract') for t in trace if t.get('action', {}).get('callType') == "creation"]
+
+    return {'contractsCreated': contractsCreated}
+
+
 def chifra_list(address):
     """Retrieve a smart contract's ABI file
     https://trueblocks.io/docs/chifra/accounts/#chifra-abis
