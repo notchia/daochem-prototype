@@ -1,25 +1,9 @@
 ﻿@page "/findings"
 @inject IBackEndBoardRoomService _boardRoomService
 
-<div class="container">
-    @if (hasLoaded)
-    {
-    }
-    else
-    {
-        <p>
-            Loading...
-        </p>
-    }
+<Banner />
+
+<div>
+    <img src="Images/photo1.jpeg" width="500" height="600">
+    <img src="Images/photo1.jpeg" width="500" height="600">
 </div>
-
-@code {
-    private bool hasLoaded = false;
-    private List<Protocol> _protocols = new List<Protocol>();
-
-    protected override async Task OnInitializedAsync()
-    {
-        _protocols = await _boardRoomService.GetProtocols();
-        hasLoaded = true;
-    }
-}

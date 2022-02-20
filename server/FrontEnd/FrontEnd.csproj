@@ -16,9 +16,17 @@
   <ItemGroup>
     <Folder Include="Model\" />
     <Folder Include="Components\" />
+    <Folder Include="wwwroot\Images\" />
   </ItemGroup>
 
   <ItemGroup>
     <None Remove="Components\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\Images\" />
+    <Content Remove="wwwroot\Images\photo1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="wwwroot\Images\photo1.jpeg" />
   </ItemGroup>
 </Project>
