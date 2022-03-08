@@ -767,25 +767,7 @@
         "date": "2020-04-16 16:13:16 UTC",
         "contractAddress": "0x0"
     },
-    "41": {
-        "hash": "0xecb060bb9707a21b078cac317fb2fc5e74b1087013d53ad53d5f7c0287c7563c",
-        "blockNumber": 9884524,
-        "from": "0x6fc46b64e3de0a4962d15a75129f39a9068c6f10",
-        "to": "0xbc2a863ef2b96d454ac7790d5a9e8cffd8eccba8",
-        "articulatedTx": {
-            "name": "newTokenAndBaseInstance",
-            "inputs": {
-                "_financePeriod": "0",
-                "_holders": "[0x6fc46b64e3de0a4962d15a75129f39a9068c6f10]",
-                "_stakes": "[1000000000000000000]",
-                "_tokenName": "Guilder",
-                "_tokenSymbol": "GLD",
-                "_useAgentAsVault": "true"
-            }
-        },
-        "date": "2020-04-16 16:15:10 UTC",
-        "contractAddress": "0x0"
-    },
+    "41": {},
     "42": {
         "hash": "0x570d97057c56da0776fcbd5491b7de7cb48c1e5f3c4823da2719951557bbc4a4",
         "blockNumber": 9890861,
